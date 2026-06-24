@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>spool_pa6_gf cut — 279.4mm x 215.9mm — print at 100%</title>
+  <path d="M 31.5000 20.0000 H 57.5000 V 20.0000 A 9.5 9.5 0 0 1 57.5000 39.0000 V 39.0000 H 31.5000 V 39.0000 A 9.5 9.5 0 0 1 31.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <path d="M 79.5000 20.0000 H 105.5000 V 20.0000 A 9.5 9.5 0 0 1 105.5000 39.0000 V 39.0000 H 79.5000 V 39.0000 A 9.5 9.5 0 0 1 79.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <path d="M 127.5000 20.0000 H 153.5000 V 20.0000 A 9.5 9.5 0 0 1 153.5000 39.0000 V 39.0000 H 127.5000 V 39.0000 A 9.5 9.5 0 0 1 127.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <path d="M 175.5000 20.0000 H 201.5000 V 20.0000 A 9.5 9.5 0 0 1 201.5000 39.0000 V 39.0000 H 175.5000 V 39.0000 A 9.5 9.5 0 0 1 175.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <path d="M 223.5000 20.0000 H 249.5000 V 20.0000 A 9.5 9.5 0 0 1 249.5000 39.0000 V 39.0000 H 223.5000 V 39.0000 A 9.5 9.5 0 0 1 223.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

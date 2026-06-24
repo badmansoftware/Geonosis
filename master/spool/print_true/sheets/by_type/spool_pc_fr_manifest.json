@@ -1,0 +1,31 @@
+{
+  "run_id": "08ea180e98e7",
+  "built_utc": "20260613T065015Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pc_fr",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pc_fr__63100.svg",
+    "pc_fr__63101.svg",
+    "pc_fr__63102.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pc_fr_letter",
+      "labels": 3,
+      "print": "spool_pc_fr_letter_print.svg",
+      "cut": "spool_pc_fr_letter_cut.svg",
+      "print_sha256": "8ee8a20fe8728039ee06c357c3c0e008fa810733581c5501f62f4a8467b6a460",
+      "cut_sha256": "68266b05a9e4aa47d0a73efd9d6e41872bb9f97ccb6e77c172a7b0ac91cb9cbf",
+      "bambu_cut": "spool_pc_fr_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "cc17c39696fcf8b6f50c0a58bc9985fd42287cdef4ef5da541f3faddd4c4166b"
+    }
+  ],
+  "bambu": true
+}

@@ -1,0 +1,36 @@
+{
+  "run_id": "4493c46ec33b",
+  "built_utc": "20260613T065054Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pla_basic_gradient",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pla_basic_gradient__10900.svg",
+    "pla_basic_gradient__10901.svg",
+    "pla_basic_gradient__10902.svg",
+    "pla_basic_gradient__10903.svg",
+    "pla_basic_gradient__10904.svg",
+    "pla_basic_gradient__10905.svg",
+    "pla_basic_gradient__10906.svg",
+    "pla_basic_gradient__10907.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pla_basic_gradient_letter",
+      "labels": 8,
+      "print": "spool_pla_basic_gradient_letter_print.svg",
+      "cut": "spool_pla_basic_gradient_letter_cut.svg",
+      "print_sha256": "7d1906b00eab5344ac0213c824837260b69032392c1118a3733aa739e520b72c",
+      "cut_sha256": "5637d0a617c83181b3c6abcb12724b615c225f76beab23ebd5e49da0bc258319",
+      "bambu_cut": "spool_pla_basic_gradient_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "7d173bbb5acb6c17578bfe2ae7bd478599196896f4057cf3792ebf92a51cd44a"
+    }
+  ],
+  "bambu": true
+}

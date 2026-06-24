@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="115mm" height="55mm" viewBox="0.0 0.0 115.0 55.0">
+  <title>drawer_materials__yd006 — 115mm x 55mm — print at 100%</title><!-- SUPPLIES_LABEL shape="capsule" title="Rectangular Patch PU Iron-on" name="76x50" material_type_display="Rectangular Patch PU Iron-on" -->
+  <rect x="0.00" y="0.00" width="115.00" height="55.00" rx="0.52" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="52.05" width="77.80" height="0.95" rx="0.36" fill="#B58A2A" opacity="0.95"/>
+  <rect x="84.00" y="3.00" width="28.00" height="36.40" rx="0.52" fill="#B58A2A" stroke="#B58A2A" stroke-width="0.20"/>
+  <rect x="84.62" y="3.62" width="26.76" height="35.16" rx="0.35" fill="none" stroke="#FFF7E2" stroke-width="0.20" stroke-linecap="round" stroke-dasharray="0.58 0.44" opacity="0.96"/>
+  <rect x="84.62" y="3.62" width="26.76" height="35.16" rx="0.35" fill="none" stroke="#5A472A" stroke-width="0.08" stroke-linecap="round" stroke-dasharray="0.58 0.44" opacity="0.55"/>
+  <text x="3.20" y="18.70" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Rectangular Patch</text>
+  <text x="3.20" y="35.10" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">PU Iron-on</text>
+  <text x="3.20" y="51.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">76x50</text>
+</svg>

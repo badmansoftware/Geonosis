@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>print_sheet — 279.4mm x 215.9mm — print at 100%</title><rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <g id="sheet-cell-001-1" data-object-id="box_materials__yg001" data-filename="box_materials__yg001.svg">
+    <g transform="translate(22,22)"><!-- SUPPLIES_LABEL shape="envelope" title="Black Vinyl" name="300x300" material_type_display="Black Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#202124" stroke="#202124" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Black Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-2" data-object-id="box_materials__yg018" data-filename="box_materials__yg018.svg">
+    <g transform="translate(96,22)"><!-- SUPPLIES_LABEL shape="envelope" title="Carbon Fiber Textured Removable Vinyl" name="" material_type_display="Carbon Fiber Textured Removable Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <defs>
+    <pattern id="cf_weave_yg018" width="1.60" height="1.60" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="1.60" height="1.60" fill="#161616"/>
+      <rect x="0.00" y="0.00" width="0.80" height="0.80" fill="#3A3A3A"/>
+      <rect x="0.80" y="0.80" width="0.80" height="0.80" fill="#3A3A3A"/>
+      <rect x="0.00" y="0.78" width="1.60" height="0.06" fill="#0D0D0D"/>
+      <rect x="0.78" y="0.00" width="0.06" height="1.60" fill="#0D0D0D"/>
+    </pattern>
+  </defs>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#1A1A1A" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#cf_weave_yg018)" stroke="#111111" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Carbon Fiber Textured</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Removable Vinyl</text>
+</g></g>
+  <g id="sheet-cell-001-3" data-object-id="box_materials__yg006" data-filename="box_materials__yg006.svg">
+    <g transform="translate(170,22)"><!-- SUPPLIES_LABEL shape="envelope" title="Champagne Gold Vinyl" name="300x300" material_type_display="Champagne Gold Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#B58A2A" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#B58A2A" stroke="#B58A2A" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Champagne Gold</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-4" data-object-id="box_materials__yg015" data-filename="box_materials__yg015.svg">
+    <g transform="translate(22,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Green Matte Removable Vinyl" name="" material_type_display="Green Matte Removable Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#2E7D32" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#2E7D32" stroke="#2E7D32" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Green Matte</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Removable Vinyl</text>
+</g></g>
+  <g id="sheet-cell-001-5" data-object-id="box_materials__yg005" data-filename="box_materials__yg005.svg">
+    <g transform="translate(96,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Lemon Yellow Vinyl" name="300x300" material_type_display="Lemon Yellow Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#F9A825" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#F9A825" stroke="#F9A825" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Lemon Yellow</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-6" data-object-id="box_materials__yz002" data-filename="box_materials__yz002.svg">
+    <g transform="translate(170,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Light Gray Reflective Decal Sheet" name="" material_type_display="Light Gray Reflective Decal Sheet" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#757575" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#757575" stroke="#757575" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Light Gray</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Reflective Decal Sheet</text>
+</g></g>
+  <g id="sheet-cell-001-7" data-object-id="box_materials__yg009" data-filename="box_materials__yg009.svg">
+    <g transform="translate(22,100)"><!-- SUPPLIES_LABEL shape="envelope" title="Light Gray Vinyl" name="300x300" material_type_display="Light Gray Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#757575" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#757575" stroke="#757575" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Light Gray Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-8" data-object-id="box_materials__yg007" data-filename="box_materials__yg007.svg">
+    <g transform="translate(96,100)"><!-- SUPPLIES_LABEL shape="envelope" title="Neon Green Vinyl" name="300x300" material_type_display="Neon Green Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#2E7D32" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#2E7D32" stroke="#2E7D32" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Neon Green Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-9" data-object-id="box_materials__yg004" data-filename="box_materials__yg004.svg">
+    <g transform="translate(170,100)"><!-- SUPPLIES_LABEL shape="envelope" title="Neon Orange Vinyl" name="300x300" material_type_display="Neon Orange Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#EF6C00" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#EF6C00" stroke="#EF6C00" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Neon Orange</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-10" data-object-id="box_materials__yg003" data-filename="box_materials__yg003.svg">
+    <g transform="translate(22,139)"><!-- SUPPLIES_LABEL shape="envelope" title="Neon Pink Vinyl" name="300x300" material_type_display="Neon Pink Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#D81B60" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#D81B60" stroke="#D81B60" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Neon Pink Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-11" data-object-id="box_materials__yg002" data-filename="box_materials__yg002.svg">
+    <g transform="translate(96,139)"><!-- SUPPLIES_LABEL shape="envelope" title="Red Vinyl" name="300x300" material_type_display="Red Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#C62828" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#C62828" stroke="#C62828" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Red Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <g id="sheet-cell-001-12" data-object-id="box_materials__yg008" data-filename="box_materials__yg008.svg">
+    <g transform="translate(170,139)"><!-- SUPPLIES_LABEL shape="envelope" title="Royal Blue Vinyl" name="300x300" material_type_display="Royal Blue Vinyl" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#1565C0" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#1565C0" stroke="#1565C0" stroke-width="0.20"/>
+  <text x="3.20" y="14.59" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Royal Blue Vinyl</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300</text>
+</g></g>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

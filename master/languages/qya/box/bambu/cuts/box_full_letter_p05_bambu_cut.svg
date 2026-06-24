@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="285mm" viewBox="0 0 300 285">
+  <title>box_full bambu cut — 300mm x 285mm</title>
+  <rect x="22.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="48.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="74.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="100.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="126.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="152.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="178.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="204.0000" y="22.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="22.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="48.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="74.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="100.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="126.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="152.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="178.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="204.0000" y="48.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="22.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="48.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="74.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="100.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="126.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="152.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="178.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="204.0000" y="74.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="22.0000" y="100.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <rect x="48.0000" y="100.0000" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="285.00" y1="12.00" x2="285.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="282.00" y1="15.00" x2="288.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="267.00" x2="15.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="270.00" x2="18.00" y2="270.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="285.00" y1="267.00" x2="285.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="282.00" y1="270.00" x2="288.00" y2="270.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

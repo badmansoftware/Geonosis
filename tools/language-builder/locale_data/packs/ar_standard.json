@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "ar_standard",
+      "language": "ar",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "أزور",
+            "bambu_green": "Bambu أخضر",
+            "black": "أسود",
+            "blue": "أزرق",
+            "navy_blue": "الأزرق الداكن",
+            "olive": "زيتوني",
+            "orange": "برتقالي",
+            "red": "أحمر",
+            "silver": "فضي",
+            "tangerine_yellow": "اليوسفي الأصفر",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "gray": "رمادي",
+            "orange": "برتقالي",
+            "red": "أحمر",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "gray": "رمادي",
+            "green": "أخضر",
+            "red": "أحمر",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "gray": "رمادي",
+            "orange": "برتقالي",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "أسود",
+            "clear_black": "أسود واضح",
+            "transparent": "شفاف",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "أسود",
+            "gray": "رمادي",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG أساسي",
+          "short_text": "PETG أساسي",
+          "color_text_map": {
+            "black": "أسود",
+            "dark_brown": "بني غامق",
+            "gray": "رمادي",
+            "red": "أحمر",
+            "reflex_blue": "منعكس الأزرق",
+            "white": "أبيض",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "cream": "كريم",
+            "dark_gray": "رمادي غامق",
+            "forest_green": "الغابة الخضراء",
+            "gray": "رمادي",
+            "green": "أخضر",
+            "lake_blue": "البحيرة الزرقاء",
+            "lime_green": "الجير الأخضر",
+            "orange": "برتقالي",
+            "peanut_brown": "الفول السوداني براون",
+            "red": "أحمر",
+            "white": "أبيض",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG شفاف",
+          "short_text": "PETG شفاف",
+          "color_text_map": {
+            "clear": "صافٍ",
+            "translucent_brown": "بني شفاف",
+            "translucent_gray": "رمادي شفاف",
+            "translucent_light_blue": "أزرق فاتح شفاف",
+            "translucent_olive": "الزيتون الشفاف",
+            "translucent_orange": "برتقالي شفاف",
+            "translucent_pink": "وردي شفاف",
+            "translucent_purple": "الأرجواني الشفاف",
+            "translucent_teal": "البط البري الشفاف"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA ايرو",
+          "short_text": "PLA ايرو",
+          "color_text_map": {
+            "gray": "رمادي",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA أساسي",
+          "short_text": "PLA أساسي",
+          "color_text_map": {
+            "bambu_green": "Bambu أخضر",
+            "beige": "بيج",
+            "black": "أسود",
+            "blue": "أزرق",
+            "blue_grey": "أزرق رمادي",
+            "bright_green": "أخضر ساطع",
+            "bronze": "برونزي",
+            "brown": "بني",
+            "cobalt_blue": "الكوبالت الأزرق",
+            "cocoa_brown": "الكاكاو البني",
+            "cyan": "سماوي",
+            "dark_gray": "رمادي غامق",
+            "gold": "ذهبي",
+            "gray": "رمادي",
+            "hot_pink": "الوردي الساخن",
+            "indigo_purple": "الأرجواني النيلي",
+            "jade_white": "اليشم الأبيض",
+            "light_gray": "رمادي فاتح",
+            "magenta": "أرجواني",
+            "maroon_red": "أحمر كستنائي",
+            "mistletoe_green": "الهدال الأخضر",
+            "orange": "برتقالي",
+            "pink": "وردي",
+            "pumpkin_orange": "اليقطين البرتقالي",
+            "purple": "بنفسجي",
+            "red": "أحمر",
+            "silver": "فضي",
+            "sunflower_yellow": "عباد الشمس الأصفر",
+            "turquoise": "الفيروز",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA التدرج الأساسي",
+          "short_text": "PLA التدرج الأساسي",
+          "color_text_map": {
+            "arctic_whisper": "القطب الشمالي الهمس",
+            "blueberry_bubblegum": "عنبية الزاهي",
+            "cotton_candy_cloud": "سحابة حلوى القطن",
+            "dusk_glare": "وهج الغسق",
+            "mint_lime": "النعناع الجير",
+            "ocean_to_meadow": "المحيط إلى المرج",
+            "pink_citrus": "الحمضيات الوردية",
+            "solar_breeze": "نسيم الشمس"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "أسود",
+            "burgundy_red": "أحمر بورجوندي",
+            "iris_purple": "القزحية الأرجواني",
+            "jeans_blue": "الجينز الأزرق",
+            "lava_gray": "لافا جراي",
+            "matcha_green": "ماتشا جرين",
+            "royal_blue": "الأزرق الملكي"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA المجرة",
+          "short_text": "PLA المجرة",
+          "color_text_map": {
+            "brown": "بني",
+            "green": "أخضر",
+            "nebulae": "السدم",
+            "purple": "بنفسجي"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA الوهج",
+          "short_text": "PLA الوهج",
+          "color_text_map": {
+            "glow_blue": "توهج الأزرق",
+            "glow_green": "توهج الأخضر",
+            "glow_orange": "توهج البرتقال",
+            "glow_pink": "توهج الوردي",
+            "glow_yellow": "توهج الأصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA رخام",
+          "short_text": "PLA رخام",
+          "color_text_map": {
+            "red_granite": "الجرانيت الأحمر",
+            "white_marble": "الرخام الأبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA مطفي",
+          "short_text": "PLA مطفي",
+          "color_text_map": {
+            "matte_apple_green": "ماتي التفاح الأخضر",
+            "matte_ash_gray": "ماتي الرماد الرمادي",
+            "matte_bone_white": "ماتي العظام البيضاء",
+            "matte_caramel": "ماتي كراميل",
+            "matte_charcoal": "ماتي الفحم",
+            "matte_dark_blue": "ماتي الأزرق الداكن",
+            "matte_dark_brown": "ماتي بني داكن",
+            "matte_dark_chocolate": "ماتي الشوكولاته الداكنة",
+            "matte_dark_green": "ماتي الأخضر الداكن",
+            "matte_dark_red": "ماتي الأحمر الداكن",
+            "matte_desert_tan": "ماتي الصحراء تان",
+            "matte_grass_green": "ماتي العشب الأخضر",
+            "matte_ice_blue": "ماتي الجليد الأزرق",
+            "matte_ivory_white": "ماتي العاج الأبيض",
+            "matte_latte_brown": "ماتي لاتيه براون",
+            "matte_lemon_yellow": "أصفر ليموني غير لامع",
+            "matte_lilac_purple": "ماتي أرجواني أرجواني",
+            "matte_mandarin_orange": "ماتي الماندرين البرتقالي",
+            "matte_marine_blue": "ماتي البحرية الزرقاء",
+            "matte_nardo_gray": "ماتي ناردو جراي",
+            "matte_plum": "ماتي بلوم",
+            "matte_sakura_pink": "ماتي ساكورا الوردي",
+            "matte_scarlet_red": "ماتي القرمزي الأحمر",
+            "matte_sky_blue": "ماتي السماء الزرقاء",
+            "matte_terracotta": "ماتي تيراكوتا"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA معدني",
+          "short_text": "PLA معدني",
+          "color_text_map": {
+            "cobalt_blue_metallic": "أزرق كوبالت معدني",
+            "copper_brown_metallic": "بني نحاسي معدني",
+            "iridium_gold_metallic": "إيريديوم جولد ميتاليك",
+            "iron_gray_metallic": "رمادي حديدي معدني",
+            "oxide_green_metallic": "أكسيد أخضر معدني"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA الحرير+",
+          "short_text": "PLA الحرير+",
+          "color_text_map": {
+            "baby_blue": "بيبي بلو",
+            "blue": "أزرق",
+            "candy_green": "كاندي جرين",
+            "candy_red": "كاندي ريد",
+            "champagne": "الشمبانيا",
+            "gold": "ذهبي",
+            "mint": "نعناع",
+            "pink": "وردي",
+            "purple": "بنفسجي",
+            "rose_gold": "روز جولد",
+            "silver": "فضي",
+            "titan_gray": "تيتان جراي",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA حرير متعدد الألوان",
+          "short_text": "PLA حرير متعدد الألوان",
+          "color_text_map": {
+            "aurora_purple": "أورورا الأرجواني",
+            "blue_hawaii": "هاواي الزرقاء",
+            "dawn_radiance": "إشعاع الفجر",
+            "gilded_rose": "الوردة المذهبة",
+            "midnight_blaze": "منتصف الليل الحريق",
+            "mystic_magenta": "أرجواني غامض",
+            "neon_city": "مدينة النيون",
+            "phantom_blue": "فانتوم بلو",
+            "south_beach": "الشاطئ الجنوبي",
+            "velvet_eclipse": "الكسوف المخملي"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA تألق",
+          "short_text": "PLA تألق",
+          "color_text_map": {
+            "alpine_green_sparkle": "جبال الألب الخضراء البريق",
+            "classic_gold_sparkle": "بريق الذهب الكلاسيكي",
+            "crimson_red_sparkle": "قرمزي أحمر البريق",
+            "onyx_black_sparkle": "أونيكس بلاك سباركل",
+            "royal_purple_sparkle": "رويال بيربل سباركل",
+            "slate_gray_sparkle": "سليت غراي سباركل"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA صعبة +",
+          "short_text": "PLA صعبة +",
+          "color_text_map": {
+            "black": "أسود",
+            "cyan": "سماوي",
+            "gray": "رمادي",
+            "orange": "برتقالي",
+            "silver": "فضي",
+            "white": "أبيض",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA شفاف",
+          "short_text": "PLA شفاف",
+          "color_text_map": {
+            "blue": "أزرق",
+            "cherry_pink": "الكرز الوردي",
+            "ice_blue": "الجليد الأزرق",
+            "lavender": "لافندر",
+            "light_jade": "اليشم الخفيف",
+            "mellow_yellow": "يانع الأصفر",
+            "orange": "برتقالي",
+            "purple": "بنفسجي",
+            "red": "أحمر",
+            "teal": "البط البري"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA خشب",
+          "short_text": "PLA خشب",
+          "color_text_map": {
+            "black_walnut": "الجوز الأسود",
+            "classic_birch": "البتولا الكلاسيكية",
+            "clay_brown": "كلاي براون",
+            "ochre_yellow": "مغرة صفراء",
+            "rosewood": "روزوود",
+            "white_oak": "البلوط الأبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "أسود"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "صافٍ"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "أخضر"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA (النسخة الجديدة)",
+          "short_text": "Support for PLA (النسخة الجديدة)",
+          "color_text_map": {
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "أسود",
+            "nature": "طبيعة"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "أسود",
+            "cyan": "سماوي",
+            "flesh": "لحم",
+            "green": "أخضر",
+            "orange": "برتقالي"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "أسود",
+            "blaze": "الحريق",
+            "cocoa_brown": "الكاكاو البني",
+            "cystal_blue": "الأزرق السيستال",
+            "frozen": "المجمدة",
+            "grape_jelly": "جيلي العنب",
+            "quicksilver": "الزئبق",
+            "white": "أبيض"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95أ HF",
+          "short_text": "TPU 95أ HF",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "gray": "رمادي",
+            "red": "أحمر",
+            "white": "أبيض",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU لـ AMS",
+          "short_text": "TPU لـ AMS",
+          "color_text_map": {
+            "black": "أسود",
+            "blue": "أزرق",
+            "gray": "رمادي",
+            "neon_green": "النيون الأخضر",
+            "red": "أحمر",
+            "white": "أبيض",
+            "yellow": "أصفر"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "تسمية المربع 22 mm",
+          "short_text": "المربع 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "ملصق الحاوية 12",
+          "short_text": "الحاوية 12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "بناء تسمية اللوحة",
+          "short_text": "طبق"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "ملصق المستلزمات 36 mm",
+          "short_text": "الإمدادات 36"
+        }
+      ]
+    }
+  ]
+}

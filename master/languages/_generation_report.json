@@ -1,0 +1,35 @@
+{
+  "langs": {
+    "qya": {
+      "pack": "elvish_pack",
+      "label": "Elvish (Gray Dialect)",
+      "families": {
+        "spool": {
+          "generated": 249,
+          "passed": 249,
+          "changed": 249,
+          "unmatched_files": 0,
+          "gate_failures": []
+        },
+        "box": {
+          "generated": 244,
+          "passed": 244,
+          "changed": 244,
+          "unmatched_files": 0,
+          "gate_failures": []
+        }
+      },
+      "gap_terms": 56,
+      "unique_gaps": 28,
+      "unmatched_nodes": 0,
+      "overflow_flags": 20
+    }
+  },
+  "families_covered": [
+    "spool",
+    "box"
+  ],
+  "families_uncovered": [
+    "materials"
+  ]
+}

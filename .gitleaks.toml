@@ -1,0 +1,19 @@
+# Smith Maker — gitleaks configuration
+# Auto-loaded by `gitleaks detect` when run from the repo root.
+
+# Start from gitleaks' built-in rule set, then add allowlists below.
+[extend]
+useDefault = true
+
+# The language packs store a linguistic identifier per entry, e.g.
+#   "semantic_key": "filament.pa6_cf"
+# gitleaks' generic-api-key rule flags these purely for high entropy. They are
+# data keys, not secrets. Allowlist any finding on a line that carries that key.
+# This is line-based (not a per-commit fingerprint), so it keeps working as
+# contributors add/edit packs and line numbers shift.
+[[allowlists]]
+description = "Language-pack semantic_key values are data identifiers, not secrets"
+regexTarget = "line"
+regexes = [
+  '''"semantic_key"\s*:''',
+]

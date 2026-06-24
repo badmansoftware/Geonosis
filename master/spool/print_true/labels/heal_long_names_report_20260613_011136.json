@@ -1,0 +1,178 @@
+{
+  "timestamp": "20260613_011136",
+  "directory": "master/spool/print_true/labels",
+  "dry_run": false,
+  "x_value": "12.50",
+  "text_anchor": "start",
+  "text_length": "23.00",
+  "length_adjust": "spacingAndGlyphs",
+  "font_size": "0.90mm",
+  "files_scanned": 244,
+  "files_changed": 39,
+  "total_patched_nodes": 39,
+  "name_counts": {
+    "Alpine Green Sparkle": 1,
+    "Blueberry Bubblegum": 1,
+    "Classic Gold Sparkle": 1,
+    "Cobalt Blue Metallic": 1,
+    "Copper Brown Metallic": 1,
+    "Cotton Candy Cloud": 1,
+    "Crimson Red Sparkle": 1,
+    "Dawn Radiance": 1,
+    "Iridium Gold Metallic": 1,
+    "Iron Gray Metallic": 1,
+    "Matte Apple Green": 1,
+    "Matte Ash Gray": 1,
+    "Matte Bone White": 1,
+    "Matte Charcoal": 1,
+    "Matte Dark Brown": 1,
+    "Matte Dark Chocolate": 1,
+    "Matte Dark Green": 1,
+    "Matte Dark Red": 1,
+    "Matte Grass Green": 1,
+    "Matte Latte Brown": 1,
+    "Matte Lemon Yellow": 1,
+    "Matte Lilac Purple": 1,
+    "Matte Mandarin Orange": 1,
+    "Matte Marine Blue": 1,
+    "Matte Nardo Gray": 1,
+    "Matte Sakura Pink": 1,
+    "Matte Scarlet Red": 1,
+    "Mystic Magenta": 1,
+    "Ocean to Meadow": 1,
+    "Onyx Black Sparkle": 1,
+    "Oxide Green Metallic": 1,
+    "Pumpkin Orange": 1,
+    "Royal Purple Sparkle": 1,
+    "Slate Gray Sparkle": 1,
+    "Translucent Brown": 1,
+    "Translucent Light Blue": 1,
+    "Translucent Olive": 1,
+    "Translucent Orange": 1,
+    "Translucent Purple": 1
+  },
+  "missing_target_names": [
+    "Copper Brown Metal",
+    "ranslucent Light Blue",
+    "xOnyx Black Sparkl"
+  ],
+  "changed_files": {
+    "petg_translucent__32300.svg": [
+      "Translucent Orange"
+    ],
+    "petg_translucent__32500.svg": [
+      "Translucent Olive"
+    ],
+    "petg_translucent__32600.svg": [
+      "Translucent Light Blue"
+    ],
+    "petg_translucent__32700.svg": [
+      "Translucent Purple"
+    ],
+    "petg_translucent__32800.svg": [
+      "Translucent Brown"
+    ],
+    "pla_basic__10301.svg": [
+      "Pumpkin Orange"
+    ],
+    "pla_basic_gradient__10902.svg": [
+      "Ocean to Meadow"
+    ],
+    "pla_basic_gradient__10905.svg": [
+      "Blueberry Bubblegum"
+    ],
+    "pla_basic_gradient__10907.svg": [
+      "Cotton Candy Cloud"
+    ],
+    "pla_matte__11101.svg": [
+      "Matte Charcoal"
+    ],
+    "pla_matte__11102.svg": [
+      "Matte Ash Gray"
+    ],
+    "pla_matte__11103.svg": [
+      "Matte Bone White"
+    ],
+    "pla_matte__11104.svg": [
+      "Matte Nardo Gray"
+    ],
+    "pla_matte__11200.svg": [
+      "Matte Scarlet Red"
+    ],
+    "pla_matte__11201.svg": [
+      "Matte Sakura Pink"
+    ],
+    "pla_matte__11202.svg": [
+      "Matte Dark Red"
+    ],
+    "pla_matte__11300.svg": [
+      "Matte Mandarin Orange"
+    ],
+    "pla_matte__11400.svg": [
+      "Matte Lemon Yellow"
+    ],
+    "pla_matte__11500.svg": [
+      "Matte Grass Green"
+    ],
+    "pla_matte__11501.svg": [
+      "Matte Dark Green"
+    ],
+    "pla_matte__11502.svg": [
+      "Matte Apple Green"
+    ],
+    "pla_matte__11600.svg": [
+      "Matte Marine Blue"
+    ],
+    "pla_matte__11700.svg": [
+      "Matte Lilac Purple"
+    ],
+    "pla_matte__11800.svg": [
+      "Matte Latte Brown"
+    ],
+    "pla_matte__11801.svg": [
+      "Matte Dark Brown"
+    ],
+    "pla_matte__11802.svg": [
+      "Matte Dark Chocolate"
+    ],
+    "pla_metal__13100.svg": [
+      "Iron Gray Metallic"
+    ],
+    "pla_metal__13400.svg": [
+      "Iridium Gold Metallic"
+    ],
+    "pla_metal__13500.svg": [
+      "Oxide Green Metallic"
+    ],
+    "pla_metal__13600.svg": [
+      "Cobalt Blue Metallic"
+    ],
+    "pla_metal__13800.svg": [
+      "Copper Brown Metallic"
+    ],
+    "pla_silk_multi_color__13912.svg": [
+      "Dawn Radiance"
+    ],
+    "pla_silk_multi_color__13913.svg": [
+      "Mystic Magenta"
+    ],
+    "pla_sparkle__13101.svg": [
+      "Onyx Black Sparkle"
+    ],
+    "pla_sparkle__13102.svg": [
+      "Slate Gray Sparkle"
+    ],
+    "pla_sparkle__13200.svg": [
+      "Crimson Red Sparkle"
+    ],
+    "pla_sparkle__13402.svg": [
+      "Classic Gold Sparkle"
+    ],
+    "pla_sparkle__13501.svg": [
+      "Alpine Green Sparkle"
+    ],
+    "pla_sparkle__13700.svg": [
+      "Royal Purple Sparkle"
+    ]
+  }
+}

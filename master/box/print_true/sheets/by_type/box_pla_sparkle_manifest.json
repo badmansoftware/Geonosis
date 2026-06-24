@@ -1,0 +1,34 @@
+{
+  "run_id": "bddd81c71a95",
+  "built_utc": "20260613T065017Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_sparkle",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_sparkle__13101.svg",
+    "pla_sparkle__13102.svg",
+    "pla_sparkle__13200.svg",
+    "pla_sparkle__13402.svg",
+    "pla_sparkle__13501.svg",
+    "pla_sparkle__13700.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_sparkle_letter",
+      "labels": 6,
+      "print": "box_pla_sparkle_letter_print.svg",
+      "cut": "box_pla_sparkle_letter_cut.svg",
+      "print_sha256": "c53dea9f59a7063b1bd10a5f569cf3dbd82825477a3130b90848b3a33d334ccf",
+      "cut_sha256": "40cf44ce2de701fb33e0e9273f97c59d493b39388a8f0dc0edced9912256c827",
+      "bambu_cut": "box_pla_sparkle_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "17d5d0bead86e342d9bfbaf1dbc809295bff9e707be74b9b4020f90fb507258d"
+    }
+  ],
+  "bambu": true
+}

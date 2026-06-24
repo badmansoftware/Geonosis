@@ -1,0 +1,30 @@
+{
+  "run_id": "c5c93b2e450b",
+  "built_utc": "20260613T065054Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pla_aero",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pla_aero__14102.svg",
+    "pla_aero__14104.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pla_aero_letter",
+      "labels": 2,
+      "print": "spool_pla_aero_letter_print.svg",
+      "cut": "spool_pla_aero_letter_cut.svg",
+      "print_sha256": "bec9de426b8c4964bfe3607ff9931a95d97661bc69d2e6e8247c3292aaf68708",
+      "cut_sha256": "41879db98d43fb1821421ab95a91257e6d84b8596a44a171d9a00a2b464f990e",
+      "bambu_cut": "spool_pla_aero_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "da397891c5394573a5283ba7f40c128d14582e2b4d58cf155c638052e8131003"
+    }
+  ],
+  "bambu": true
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="20mm" viewBox="0.0 0.0 70.0 20.0">
+  <title>metal_materials__yc004 — 70mm x 20mm — print at 100%</title><!-- SUPPLIES_LABEL shape="capsule" title="Black Aluminum" name="86x54 .2mm Al Card Stock" material_type_display="Black Aluminum" -->
+  <rect x="0.00" y="0.00" width="70.00" height="20.00" rx="0.52" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.80" y="17.05" width="19.10" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <rect x="25.90" y="3.00" width="18.20" height="14.00" rx="0.52" fill="#202124" stroke="#202124" stroke-width="0.20"/>
+  <defs>
+    <linearGradient id="office_card_gloss_base_0_0_7000_2000" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.36"/>
+      <stop offset="46%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+    </linearGradient>
+    <linearGradient id="office_card_gloss_sweep_0_0_7000_2000" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="42%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="62%" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+  </defs>
+  <rect x="25.90" y="3.00" width="18.20" height="14.00" rx="0.52" fill="url(#office_card_gloss_base_0_0_7000_2000)"/>
+  <rect x="25.90" y="3.00" width="18.20" height="14.00" rx="0.52" fill="url(#office_card_gloss_sweep_0_0_7000_2000)"/>
+  <text x="3.80" y="4.75" font-family="Arial, Helvetica, sans-serif" font-size="1.25mm" font-weight="700" fill="#111111">Black Aluminum</text>
+  <text x="3.80" y="16.50" font-family="Arial, Helvetica, sans-serif" font-size="0.80mm" fill="#111111">86x54 .2mm Al Card Stock</text>
+</svg>

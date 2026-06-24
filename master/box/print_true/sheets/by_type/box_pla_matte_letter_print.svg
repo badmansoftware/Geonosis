@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>box_pla_matte — 279.4mm x 215.9mm — print at 100%</title>
+  <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <g transform="translate(22,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901626647-FF653915">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_ivory_white">Matte Ivory White</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901626647-FF653915)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901624466-ECBD1342">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#000000" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_charcoal">Matte Charcoal</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901624466-ECBD1342)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(74,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901623724-3C5A4C55">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#9B9EA0" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_ash_gray">Matte Ash Gray</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901623724-3C5A4C55)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(100,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901623974-9CD68ED2">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#CBC6B8" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_bone_white">Matte Bone White</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901623974-9CD68ED2)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(126,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901628210-2F626FE0">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#757575" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_nardo_gray">Matte Nardo Gray</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901628210-2F626FE0)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(152,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901628921-E884B7EC">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#DE4343" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_scarlet_red">Matte Scarlet Red</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901628921-E884B7EC)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(178,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901628684-A25F92D9">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#E8AFCF" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_sakura_pink">Matte Sakura Pink</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901628684-A25F92D9)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(204,22)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901625662-82AF37B8">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#BB3D43" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_dark_red">Matte Dark Red</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901625662-82AF37B8)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(22,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901629504-CD1E5CD8">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#B15533" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_terracotta">Matte Terracotta</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901629504-CD1E5CD8)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901628447-21F2FB1F">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#950051" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_plum">Matte Plum</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901628447-21F2FB1F)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(74,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901627707-B7A2FB66">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#F99963" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_mandarin_orange">Matte Mandarin Orange</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901627707-B7A2FB66)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(100,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901627133-9A61F08A">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#F7D959" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_lemon_yellow">Matte Lemon Yellow</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901627133-9A61F08A)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(126,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901625914-B40E7778">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#E8DBB7" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_desert_tan">Matte Desert Tan</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901625914-B40E7778)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(152,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901626163-8501AE92">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#61C680" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_grass_green">Matte Grass Green</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901626163-8501AE92)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(178,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901625410-D042AAAD">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#68724D" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_dark_green">Matte Dark Green</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901625410-D042AAAD)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(204,48)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901623480-137DBE11">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#C2E189" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_apple_green">Matte Apple Green</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901623480-137DBE11)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(22,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901627949-5006CE77">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#0078BF" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_marine_blue">Matte Marine Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901627949-5006CE77)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901626412-85AE4F51">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#A3D8E1" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_ice_blue">Matte Ice Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901626412-85AE4F51)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(74,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901624702-9267073E">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#042F56" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_dark_blue">Matte Dark Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901624702-9267073E)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(100,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901629260-485B1938">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#56B7E6" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_sky_blue">Matte Sky Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901629260-485B1938)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(126,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901627366-4DC9619C">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#AE96D4" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_lilac_purple">Matte Lilac Purple</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901627366-4DC9619C)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(152,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901626891-9221256F">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#D3B7A7" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_latte_brown">Matte Latte Brown</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901626891-9221256F)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(178,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901624944-F3451A51">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#7D6556" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_dark_brown">Matte Dark Brown</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901624944-F3451A51)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(204,74)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901625194-D0FFA191">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#4D3324" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_dark_chocolate">Matte Dark Chocolate</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901625194-D0FFA191)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(22,100)"><defs>
+    <clipPath id="boxNozzleClip_BOX-20260526163901624219-524A8880">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#AE835B" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_matte">PLA Matte</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="matte_caramel">Matte Caramel</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901624219-524A8880)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FFE000" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

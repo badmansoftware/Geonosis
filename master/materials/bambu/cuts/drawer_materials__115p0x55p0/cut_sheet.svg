@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="285mm" viewBox="0 0 300 285">
+  <title>cut_sheet — 300mm x 285mm — print at 100%</title><g id="sheet-cell-001-1" data-object-id="drawer_materials__yd005" data-filename="drawer_materials__yd005.svg">
+    <rect x="22.00" y="22.00" width="115.00" height="55.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="21.50" y1="21.50" x2="23.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="21.50" x2="21.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="135.50" y1="21.50" x2="137.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="137.50" y1="21.50" x2="137.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="77.50" x2="23.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="75.50" x2="21.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="135.50" y1="77.50" x2="137.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="137.50" y1="75.50" x2="137.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-2" data-object-id="drawer_materials__yd006" data-filename="drawer_materials__yd006.svg">
+    <rect x="141.00" y="22.00" width="115.00" height="55.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="140.50" y1="21.50" x2="142.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="140.50" y1="21.50" x2="140.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="254.50" y1="21.50" x2="256.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="256.50" y1="21.50" x2="256.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="140.50" y1="77.50" x2="142.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="140.50" y1="75.50" x2="140.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="254.50" y1="77.50" x2="256.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+    <line x1="256.50" y1="75.50" x2="256.50" y2="77.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <line x1="12.00" y1="7.00" x2="12.00" y2="17.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="7.00" y1="12.00" x2="17.00" y2="12.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="288.00" y1="7.00" x2="288.00" y2="17.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="283.00" y1="12.00" x2="293.00" y2="12.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="12.00" y1="268.00" x2="12.00" y2="278.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="7.00" y1="273.00" x2="17.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="288.00" y1="268.00" x2="288.00" y2="278.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="283.00" y1="273.00" x2="293.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/></svg>

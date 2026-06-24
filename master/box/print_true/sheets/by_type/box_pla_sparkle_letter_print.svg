@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>box_pla_sparkle — 279.4mm x 215.9mm — print at 100%</title>
+  <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <g transform="translate(22,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901637838-0E639286" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901637838-0E639286" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901637838-0E639286">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901637838-0E639286">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#2D2B28" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901637838-0E639286)" clip-path="url(#boxSparkleClip_BOX-20260526163901637838-0E639286)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901637838-0E639286)" clip-path="url(#boxSparkleClip_BOX-20260526163901637838-0E639286)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="onyx_black_sparkle">Onyx Black Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901637838-0E639286)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901638301-C63D79EA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901638301-C63D79EA" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901638301-C63D79EA">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901638301-C63D79EA">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#8E9089" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901638301-C63D79EA)" clip-path="url(#boxSparkleClip_BOX-20260526163901638301-C63D79EA)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901638301-C63D79EA)" clip-path="url(#boxSparkleClip_BOX-20260526163901638301-C63D79EA)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="slate_gray_sparkle">Slate Gray Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901638301-C63D79EA)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(74,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901637568-5A134F70" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901637568-5A134F70" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901637568-5A134F70">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901637568-5A134F70">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#792B36" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901637568-5A134F70)" clip-path="url(#boxSparkleClip_BOX-20260526163901637568-5A134F70)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901637568-5A134F70)" clip-path="url(#boxSparkleClip_BOX-20260526163901637568-5A134F70)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="crimson_red_sparkle">Crimson Red Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901637568-5A134F70)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(100,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901637308-34726941" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901637308-34726941" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901637308-34726941">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901637308-34726941">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#CEA629" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901637308-34726941)" clip-path="url(#boxSparkleClip_BOX-20260526163901637308-34726941)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901637308-34726941)" clip-path="url(#boxSparkleClip_BOX-20260526163901637308-34726941)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="classic_gold_sparkle">Classic Gold Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901637308-34726941)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(126,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901637069-E56E8DCB" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901637069-E56E8DCB" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901637069-E56E8DCB">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901637069-E56E8DCB">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#3F5443" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901637069-E56E8DCB)" clip-path="url(#boxSparkleClip_BOX-20260526163901637069-E56E8DCB)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901637069-E56E8DCB)" clip-path="url(#boxSparkleClip_BOX-20260526163901637069-E56E8DCB)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="alpine_green_sparkle">Alpine Green Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901637069-E56E8DCB)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(152,22)"><defs>
+    <linearGradient id="boxSparkleSheen_BOX-20260526163901638070-2881BA94" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+      <stop offset="24%" stop-color="#FFF8D6" stop-opacity="0.16"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="78%" stop-color="#FFE9A3" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.00"/>
+    </linearGradient>
+    <pattern id="boxSparkleGlints_BOX-20260526163901638070-2881BA94" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="7" height="7" fill="#FFFFFF" fill-opacity="0.00"/>
+      <circle cx="1.1" cy="1.2" r="0.18" fill="#FFFDF5" fill-opacity="0.76"/>
+      <circle cx="5.7" cy="2.1" r="0.12" fill="#FFF1B8" fill-opacity="0.72"/>
+      <circle cx="2.0" cy="5.6" r="0.11" fill="#FFFFFF" fill-opacity="0.60"/>
+      <path d="M 4.1 0.9 L 4.35 1.55 L 5.0 1.8 L 4.35 2.05 L 4.1 2.7 L 3.85 2.05 L 3.2 1.8 L 3.85 1.55 Z" fill="#FFFFFF" fill-opacity="0.70"/>
+      <path d="M 5.5 4.2 L 5.68 4.7 L 6.2 4.88 L 5.68 5.06 L 5.5 5.56 L 5.32 5.06 L 4.8 4.88 L 5.32 4.7 Z" fill="#FFF4C4" fill-opacity="0.66"/>
+      <path d="M 1.8 3.1 L 1.95 3.55 L 2.4 3.7 L 1.95 3.85 L 1.8 4.3 L 1.65 3.85 L 1.2 3.7 L 1.65 3.55 Z" fill="#FFFFFF" fill-opacity="0.54"/>
+    </pattern>
+    <clipPath id="boxSparkleClip_BOX-20260526163901638070-2881BA94">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+    <clipPath id="boxNozzleClip_BOX-20260526163901638070-2881BA94">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#483D8B" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleSheen_BOX-20260526163901638070-2881BA94)" clip-path="url(#boxSparkleClip_BOX-20260526163901638070-2881BA94)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxSparkleGlints_BOX-20260526163901638070-2881BA94)" clip-path="url(#boxSparkleClip_BOX-20260526163901638070-2881BA94)" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_sparkle">PLA Sparkle</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="royal_purple_sparkle">Royal Purple Sparkle</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901638070-2881BA94)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

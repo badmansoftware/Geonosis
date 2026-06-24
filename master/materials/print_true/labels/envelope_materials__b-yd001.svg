@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="35mm" viewBox="0.0 0.0 70.0 35.0">
+  <title>envelope_materials__b-yd001 — 70mm x 35mm — print at 100%</title><!-- SUPPLIES_LABEL shape="envelope" title="Black Pebbled PU Leatherette Fabric" name="300x300 .05" material_type_display="Black Pebbled PU Leatherette Fabric" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <defs>
+    <pattern id="pebble_byd001" width="3.20" height="3.20" patternUnits="userSpaceOnUse">
+      <rect width="3.20" height="3.20" fill="#202124"/>
+      <circle cx="0.55" cy="0.65" r="0.42" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.75" cy="0.35" r="0.34" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.65" cy="1.05" r="0.40" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.15" cy="1.65" r="0.46" fill="#383B41" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.35" cy="2.15" r="0.36" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="0.45" cy="2.45" r="0.38" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.65" cy="2.85" r="0.33" fill="#383B41" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.95" cy="2.75" r="0.30" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#pebble_byd001)" stroke="#101113" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Black Pebbled</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">PU Leatherette Fabric</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300 .05</text>
+</svg>

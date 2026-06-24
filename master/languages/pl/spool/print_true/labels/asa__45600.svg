@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="45mm" height="19mm" viewBox="0.0 0.0 45.0 19.0">
+  <title>asa__45600 — 45mm x 19mm — print at 100%</title><path d="M 9.50,0.00 H 35.50 V 0.00 A 9.50 9.50 0 0 1 35.50,19.00 V 19.00 H 9.50 V 19.00 A 9.50 9.50 0 0 1 9.50,0.00 V 0.00 Z" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMTIwIDEyMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJCYW1idSBMYWJzIHN0eWxlIGxvZ28iPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSI4IiBmaWxsPSIjRkZGRkZGIi8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTQgMTQpIHNjYWxlKDEuMjI1IDEuMDQ1NDU0NSkgdHJhbnNsYXRlKC0yOCAtMTgpIj4KICAgIDxwb2x5Z29uIHBvaW50cz0iNjgsMTggMTAzLjEsMTggMTAzLjEsNTggNjgsNDcuNDciIGZpbGw9IiMxQTFBMUEiLz4KICAgIDxwb2x5Z29uIHBvaW50cz0iMjgsNzEuNzQgNjMuMSw1OS4xMCA2My4xLDEwNiAyOCwxMDYiIGZpbGw9IiMxQTFBMUEiLz4KICAgIDxwb2x5Z29uIHBvaW50cz0iMjgsMTggNjMuMSwxOCA2My4xLDUzLjM2IDI4LDY2IiBmaWxsPSIjMUExQTFBIi8+CiAgICA8cG9seWdvbiBwb2ludHM9IjY4LDUxLjQ3IDEwMy4xLDYyIDEwMy4xLDEwNiA2OCwxMDYiIGZpbGw9IiMxQTFBMUEiLz4KICA8L2c+Cjwvc3ZnPgoK" x="6.82" y="0.50" width="4.12" height="4.12"/>
+  <text x="6.88" y="6.40" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#000000">240-270C</text>
+  <circle cx="6.88" cy="12.00" r="5.00" fill="#2140B4" stroke="#FFFFFF" stroke-width="0.35"/>
+  <rect x="16.00" y="17.00" width="8.20" height="2.00" rx="0.40" ry="0.40" fill="#FEE2E2" stroke="#991B1B" stroke-width="0.20"/>
+  <text x="20.10" y="18.94" text-anchor="middle" dominant-baseline="text-after-edge" font-family="Arial, Helvetica, sans-serif" font-size="0.31mm" font-weight="700" fill="#991B1B">NO AMS</text>
+  <path d="M 35.82,0.26 A 9.25 9.25 0 0 1 41.81,2.73 L 39.69,5.00 A 6.15 6.15 0 0 0 35.71,3.35 Z" fill="#39FF14" stroke="none"/>
+  <text x="38.45" y="2.39" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#C8C8C8">.8</text>
+  <path d="M 42.27,3.19 A 9.25 9.25 0 0 1 44.74,9.18 L 41.65,9.29 A 6.15 6.15 0 0 0 40.00,5.31 Z" fill="#39FF14" stroke="none"/>
+  <text x="42.61" y="6.55" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#C8C8C8">.6</text>
+  <path d="M 44.74,9.82 A 9.25 9.25 0 0 1 42.27,15.81 L 40.00,13.69 A 6.15 6.15 0 0 0 41.65,9.71 Z" fill="#39FF14" stroke="none"/>
+  <text x="42.61" y="12.45" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#C8C8C8">.4</text>
+  <path d="M 41.81,16.27 A 9.25 9.25 0 0 1 35.82,18.74 L 35.71,15.65 A 6.15 6.15 0 0 0 39.69,14.00 Z" fill="#FFE000" stroke="none"/>
+  <text x="38.45" y="16.61" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#C8C8C8">.2</text>
+  <text x="12.50" y="6.90" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="1.86mm" font-weight="700" textLength="23.00" lengthAdjust="spacingAndGlyphs" fill="#000000" data-type-key="filament.asa">ASA</text>
+  <line x1="12.50" y1="7.87" x2="35.50" y2="7.87" stroke="#2140B4" stroke-width="0.16"/>
+  <text x="12.50" y="12.05" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="1.3mm" fill="#000000" data-color-key="blue">Niebieski</text>
+  <line x1="38.00" y1="19.00" x2="38.00" y2="15.00" stroke="#000000" stroke-width="0.30"/>
+  <text x="38.00" y="14.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#000000">200g</text>
+  <line x1="30.67" y1="19.00" x2="30.67" y2="15.00" stroke="#000000" stroke-width="0.30"/>
+  <text x="30.67" y="14.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#000000">400g</text>
+  <line x1="23.33" y1="19.00" x2="23.33" y2="15.00" stroke="#000000" stroke-width="0.30"/>
+  <text x="23.33" y="14.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#000000">600g</text>
+  <line x1="16.00" y1="19.00" x2="16.00" y2="15.00" stroke="#000000" stroke-width="0.30"/>
+  <text x="16.00" y="14.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.55mm" fill="#000000">800g</text>
+  <line x1="36.17" y1="19.00" x2="36.17" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="34.33" y1="19.00" x2="34.33" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="32.50" y1="19.00" x2="32.50" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="28.83" y1="19.00" x2="28.83" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="27.00" y1="19.00" x2="27.00" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="25.17" y1="19.00" x2="25.17" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="21.50" y1="19.00" x2="21.50" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="19.67" y1="19.00" x2="19.67" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <line x1="17.83" y1="19.00" x2="17.83" y2="17.00" stroke="#000000" stroke-width="0.25"/>
+  <polygon points="44.60,9.50 42.87,8.50 42.87,10.50" fill="#000000"/>
+</svg>

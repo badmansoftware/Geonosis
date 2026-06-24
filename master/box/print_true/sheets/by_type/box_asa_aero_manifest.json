@@ -1,0 +1,29 @@
+{
+  "run_id": "6299f15f19ba",
+  "built_utc": "20260613T065016Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_asa_aero",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "asa_aero__46100.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_asa_aero_letter",
+      "labels": 1,
+      "print": "box_asa_aero_letter_print.svg",
+      "cut": "box_asa_aero_letter_cut.svg",
+      "print_sha256": "06c1cd7b84215df530d3d4f025b726c564bae16d2ca19196f6f7b9d0d1196c65",
+      "cut_sha256": "a76a65834c8f5ce3ec80197bd0c13936e8e5a77d4da0b377c94506e4d962b652",
+      "bambu_cut": "box_asa_aero_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "6385cd42c65c08c96c2a3b210a03b5f61f6b6d79d88c950253ed957419124b53"
+    }
+  ],
+  "bambu": true
+}

@@ -1,0 +1,32 @@
+{
+  "run_id": "6852edff6c5a",
+  "built_utc": "20260613T065017Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_galaxy",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_galaxy__13203.svg",
+    "pla_galaxy__13503.svg",
+    "pla_galaxy__13504.svg",
+    "pla_galaxy__13602.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_galaxy_letter",
+      "labels": 4,
+      "print": "box_pla_galaxy_letter_print.svg",
+      "cut": "box_pla_galaxy_letter_cut.svg",
+      "print_sha256": "942346afcd96100fb5a9df65643a14a05eab8e16284b7227ed2ccd645269e17c",
+      "cut_sha256": "620375e6b9bec384a7546160478e0490d1423720ec1fb67d3729a9fd20dcaf97",
+      "bambu_cut": "box_pla_galaxy_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "e75e4cfa7a1b937755cb16a1cd9cbf8b7d4f43b83664dd9bbc4ee8cebdba07ed"
+    }
+  ],
+  "bambu": true
+}

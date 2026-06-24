@@ -1,0 +1,32 @@
+{
+  "run_id": "20bf0c930e09",
+  "built_utc": "20260613T065015Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pla_galaxy",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pla_galaxy__13203.svg",
+    "pla_galaxy__13503.svg",
+    "pla_galaxy__13504.svg",
+    "pla_galaxy__13602.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pla_galaxy_letter",
+      "labels": 4,
+      "print": "spool_pla_galaxy_letter_print.svg",
+      "cut": "spool_pla_galaxy_letter_cut.svg",
+      "print_sha256": "27c977392204e2894933fa587a96e11f65c0cba2291eb00c2cf80d5a5b432646",
+      "cut_sha256": "b79d241f534f5f8ec66dffa03afe26197185be3b609ba8ed01f04dd223f59634",
+      "bambu_cut": "spool_pla_galaxy_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "86b46eda18e03439d08ee2007df68c2f844e9321bb16a98c43659ba2caff3517"
+    }
+  ],
+  "bambu": true
+}

@@ -1,0 +1,42 @@
+{
+  "run_id": "0acc2a0ee90e",
+  "built_utc": "20260613T065017Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_petg_hf",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "petg_hf__33100.svg",
+    "petg_hf__33101.svg",
+    "petg_hf__33102.svg",
+    "petg_hf__33103.svg",
+    "petg_hf__33200.svg",
+    "petg_hf__33300.svg",
+    "petg_hf__33400.svg",
+    "petg_hf__33401.svg",
+    "petg_hf__33500.svg",
+    "petg_hf__33501.svg",
+    "petg_hf__33502.svg",
+    "petg_hf__33600.svg",
+    "petg_hf__33601.svg",
+    "petg_hf__33801.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_petg_hf_letter",
+      "labels": 14,
+      "print": "box_petg_hf_letter_print.svg",
+      "cut": "box_petg_hf_letter_cut.svg",
+      "print_sha256": "8b1f0f3e38893e32478fda20510501d5001d6f44f52b010a8bd3a67d932417e5",
+      "cut_sha256": "8a4e8b09dc7af76a9025ec64d027622f6249fd06cfbb1f35dbf0d5f0c3ba3e38",
+      "bambu_cut": "box_petg_hf_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "25513a7dc30e212cb09bed47441cb162dba5e943ea10986c20be34b086df9d65"
+    }
+  ],
+  "bambu": true
+}

@@ -1,0 +1,555 @@
+{
+  "packs": [
+    {
+      "contribution_policy": {
+        "allow_direct_edits": false,
+        "mode": "maintainer_review",
+        "review_required": true
+      },
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "entries": [
+        {
+          "color_text_map": {
+            "azure": "Luinor",
+            "bambu_green": "Bambuë Calen",
+            "black": "Morn",
+            "blue": "Luine",
+            "navy_blue": "Morluin Luine",
+            "olive": "Oliveë",
+            "orange": "Culu",
+            "red": "Carn",
+            "silver": "Celeb",
+            "tangerine_yellow": "Tangerineë Malen",
+            "white": "Nim"
+          },
+          "display_text": "ABS",
+          "semantic_key": "filament.abs",
+          "short_text": "ABS"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "gray": "Mith",
+            "orange": "Culu",
+            "red": "Carn",
+            "white": "Nim"
+          },
+          "display_text": "ABS-GF",
+          "semantic_key": "filament.abs_gf",
+          "short_text": "ABS-GF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "gray": "Mith",
+            "green": "Calen",
+            "red": "Carn",
+            "white": "Nim"
+          },
+          "display_text": "ASA",
+          "semantic_key": "filament.asa",
+          "short_text": "ASA"
+        },
+        {
+          "color_text_map": {
+            "white": "Nim"
+          },
+          "display_text": "ASA Aeroë",
+          "semantic_key": "filament.asa_aero",
+          "short_text": "ASA Aeroë"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "ASA-CF",
+          "semantic_key": "filament.asa_cf",
+          "short_text": "ASA-CF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "PA6-CF",
+          "semantic_key": "filament.pa6_cf",
+          "short_text": "PA6-CF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "gray": "Mith",
+            "orange": "Culu",
+            "white": "Nim"
+          },
+          "display_text": "PA6-GF",
+          "semantic_key": "filament.pa6_gf",
+          "short_text": "PA6-GF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "PAHT-CF",
+          "semantic_key": "filament.paht_cf",
+          "short_text": "PAHT-CF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "clear_black": "Limpë Morn",
+            "transparent": "Limpë",
+            "white": "Nim"
+          },
+          "display_text": "PC",
+          "semantic_key": "filament.pc",
+          "short_text": "PC"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "gray": "Mith",
+            "white": "Nim"
+          },
+          "display_text": "PC FR",
+          "semantic_key": "filament.pc_fr",
+          "short_text": "PC FR"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "PET-CF",
+          "semantic_key": "filament.pet_cf",
+          "short_text": "PET-CF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "dark_brown": "Darkë Baran",
+            "gray": "Mith",
+            "green": "Calen",
+            "navy_blue": "Morluin Luine",
+            "orange": "Culu",
+            "red": "Carn",
+            "reflex_blue": "Reflecsë Luine",
+            "white": "Nim",
+            "yellow": "Malen"
+          },
+          "display_text": "PETG Mina",
+          "semantic_key": "filament.petg_basic",
+          "short_text": "PETG Mina"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "cream": "Yávë",
+            "dark_gray": "Darkë Mith",
+            "forest_green": "Taur Calen",
+            "gray": "Mith",
+            "green": "Calen",
+            "lake_blue": "Lakeë Luine",
+            "lime_green": "Limeë Calen",
+            "orange": "Culu",
+            "peanut_brown": "Peanutë Baran",
+            "red": "Carn",
+            "white": "Nim",
+            "yellow": "Malen"
+          },
+          "display_text": "PETG HF",
+          "semantic_key": "filament.petg_hf",
+          "short_text": "PETG HF"
+        },
+        {
+          "color_text_map": {
+            "clear": "Limpë",
+            "translucent_brown": "Limpë Baran",
+            "translucent_gray": "Limpë Mith",
+            "translucent_light_blue": "Limpë Lightë Luine",
+            "translucent_olive": "Limpë Oliveë",
+            "translucent_orange": "Limpë Culu",
+            "translucent_pink": "Limpë Sereg",
+            "translucent_purple": "Limpë Ling",
+            "translucent_teal": "Limpë Tealë"
+          },
+          "display_text": "PETG Limpë",
+          "semantic_key": "filament.petg_translucent",
+          "short_text": "PETG Limpë"
+        },
+        {
+          "color_text_map": {
+            "gray": "Mith",
+            "white": "Nim"
+          },
+          "display_text": "PLA Aeroë",
+          "semantic_key": "filament.pla_aero",
+          "short_text": "PLA Aeroë"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "white": "Nim"
+          },
+          "display_text": "Telco PLA",
+          "semantic_key": "filament.pla_basic",
+          "short_text": "Telco PLA"
+        },
+        {
+          "color_text_map": {
+            "arctic_whisper": "Arcticë Whisperë",
+            "blueberry_bubblegum": "Blueberrië Bubblegumë",
+            "cotton_candy_cloud": "Cottonë Candië Cloudë",
+            "dusk_glare": "Duskë Glareë",
+            "mint_lime": "Lais Limeë",
+            "ocean_to_meadow": "Oceanë to Meadowë",
+            "pink_citrus": "Sereg Citrusë",
+            "solar_breeze": "Solarë Breezeë"
+          },
+          "display_text": "PLA Mina Lhûg",
+          "semantic_key": "filament.pla_basic_gradient",
+          "short_text": "PLA Mina Lhûg"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "burgundy_red": "Burgundië Carn",
+            "iris_purple": "Irisë Ling",
+            "jeans_blue": "Jeansë Luine",
+            "lava_gray": "Lavaë Mith",
+            "matcha_green": "Matchaë Calen",
+            "royal_blue": "Roialë Luine"
+          },
+          "display_text": "PLA-CF",
+          "semantic_key": "filament.pla_cf",
+          "short_text": "PLA-CF"
+        },
+        {
+          "color_text_map": {
+            "brown": "Baran",
+            "green": "Calen",
+            "nebulae": "Nebulaeë",
+            "purple": "Ling"
+          },
+          "display_text": "PLA Menel",
+          "semantic_key": "filament.pla_galaxy",
+          "short_text": "PLA Menel"
+        },
+        {
+          "color_text_map": {
+            "glow_blue": "Calad Luine",
+            "glow_green": "Calad Calen",
+            "glow_orange": "Calad Culu",
+            "glow_pink": "Calad Sereg",
+            "glow_yellow": "Calad Malen"
+          },
+          "display_text": "PLA Calad",
+          "semantic_key": "filament.pla_glow",
+          "short_text": "PLA Calad"
+        },
+        {
+          "color_text_map": {
+            "red_granite": "Carn Sarn-gor",
+            "white_marble": "Nim Sarn"
+          },
+          "display_text": "PLA Sarn",
+          "semantic_key": "filament.pla_marble",
+          "short_text": "PLA Sarn"
+        },
+        {
+          "color_text_map": {
+            "matte_apple_green": "Pân Appleë Calen",
+            "matte_ash_gray": "Pân Ash Mith",
+            "matte_bone_white": "Pân Boneë Nim",
+            "matte_caramel": "Pân Caramelë",
+            "matte_charcoal": "Pân Mornas",
+            "matte_dark_blue": "Pân Darkë Luine",
+            "matte_dark_brown": "Pân Darkë Baran",
+            "matte_dark_chocolate": "Pân Darkë Chocolateë",
+            "matte_dark_green": "Pân Darkë Calen",
+            "matte_dark_red": "Pân Darkë Carn",
+            "matte_desert_tan": "Pân Desertë Tan",
+            "matte_grass_green": "Pân Grassë Calen",
+            "matte_ice_blue": "Pân Ice Luine",
+            "matte_ivory_white": "Pân Ivorië Nim",
+            "matte_latte_brown": "Pân Latteë Baran",
+            "matte_lemon_yellow": "Pân Lemonë Malen",
+            "matte_lilac_purple": "Pân Lilacë Ling",
+            "matte_mandarin_orange": "Pân Mandarinë Culu",
+            "matte_marine_blue": "Pân Marineë Luine",
+            "matte_nardo_gray": "Pân Nardoë Mith",
+            "matte_plum": "Pân Plumë",
+            "matte_sakura_pink": "Pân Sakuraë Sereg",
+            "matte_scarlet_red": "Pân Scarletë Carn",
+            "matte_sky_blue": "Pân Ski Luine",
+            "matte_terracotta": "Pân Terracottaë"
+          },
+          "display_text": "PLA Pân",
+          "semantic_key": "filament.pla_matte",
+          "short_text": "PLA Pân"
+        },
+        {
+          "color_text_map": {
+            "cobalt_blue_metallic": "Luin Luine Metallicë",
+            "copper_brown_metallic": "Calambar Baran Metallicë",
+            "iridium_gold_metallic": "Iridiumë Malt Metallicë",
+            "iron_gray_metallic": "Ironë Mith Metallicë",
+            "oxide_green_metallic": "Ocsideë Calen Metallicë"
+          },
+          "display_text": "PLA Anga",
+          "semantic_key": "filament.pla_metal",
+          "short_text": "PLA Anga"
+        },
+        {
+          "color_text_map": {
+            "absolute_black": "Absoluteë Morn",
+            "apricot": "Apricotë",
+            "baby_blue": "Babië Luine",
+            "milky_pink": "Milkyë Sereg",
+            "pure_white": "Poicë Nim"
+          },
+          "display_text": "PLA Poicë",
+          "semantic_key": "filament.pla_pure",
+          "short_text": "PLA Poicë"
+        },
+        {
+          "color_text_map": {
+            "baby_blue": "Babië Luine",
+            "blue": "Luine",
+            "candy_green": "Candië Calen",
+            "candy_red": "Candië Carn",
+            "champagne": "Champagneë",
+            "gold": "Malt",
+            "mint": "Lais",
+            "pink": "Sereg",
+            "purple": "Ling",
+            "rose_gold": "Roseë Malt",
+            "silver": "Celeb",
+            "titan_gray": "Titanë Mith",
+            "white": "Nim"
+          },
+          "display_text": "PLA Silkë+",
+          "semantic_key": "filament.pla_silk_plus",
+          "short_text": "PLA Silkë+"
+        },
+        {
+          "color_text_map": {
+            "aurora_purple": "Auroraë Ling",
+            "blue_hawaii": "Luine Hawaiië",
+            "dawn_radiance": "Dawnë Radianceë",
+            "gilded_rose": "Gildedë Roseë",
+            "midnight_blaze": "Midnightë Blazeë",
+            "mystic_magenta": "Misticë Magentaë",
+            "neon_city": "Neonë Citië",
+            "phantom_blue": "Fantomë Luine",
+            "south_beach": "Southë Beachë",
+            "velvet_eclipse": "Velvetë Eclipseë"
+          },
+          "display_text": "PLA Silkë Rimb-Limp",
+          "semantic_key": "filament.pla_silk_multi_color",
+          "short_text": "PLA Silkë Rimb-Limp"
+        },
+        {
+          "color_text_map": {
+            "alpine_green_sparkle": "Alpineë Calen Miril",
+            "classic_gold_sparkle": "Classicë Malt Miril",
+            "crimson_red_sparkle": "Crimsonë Carn Miril",
+            "onyx_black_sparkle": "Onicsë Morn Miril",
+            "royal_purple_sparkle": "Roialë Ling Miril",
+            "slate_gray_sparkle": "Slateë Mith Miril"
+          },
+          "display_text": "PLA Miril",
+          "semantic_key": "filament.pla_sparkle",
+          "short_text": "PLA Miril"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "cyan": "Cianë",
+            "gray": "Mith",
+            "orange": "Culu",
+            "silver": "Celeb",
+            "white": "Nim",
+            "yellow": "Malen"
+          },
+          "display_text": "PLA Tanc+",
+          "semantic_key": "filament.pla_tough_plus",
+          "short_text": "PLA Tanc+"
+        },
+        {
+          "color_text_map": {
+            "blue": "Luine",
+            "cherry_pink": "Cherrië Sereg",
+            "ice_blue": "Ice Luine",
+            "lavender": "Uiloss",
+            "light_jade": "Lightë Ecthel",
+            "mellow_yellow": "Mellowë Malen",
+            "orange": "Culu",
+            "purple": "Ling",
+            "red": "Carn",
+            "teal": "Tealë"
+          },
+          "display_text": "PLA Limpë",
+          "semantic_key": "filament.pla_translucent",
+          "short_text": "PLA Limpë"
+        },
+        {
+          "color_text_map": {
+            "black_walnut": "Morn Tawar-baran",
+            "classic_birch": "Classicë Birchë",
+            "clay_brown": "Claië Baran",
+            "ochre_yellow": "Ochreë Malen",
+            "rosewood": "Rosewoodë",
+            "white_oak": "Nim Oak"
+          },
+          "display_text": "PLA Tawar",
+          "semantic_key": "filament.pla_wood",
+          "short_text": "PLA Tawar"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "PPA-CF",
+          "semantic_key": "filament.ppa_cf",
+          "short_text": "PPA-CF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn"
+          },
+          "display_text": "PPS-CF",
+          "semantic_key": "filament.pps_cf",
+          "short_text": "PPS-CF"
+        },
+        {
+          "color_text_map": {
+            "clear": "Limpë"
+          },
+          "display_text": "PVA",
+          "semantic_key": "filament.pva",
+          "short_text": "PVA"
+        },
+        {
+          "color_text_map": {
+            "white": "Nim"
+          },
+          "display_text": "Telta an ABS",
+          "semantic_key": "filament.support_for_abs",
+          "short_text": "Telta an ABS"
+        },
+        {
+          "color_text_map": {
+            "green": "Calen"
+          },
+          "display_text": "Telta an PAV PET",
+          "semantic_key": "filament.support_for_pav_pet",
+          "short_text": "Telta an PAV PET"
+        },
+        {
+          "color_text_map": {
+            "white": "Nim"
+          },
+          "display_text": "Telta an PLA (Vinya Pesta)",
+          "semantic_key": "filament.support_for_pla_new",
+          "short_text": "Telta an PLA (Vinya Pesta)"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "nature": "Natureë"
+          },
+          "display_text": "Telta an PLA/PETG",
+          "semantic_key": "filament.support_for_pla_petg",
+          "short_text": "Telta an PLA/PETG"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "cyan": "Cianë",
+            "flesh": "Fleshë",
+            "green": "Calen",
+            "orange": "Culu"
+          },
+          "display_text": "TPU 85A",
+          "semantic_key": "filament.tpu_85",
+          "short_text": "TPU 85"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blaze": "Blazeë",
+            "cocoa_brown": "Cocoaë Baran",
+            "cystal_blue": "Cistalë Luine",
+            "frozen": "Frozenë",
+            "grape_jelly": "Grapeë Jellië",
+            "quicksilver": "Cwicksilverë",
+            "white": "Nim"
+          },
+          "display_text": "TPU 90A",
+          "semantic_key": "filament.tpu_90",
+          "short_text": "TPU 90"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "gray": "Mith",
+            "red": "Carn",
+            "white": "Nim",
+            "yellow": "Malen"
+          },
+          "display_text": "TPU 95A HF",
+          "semantic_key": "filament.tpu_95a_hf",
+          "short_text": "TPU 95A HF"
+        },
+        {
+          "color_text_map": {
+            "black": "Morn",
+            "blue": "Luine",
+            "gray": "Mith",
+            "neon_green": "Neonë Calen",
+            "red": "Carn",
+            "white": "Nim",
+            "yellow": "Malen"
+          },
+          "display_text": "TPU an AMS",
+          "semantic_key": "filament.tpu_for_ams",
+          "short_text": "TPU an AMS"
+        },
+        {
+          "display_text": "Nod Tuilinn",
+          "semantic_key": "inventory.supplies.square_36",
+          "short_text": "Tuilinn"
+        },
+        {
+          "display_text": "Panda Tinco",
+          "semantic_key": "printer.build_plate.reference",
+          "short_text": "Tinco"
+        },
+        {
+          "display_text": "Hadad 22",
+          "semantic_key": "storage.box.square_22",
+          "short_text": "Hadad 22"
+        },
+        {
+          "display_text": "Cened 12",
+          "semantic_key": "storage.container.capacity_12",
+          "short_text": "Cened 12"
+        }
+      ],
+      "language": "qya",
+      "last_reviewed_at": "2026-05-26",
+      "maintainers": [
+        "bambu-filament-color-labels-maintainers"
+      ],
+      "presentation_pack": "elvish_pack",
+      "source": "curated",
+      "version": "1.0.0-draft"
+    }
+  ],
+  "schema": "smithmaker.presentation_packs.v1"
+}

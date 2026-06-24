@@ -1,0 +1,29 @@
+{
+  "run_id": "94bd476c60f7",
+  "built_utc": "20260613T065018Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_support_for_pav_pet",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "support_for_pav_pet__65500.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_support_for_pav_pet_letter",
+      "labels": 1,
+      "print": "box_support_for_pav_pet_letter_print.svg",
+      "cut": "box_support_for_pav_pet_letter_cut.svg",
+      "print_sha256": "7c36ba077f1b770302058b403a01d93e4d59b7417249de7de7ee945fe3b6357c",
+      "cut_sha256": "28c459c0b30615579316addf2d47a32cc1e4a7f3c07fc51952576edc7ee82025",
+      "bambu_cut": "box_support_for_pav_pet_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "38bc1eb6e331cece5227eea742603799946a4fd38343093ff07d011ceb2099d3"
+    }
+  ],
+  "bambu": true
+}

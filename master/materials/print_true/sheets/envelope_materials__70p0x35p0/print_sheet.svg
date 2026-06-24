@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>print_sheet — 279.4mm x 215.9mm — print at 100%</title><rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <g id="sheet-cell-001-1" data-object-id="envelope_materials__ye001" data-filename="envelope_materials__ye001.svg">
+    <g transform="translate(22,22)"><!-- SUPPLIES_LABEL shape="envelope" title="Black Cardstock" name="210x297" material_type_display="Black Cardstock" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#202124" stroke="#202124" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Black</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">Cardstock</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">210x297</text>
+</g></g>
+  <g id="sheet-cell-001-2" data-object-id="envelope_materials__ye002" data-filename="envelope_materials__ye002.svg">
+    <g transform="translate(96,22)"><!-- SUPPLIES_LABEL shape="envelope" title="White Cardstock" name="210x297" material_type_display="White Cardstock" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#D9E6F2" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#F5F5F5" stroke="#F5F5F5" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">White</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111">Cardstock</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">210x297</text>
+</g></g>
+  <g id="sheet-cell-001-3" data-object-id="envelope_materials__b-yd001" data-filename="envelope_materials__b-yd001.svg">
+    <g transform="translate(170,22)"><!-- SUPPLIES_LABEL shape="envelope" title="Black Pebbled PU Leatherette Fabric" name="300x300 .05" material_type_display="Black Pebbled PU Leatherette Fabric" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <defs>
+    <pattern id="pebble_byd001" width="3.20" height="3.20" patternUnits="userSpaceOnUse">
+      <rect width="3.20" height="3.20" fill="#202124"/>
+      <circle cx="0.55" cy="0.65" r="0.42" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.75" cy="0.35" r="0.34" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.65" cy="1.05" r="0.40" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.15" cy="1.65" r="0.46" fill="#383B41" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.35" cy="2.15" r="0.36" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="0.45" cy="2.45" r="0.38" fill="#34373C" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="1.65" cy="2.85" r="0.33" fill="#383B41" stroke="#101113" stroke-width="0.08"/>
+      <circle cx="2.95" cy="2.75" r="0.30" fill="#2E3136" stroke="#101113" stroke-width="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#pebble_byd001)" stroke="#101113" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Black Pebbled</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">PU Leatherette Fabric</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300 .05</text>
+</g></g>
+  <g id="sheet-cell-001-4" data-object-id="envelope_materials__yd003" data-filename="envelope_materials__yd003.svg">
+    <g transform="translate(22,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Brown Pebbled PU Leatherette Fabric" name="300x300 .05" material_type_display="Brown Pebbled PU Leatherette Fabric" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#5D4037" opacity="0.95"/>
+  <defs>
+    <pattern id="pebble_yd003" width="3.20" height="3.20" patternUnits="userSpaceOnUse">
+      <rect width="3.20" height="3.20" fill="#5D4037"/>
+      <circle cx="0.55" cy="0.65" r="0.42" fill="#6F4F43" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="1.75" cy="0.35" r="0.34" fill="#684A3F" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="2.65" cy="1.05" r="0.40" fill="#6F4F43" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="1.15" cy="1.65" r="0.46" fill="#755448" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="2.35" cy="2.15" r="0.36" fill="#684A3F" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="0.45" cy="2.45" r="0.38" fill="#6F4F43" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="1.65" cy="2.85" r="0.33" fill="#755448" stroke="#43302A" stroke-width="0.08"/>
+      <circle cx="2.95" cy="2.75" r="0.30" fill="#684A3F" stroke="#43302A" stroke-width="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#pebble_yd003)" stroke="#43302A" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Brown Pebbled</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">PU Leatherette Fabric</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300 .05</text>
+</g></g>
+  <g id="sheet-cell-001-5" data-object-id="envelope_materials__yd004" data-filename="envelope_materials__yd004.svg">
+    <g transform="translate(96,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Gray Pebbled PU Leatherette Fabric" name="300x300 .05" material_type_display="Gray Pebbled PU Leatherette Fabric" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#757575" opacity="0.95"/>
+  <defs>
+    <pattern id="pebble_yd004" width="3.20" height="3.20" patternUnits="userSpaceOnUse">
+      <rect width="3.20" height="3.20" fill="#757575"/>
+      <circle cx="0.55" cy="0.65" r="0.42" fill="#8A8A8A" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="1.75" cy="0.35" r="0.34" fill="#828282" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="2.65" cy="1.05" r="0.40" fill="#8A8A8A" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="1.15" cy="1.65" r="0.46" fill="#909090" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="2.35" cy="2.15" r="0.36" fill="#828282" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="0.45" cy="2.45" r="0.38" fill="#8A8A8A" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="1.65" cy="2.85" r="0.33" fill="#909090" stroke="#5C5C5C" stroke-width="0.08"/>
+      <circle cx="2.95" cy="2.75" r="0.30" fill="#828282" stroke="#5C5C5C" stroke-width="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#pebble_yd004)" stroke="#5C5C5C" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Gray Pebbled</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">PU Leatherette Fabric</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300 .05</text>
+</g></g>
+  <g id="sheet-cell-001-6" data-object-id="envelope_materials__ye004" data-filename="envelope_materials__ye004.svg">
+    <g transform="translate(170,61)"><!-- SUPPLIES_LABEL shape="envelope" title="Pearlescent White Greeting Card Set" name="159x117" material_type_display="Pearlescent White Greeting Card Set" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#D9E6F2" opacity="0.95"/>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="#F5F5F5" stroke="#F5F5F5" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Pearlescent White</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">Greeting Card Set</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">159x117</text>
+</g></g>
+  <g id="sheet-cell-001-7" data-object-id="envelope_materials__yd002" data-filename="envelope_materials__yd002.svg">
+    <g transform="translate(22,100)"><!-- SUPPLIES_LABEL shape="envelope" title="White Pebbled PU Leatherette Fabric" name="300x300 .05" material_type_display="White Pebbled PU Leatherette Fabric" -->
+  <rect x="0.00" y="0.00" width="70.00" height="35.00" rx="2.80" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="32.05" width="40.80" height="0.95" rx="0.36" fill="#D9E6F2" opacity="0.95"/>
+  <defs>
+    <pattern id="pebble_yd002" width="3.20" height="3.20" patternUnits="userSpaceOnUse">
+      <rect width="3.20" height="3.20" fill="#F5F5F5"/>
+      <circle cx="0.55" cy="0.65" r="0.42" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="1.75" cy="0.35" r="0.34" fill="#FAFAFA" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="2.65" cy="1.05" r="0.40" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="1.15" cy="1.65" r="0.46" fill="#FCFCFC" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="2.35" cy="2.15" r="0.36" fill="#FAFAFA" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="0.45" cy="2.45" r="0.38" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="1.65" cy="2.85" r="0.33" fill="#FCFCFC" stroke="#D8D8D8" stroke-width="0.08"/>
+      <circle cx="2.95" cy="2.75" r="0.30" fill="#FAFAFA" stroke="#D8D8D8" stroke-width="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="47.00" y="7.50" width="20.00" height="20.00" rx="0.52" fill="url(#pebble_yd002)" stroke="#C9C9C9" stroke-width="0.20"/>
+  <text x="3.20" y="11.90" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">White Pebbled</text>
+  <text x="3.20" y="21.70" font-family="Arial, Helvetica, sans-serif" font-size="1.19mm" font-weight="700" fill="#111111" textLength="40.48" lengthAdjust="spacingAndGlyphs">PU Leatherette Fabric</text>
+  <text x="3.20" y="31.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">300x300 .05</text>
+</g></g>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

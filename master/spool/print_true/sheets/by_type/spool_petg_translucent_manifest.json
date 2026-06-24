@@ -1,0 +1,37 @@
+{
+  "run_id": "a61db0e6f36c",
+  "built_utc": "20260613T065015Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_petg_translucent",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "petg_translucent__32100.svg",
+    "petg_translucent__32101.svg",
+    "petg_translucent__32200.svg",
+    "petg_translucent__32300.svg",
+    "petg_translucent__32500.svg",
+    "petg_translucent__32501.svg",
+    "petg_translucent__32600.svg",
+    "petg_translucent__32700.svg",
+    "petg_translucent__32800.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_petg_translucent_letter",
+      "labels": 9,
+      "print": "spool_petg_translucent_letter_print.svg",
+      "cut": "spool_petg_translucent_letter_cut.svg",
+      "print_sha256": "0c03ff9e391717aa34f78df63c70c76d717d45acf01eaff269cd45de8199ad34",
+      "cut_sha256": "37625fa434f895b4dd993159adb665bfc54478d8b22107603d158b7734b1fedd",
+      "bambu_cut": "spool_petg_translucent_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "a365608b37c7cadf00922db1a84a35c7e3a9726c1a35377922581fa3dbd2eebc"
+    }
+  ],
+  "bambu": true
+}

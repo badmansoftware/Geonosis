@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="285mm" viewBox="0 0 300 285">
+  <title>cut_sheet — 300mm x 285mm — print at 100%</title><g id="sheet-cell-001-1" data-object-id="materials__b-yl001" data-filename="materials__b-yl001.svg">
+    <rect x="22.00" y="22.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="21.50" y1="21.50" x2="23.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="21.50" x2="21.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="21.50" x2="92.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="21.50" x2="92.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="48.50" x2="23.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="46.50" x2="21.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="48.50" x2="92.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="46.50" x2="92.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-2" data-object-id="materials__b-ya001" data-filename="materials__b-ya001.svg">
+    <rect x="96.00" y="22.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="95.50" y1="21.50" x2="97.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="21.50" x2="95.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="21.50" x2="166.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="21.50" x2="166.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="48.50" x2="97.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="46.50" x2="95.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="48.50" x2="166.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="46.50" x2="166.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-3" data-object-id="materials__b-ya004" data-filename="materials__b-ya004.svg">
+    <rect x="170.00" y="22.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="169.50" y1="21.50" x2="171.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="21.50" x2="169.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="21.50" x2="240.50" y2="21.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="21.50" x2="240.50" y2="23.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="48.50" x2="171.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="46.50" x2="169.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="48.50" x2="240.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="46.50" x2="240.50" y2="48.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-4" data-object-id="materials__yb001" data-filename="materials__yb001.svg">
+    <rect x="22.00" y="52.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="21.50" y1="51.50" x2="23.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="51.50" x2="21.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="51.50" x2="92.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="51.50" x2="92.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="78.50" x2="23.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="76.50" x2="21.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="78.50" x2="92.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="76.50" x2="92.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-5" data-object-id="materials__bamboo_board" data-filename="materials__bamboo_board.svg">
+    <rect x="96.00" y="52.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="95.50" y1="51.50" x2="97.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="51.50" x2="95.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="51.50" x2="166.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="51.50" x2="166.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="78.50" x2="97.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="76.50" x2="95.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="78.50" x2="166.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="76.50" x2="166.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-6" data-object-id="materials__birch_plywood" data-filename="materials__birch_plywood.svg">
+    <rect x="170.00" y="52.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="169.50" y1="51.50" x2="171.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="51.50" x2="169.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="51.50" x2="240.50" y2="51.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="51.50" x2="240.50" y2="53.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="78.50" x2="171.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="76.50" x2="169.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="78.50" x2="240.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="76.50" x2="240.50" y2="78.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-7" data-object-id="materials__black_walnut_plywood" data-filename="materials__black_walnut_plywood.svg">
+    <rect x="22.00" y="82.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="21.50" y1="81.50" x2="23.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="81.50" x2="21.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="81.50" x2="92.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="81.50" x2="92.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="108.50" x2="23.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="106.50" x2="21.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="108.50" x2="92.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="106.50" x2="92.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-8" data-object-id="materials__yb005" data-filename="materials__yb005.svg">
+    <rect x="96.00" y="82.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="95.50" y1="81.50" x2="97.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="81.50" x2="95.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="81.50" x2="166.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="81.50" x2="166.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="108.50" x2="97.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="106.50" x2="95.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="108.50" x2="166.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="106.50" x2="166.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-9" data-object-id="materials__yb003" data-filename="materials__yb003.svg">
+    <rect x="170.00" y="82.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="169.50" y1="81.50" x2="171.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="81.50" x2="169.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="81.50" x2="240.50" y2="81.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="81.50" x2="240.50" y2="83.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="108.50" x2="171.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="169.50" y1="106.50" x2="169.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="238.50" y1="108.50" x2="240.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+    <line x1="240.50" y1="106.50" x2="240.50" y2="108.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-10" data-object-id="materials__yb002" data-filename="materials__yb002.svg">
+    <rect x="22.00" y="112.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="21.50" y1="111.50" x2="23.50" y2="111.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="111.50" x2="21.50" y2="113.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="111.50" x2="92.50" y2="111.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="111.50" x2="92.50" y2="113.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="138.50" x2="23.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="21.50" y1="136.50" x2="21.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="90.50" y1="138.50" x2="92.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="92.50" y1="136.50" x2="92.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <g id="sheet-cell-001-11" data-object-id="materials__yb004" data-filename="materials__yb004.svg">
+    <rect x="96.00" y="112.00" width="70.00" height="26.00" rx="2.00" ry="2.00" fill="none" stroke="#ff0000" stroke-opacity="0.55" stroke-width="0.2" class="label-outline"/>
+    <line x1="95.50" y1="111.50" x2="97.50" y2="111.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="111.50" x2="95.50" y2="113.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="111.50" x2="166.50" y2="111.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="111.50" x2="166.50" y2="113.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="138.50" x2="97.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="95.50" y1="136.50" x2="95.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="164.50" y1="138.50" x2="166.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+    <line x1="166.50" y1="136.50" x2="166.50" y2="138.50" stroke="black" stroke-width="0.2"/>
+  </g>
+  <line x1="12.00" y1="7.00" x2="12.00" y2="17.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="7.00" y1="12.00" x2="17.00" y2="12.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="288.00" y1="7.00" x2="288.00" y2="17.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="283.00" y1="12.00" x2="293.00" y2="12.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="12.00" y1="268.00" x2="12.00" y2="278.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="7.00" y1="273.00" x2="17.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="288.00" y1="268.00" x2="288.00" y2="278.00" stroke="black" stroke-width="0.3" class="alignment-mark"/><line x1="283.00" y1="273.00" x2="293.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/></svg>

@@ -1,0 +1,35 @@
+{
+  "run_id": "a8ad82a4753c",
+  "built_utc": "20260613T065016Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_tpu_for_ams",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "tpu_for_ams__53100.svg",
+    "tpu_for_ams__53101.svg",
+    "tpu_for_ams__53102.svg",
+    "tpu_for_ams__53200.svg",
+    "tpu_for_ams__53400.svg",
+    "tpu_for_ams__53500.svg",
+    "tpu_for_ams__53600.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_tpu_for_ams_letter",
+      "labels": 7,
+      "print": "spool_tpu_for_ams_letter_print.svg",
+      "cut": "spool_tpu_for_ams_letter_cut.svg",
+      "print_sha256": "6eaf2d521ee7e778b063fe582a00d4552fce996a5b2e9d423ee012d1b3f6a08c",
+      "cut_sha256": "3c3eb0d760f47ee61bb290eacdbac7f64313b4107e9ca3471c73eb87279b7d09",
+      "bambu_cut": "spool_tpu_for_ams_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "c72fc8d3cbfe857ba2c74a50ade2dc1c91fd3929875a9df3af3e3c8832233b2e"
+    }
+  ],
+  "bambu": true
+}

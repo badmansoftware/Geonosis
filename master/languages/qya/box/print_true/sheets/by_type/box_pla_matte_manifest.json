@@ -1,0 +1,53 @@
+{
+  "run_id": "a2844b729c62",
+  "built_utc": "20260613T065058Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_matte",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_matte__11100.svg",
+    "pla_matte__11101.svg",
+    "pla_matte__11102.svg",
+    "pla_matte__11103.svg",
+    "pla_matte__11104.svg",
+    "pla_matte__11200.svg",
+    "pla_matte__11201.svg",
+    "pla_matte__11202.svg",
+    "pla_matte__11203.svg",
+    "pla_matte__11204.svg",
+    "pla_matte__11300.svg",
+    "pla_matte__11400.svg",
+    "pla_matte__11401.svg",
+    "pla_matte__11500.svg",
+    "pla_matte__11501.svg",
+    "pla_matte__11502.svg",
+    "pla_matte__11600.svg",
+    "pla_matte__11601.svg",
+    "pla_matte__11602.svg",
+    "pla_matte__11603.svg",
+    "pla_matte__11700.svg",
+    "pla_matte__11800.svg",
+    "pla_matte__11801.svg",
+    "pla_matte__11802.svg",
+    "pla_matte__11803.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_matte_letter",
+      "labels": 25,
+      "print": "box_pla_matte_letter_print.svg",
+      "cut": "box_pla_matte_letter_cut.svg",
+      "print_sha256": "1627bb114c09345dce96b50bf33d72fe1b27b46f03009dac7932457808860365",
+      "cut_sha256": "83e5096303e61dfdef1920b88c6f48491123ffaadac790e13ff55a39d9c560d0",
+      "bambu_cut": "box_pla_matte_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "4605c018a999dffe894724c73812e82ef1c1376d840b8e68ddcf1756200af0d9"
+    }
+  ],
+  "bambu": true
+}

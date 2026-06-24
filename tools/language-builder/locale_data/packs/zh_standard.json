@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "zh_standard",
+      "language": "zh",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "天蓝色",
+            "bambu_green": "Bambu绿色",
+            "black": "黑色",
+            "blue": "蓝色",
+            "navy_blue": "海军蓝",
+            "olive": "橄榄色",
+            "orange": "橙色",
+            "red": "红色",
+            "silver": "银色",
+            "tangerine_yellow": "橘黄色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "gray": "灰色",
+            "orange": "橙色",
+            "red": "红色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "gray": "灰色",
+            "green": "绿色",
+            "red": "红色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "gray": "灰色",
+            "orange": "橙色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "黑色",
+            "clear_black": "透明黑色",
+            "transparent": "透明",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "黑色",
+            "gray": "灰色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG基础",
+          "short_text": "PETG基础",
+          "color_text_map": {
+            "black": "黑色",
+            "dark_brown": "深棕色",
+            "gray": "灰色",
+            "red": "红色",
+            "reflex_blue": "反射蓝",
+            "white": "白色",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "cream": "奶油",
+            "dark_gray": "深灰色",
+            "forest_green": "森林绿",
+            "gray": "灰色",
+            "green": "绿色",
+            "lake_blue": "湖蓝色",
+            "lime_green": "柠檬绿",
+            "orange": "橙色",
+            "peanut_brown": "花生棕",
+            "red": "红色",
+            "white": "白色",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG半透明",
+          "short_text": "PETG半透明",
+          "color_text_map": {
+            "clear": "透明",
+            "translucent_brown": "半透明棕色",
+            "translucent_gray": "半透明灰色",
+            "translucent_light_blue": "半透明浅蓝色",
+            "translucent_olive": "半透明橄榄色",
+            "translucent_orange": "半透明橙色",
+            "translucent_pink": "半透明粉色",
+            "translucent_purple": "半透明紫色",
+            "translucent_teal": "半透明青色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA 气动",
+          "short_text": "PLA 气动",
+          "color_text_map": {
+            "gray": "灰色",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA基本",
+          "short_text": "PLA基本",
+          "color_text_map": {
+            "bambu_green": "Bambu绿色",
+            "beige": "米色",
+            "black": "黑色",
+            "blue": "蓝色",
+            "blue_grey": "蓝灰色",
+            "bright_green": "亮绿色",
+            "bronze": "青铜色",
+            "brown": "棕色",
+            "cobalt_blue": "钴蓝",
+            "cocoa_brown": "可可棕",
+            "cyan": "青色",
+            "dark_gray": "深灰色",
+            "gold": "金色",
+            "gray": "灰色",
+            "hot_pink": "亮粉色",
+            "indigo_purple": "靛蓝紫",
+            "jade_white": "玉白",
+            "light_gray": "浅灰色",
+            "magenta": "品红",
+            "maroon_red": "栗色红",
+            "mistletoe_green": "槲寄生绿",
+            "orange": "橙色",
+            "pink": "粉色",
+            "pumpkin_orange": "南瓜橙",
+            "purple": "紫色",
+            "red": "红色",
+            "silver": "银色",
+            "sunflower_yellow": "向日葵黄",
+            "turquoise": "绿松石",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA基本梯度",
+          "short_text": "PLA基本梯度",
+          "color_text_map": {
+            "arctic_whisper": "北极低语",
+            "blueberry_bubblegum": "蓝莓泡泡糖",
+            "cotton_candy_cloud": "棉花糖云",
+            "dusk_glare": "黄昏眩光",
+            "mint_lime": "薄荷青柠",
+            "ocean_to_meadow": "海洋到草地",
+            "pink_citrus": "粉红柑橘",
+            "solar_breeze": "太阳微风"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "黑色",
+            "burgundy_red": "勃艮第红",
+            "iris_purple": "鸢尾紫",
+            "jeans_blue": "牛仔裤蓝色",
+            "lava_gray": "熔岩灰",
+            "matcha_green": "抹茶绿",
+            "royal_blue": "宝蓝色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA银河",
+          "short_text": "PLA银河",
+          "color_text_map": {
+            "brown": "棕色",
+            "green": "绿色",
+            "nebulae": "星云",
+            "purple": "紫色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA发光",
+          "short_text": "PLA发光",
+          "color_text_map": {
+            "glow_blue": "发光蓝色",
+            "glow_green": "发光绿",
+            "glow_orange": "发光橙",
+            "glow_pink": "发光粉红色",
+            "glow_yellow": "发光黄"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA大理石",
+          "short_text": "PLA大理石",
+          "color_text_map": {
+            "red_granite": "红色花岗岩",
+            "white_marble": "白色大理石"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA 哑光",
+          "short_text": "PLA 哑光",
+          "color_text_map": {
+            "matte_apple_green": "哑光苹果绿",
+            "matte_ash_gray": "哑光灰灰",
+            "matte_bone_white": "哑光骨白",
+            "matte_caramel": "哑光焦糖色",
+            "matte_charcoal": "哑光木炭",
+            "matte_dark_blue": "哑光深蓝色",
+            "matte_dark_brown": "哑光深棕色",
+            "matte_dark_chocolate": "哑光黑巧克力",
+            "matte_dark_green": "哑光深绿色",
+            "matte_dark_red": "哑光深红",
+            "matte_desert_tan": "哑光沙漠棕",
+            "matte_grass_green": "哑光草绿",
+            "matte_ice_blue": "哑光冰蓝",
+            "matte_ivory_white": "哑光象牙白",
+            "matte_latte_brown": "哑光拿铁棕",
+            "matte_lemon_yellow": "哑光柠檬黄",
+            "matte_lilac_purple": "哑光丁香紫",
+            "matte_mandarin_orange": "哑光橘子",
+            "matte_marine_blue": "哑光海洋蓝",
+            "matte_nardo_gray": "哑光纳尔多灰色",
+            "matte_plum": "哑光梅子色",
+            "matte_sakura_pink": "哑光樱花粉",
+            "matte_scarlet_red": "哑光猩红色",
+            "matte_sky_blue": "哑光天蓝色",
+            "matte_terracotta": "哑光陶土"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA 金属",
+          "short_text": "PLA 金属",
+          "color_text_map": {
+            "cobalt_blue_metallic": "钴蓝色金属漆",
+            "copper_brown_metallic": "铜棕色金属色",
+            "iridium_gold_metallic": "铱金金属",
+            "iron_gray_metallic": "铁灰色金属色",
+            "oxide_green_metallic": "氧化绿金属"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA丝绸+",
+          "short_text": "PLA丝绸+",
+          "color_text_map": {
+            "baby_blue": "淡蓝色",
+            "blue": "蓝色",
+            "candy_green": "糖果绿",
+            "candy_red": "糖果红",
+            "champagne": "香槟酒",
+            "gold": "金色",
+            "mint": "薄荷",
+            "pink": "粉色",
+            "purple": "紫色",
+            "rose_gold": "玫瑰金色",
+            "silver": "银色",
+            "titan_gray": "泰坦灰",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA 真丝多色",
+          "short_text": "PLA 真丝多色",
+          "color_text_map": {
+            "aurora_purple": "极光紫",
+            "blue_hawaii": "蓝色夏威夷",
+            "dawn_radiance": "黎明光辉",
+            "gilded_rose": "镀金玫瑰",
+            "midnight_blaze": "午夜火焰",
+            "mystic_magenta": "神秘洋红色",
+            "neon_city": "霓虹城",
+            "phantom_blue": "幻影蓝",
+            "south_beach": "南海滩",
+            "velvet_eclipse": "天鹅绒日蚀"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA 闪闪发光",
+          "short_text": "PLA 闪闪发光",
+          "color_text_map": {
+            "alpine_green_sparkle": "高山绿闪光",
+            "classic_gold_sparkle": "经典金闪闪",
+            "crimson_red_sparkle": "深红色闪光",
+            "onyx_black_sparkle": "玛瑙黑闪",
+            "royal_purple_sparkle": "皇家紫闪光",
+            "slate_gray_sparkle": "石板灰色闪光"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA坚韧+",
+          "short_text": "PLA坚韧+",
+          "color_text_map": {
+            "black": "黑色",
+            "cyan": "青色",
+            "gray": "灰色",
+            "orange": "橙色",
+            "silver": "银色",
+            "white": "白色",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA半透明",
+          "short_text": "PLA半透明",
+          "color_text_map": {
+            "blue": "蓝色",
+            "cherry_pink": "樱桃粉色",
+            "ice_blue": "冰蓝色",
+            "lavender": "薰衣草",
+            "light_jade": "浅玉",
+            "mellow_yellow": "柔和的黄色",
+            "orange": "橙色",
+            "purple": "紫色",
+            "red": "红色",
+            "teal": "青色"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA木",
+          "short_text": "PLA木",
+          "color_text_map": {
+            "black_walnut": "黑胡桃木",
+            "classic_birch": "经典桦木",
+            "clay_brown": "粘土棕",
+            "ochre_yellow": "赭黄色",
+            "rosewood": "玫瑰木",
+            "white_oak": "白橡木"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "黑色"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "透明"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "绿色"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA（新版本）",
+          "short_text": "Support for PLA（新版本）",
+          "color_text_map": {
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "黑色",
+            "nature": "自然"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "黑色",
+            "cyan": "青色",
+            "flesh": "肉",
+            "green": "绿色",
+            "orange": "橙色"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "黑色",
+            "blaze": "火焰",
+            "cocoa_brown": "可可棕",
+            "cystal_blue": "水晶蓝",
+            "frozen": "冷冻",
+            "grape_jelly": "葡萄果冻",
+            "quicksilver": "水银",
+            "white": "白色"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU95AHF",
+          "short_text": "TPU95AHF",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "gray": "灰色",
+            "red": "红色",
+            "white": "白色",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU 对应 AMS",
+          "short_text": "TPU 对应 AMS",
+          "color_text_map": {
+            "black": "黑色",
+            "blue": "蓝色",
+            "gray": "灰色",
+            "neon_green": "霓虹绿",
+            "red": "红色",
+            "white": "白色",
+            "yellow": "黄色"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "盒子标签 22 mm",
+          "short_text": "盒子22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "容器标签 12",
+          "short_text": "集装箱12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "构建板标签",
+          "short_text": "盘子"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "耗材标签 36 mm",
+          "short_text": "耗材 36"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9">
+  <title>box_pla_translucent — 279.4mm x 215.9mm — print at 100%</title>
+  <rect x="0" y="0" width="100%" height="100%" fill="white"/>
+  <g transform="translate(22,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901642376-986BB9A5" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901642376-986BB9A5" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901642376-986BB9A5">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901642376-986BB9A5)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901642376-986BB9A5)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#B50011" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="red">Red</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901642376-986BB9A5)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901640545-F703320B" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901640545-F703320B" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901640545-F703320B">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901640545-F703320B)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901640545-F703320B)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#F5B6CD" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="cherry_pink">Cherry Pink</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901640545-F703320B)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(74,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901641839-80D6554C" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901641839-80D6554C" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901641839-80D6554C">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901641839-80D6554C)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901641839-80D6554C)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#F74E02" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="orange">Orange</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901641839-80D6554C)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(100,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901641570-9CD7D023" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901641570-9CD7D023" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901641570-9CD7D023">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901641570-9CD7D023)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901641570-9CD7D023)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#F5DBAB" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="mellow_yellow">Mellow Yellow</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901641570-9CD7D023)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(126,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901641314-C1E620C6" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901641314-C1E620C6" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901641314-C1E620C6">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901641314-C1E620C6)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901641314-C1E620C6)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#96D8AF" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="light_jade">Light Jade</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901641314-C1E620C6)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(152,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901640811-516D2AD6" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901640811-516D2AD6" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901640811-516D2AD6">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901640811-516D2AD6)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901640811-516D2AD6)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#B8CDE9" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="ice_blue">Ice Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901640811-516D2AD6)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(178,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901640294-AAE561F3" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901640294-AAE561F3" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901640294-AAE561F3">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901640294-AAE561F3)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901640294-AAE561F3)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#0047BB" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="blue">Blue</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901640294-AAE561F3)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(204,22)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901642635-1AF49EA4" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901642635-1AF49EA4" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901642635-1AF49EA4">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901642635-1AF49EA4)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901642635-1AF49EA4)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#009FA1" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="teal">Teal</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901642635-1AF49EA4)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(22,48)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901642100-76411C79" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901642100-76411C79" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901642100-76411C79">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901642100-76411C79)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901642100-76411C79)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#8344B0" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#FFFFFF" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="purple">Purple</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901642100-76411C79)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <g transform="translate(48,48)"><defs>
+    <pattern id="boxCheckerDark_BOX-20260526163901641075-774B4557" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <pattern id="boxCheckerLight_BOX-20260526163901641075-774B4557" width="2.5" height="2.5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="1" height="2.5" fill="#B3B3B3"/>
+    </pattern>
+    <clipPath id="boxNozzleClip_BOX-20260526163901641075-774B4557">
+      <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00"/>
+    </clipPath>
+  </defs>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="white" stroke="#222222" stroke-width="0.3"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#FFFFFF" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerDark_BOX-20260526163901641075-774B4557)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="url(#boxCheckerLight_BOX-20260526163901641075-774B4557)" stroke="none"/>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="#B8ACD6" fill-opacity="0.60" stroke="none"/>
+  <text x="1.00" y="8.54" font-family="Arial, Helvetica, sans-serif" font-size="2.50mm" dominant-baseline="alphabetic" font-weight="700" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-type-key="filament.pla_translucent">PLA Translucent</text>
+  <text x="1.00" y="18.03" font-family="Arial, Helvetica, sans-serif" font-size="2.00mm" dominant-baseline="alphabetic" fill="#111111" textLength="20.00" lengthAdjust="spacingAndGlyphs" data-color-key="lavender">Lavender</text>
+  <!-- Box nozzle half-circle indicators (model-driven) -->
+  <g clip-path="url(#boxNozzleClip_BOX-20260526163901641075-774B4557)">
+    <path d="M 0.05,22.00 A 2.72,2.72 0 0 1 5.49,22.00 Z" fill="#FF9800" stroke="#000000" stroke-width="0.25"/>
+    <text x="2.77" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#000000">.2</text>
+    <path d="M 5.54,22.00 A 2.72,2.72 0 0 1 10.98,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="8.26" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.4</text>
+    <path d="M 11.03,22.00 A 2.72,2.72 0 0 1 16.46,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="13.74" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.6</text>
+    <path d="M 16.51,22.00 A 2.72,2.72 0 0 1 21.95,22.00 Z" fill="#39FF14" stroke="#000000" stroke-width="0.25"/>
+    <text x="19.23" y="21.13" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="0.68mm" fill="#C8C8C8">.8</text>
+  </g>
+  <rect x="0.00" y="0.00" width="22.00" height="22.00" rx="2.00" fill="none" stroke="#222222" stroke-width="0.3"/>
+</g>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="12.00" x2="264.40" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="15.00" x2="267.40" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="197.90" x2="15.00" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="200.90" x2="18.00" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="264.40" y1="197.90" x2="264.40" y2="203.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="261.40" y1="200.90" x2="267.40" y2="200.90" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

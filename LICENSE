@@ -1,0 +1,16 @@
+This project is multi-licensed. The applicable license depends on the asset:
+
+  * Label artifacts (spool/box/materials SVG & PDF, sheets,
+    cut files .svg/.dxf) ....... CC BY-NC 4.0   -> LICENSE-CC-BY-NC-4.0
+  * Language packs (Gray Elvish + community sets) .... CC BY 4.0  -> LICENSE-CC-BY-4.0
+  * Python tooling (tools/) ......................... Apache 2.0 -> LICENSE-APACHE-2.0
+  * Documentation (*.md) ............................ CC BY 4.0  -> LICENSE-CC-BY-4.0
+
+See LICENSING.md for the full breakdown, the directory map, and the trademark
+notice. Commercial licenses for label artifacts are available from BadMan Software.
+
+Trademarks: these licenses cover only the original work in this project (label
+layout, sheet format, cut geometry, language system) and grant NO rights in any
+third-party trademark, logo, product name, or specification. "Bambu Lab" and its
+product names/logos are trademarks of their owners; these labels are unofficial
+and not affiliated with or endorsed by Bambu Lab.

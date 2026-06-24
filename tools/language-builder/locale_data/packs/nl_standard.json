@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "nl_standard",
+      "language": "nl",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "Azuur",
+            "bambu_green": "Bambu Groen",
+            "black": "Zwart",
+            "blue": "Blauw",
+            "navy_blue": "Marineblauw",
+            "olive": "Olijf",
+            "orange": "Oranje",
+            "red": "Rood",
+            "silver": "Zilver",
+            "tangerine_yellow": "Mandarijn Geel",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "gray": "Grijs",
+            "orange": "Oranje",
+            "red": "Rood",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "gray": "Grijs",
+            "green": "Groen",
+            "red": "Rood",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "gray": "Grijs",
+            "orange": "Oranje",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "Zwart",
+            "clear_black": "Helder zwart",
+            "transparent": "Transparant",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "Zwart",
+            "gray": "Grijs",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG Basis",
+          "short_text": "PETG Basis",
+          "color_text_map": {
+            "black": "Zwart",
+            "dark_brown": "Donkerbruin",
+            "gray": "Grijs",
+            "red": "Rood",
+            "reflex_blue": "Reflexblauw",
+            "white": "Wit",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "cream": "Room",
+            "dark_gray": "Donkergrijs",
+            "forest_green": "Bos Groen",
+            "gray": "Grijs",
+            "green": "Groen",
+            "lake_blue": "Meer Blauw",
+            "lime_green": "Limoengroen",
+            "orange": "Oranje",
+            "peanut_brown": "Pinda Bruin",
+            "red": "Rood",
+            "white": "Wit",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG Doorschijnend",
+          "short_text": "PETG Doorschijnend",
+          "color_text_map": {
+            "clear": "Helder",
+            "translucent_brown": "Doorschijnend bruin",
+            "translucent_gray": "Doorschijnend grijs",
+            "translucent_light_blue": "Doorschijnend lichtblauw",
+            "translucent_olive": "Doorschijnend olijfgroen",
+            "translucent_orange": "Doorschijnend oranje",
+            "translucent_pink": "Doorschijnend roze",
+            "translucent_purple": "Doorschijnend paars",
+            "translucent_teal": "Doorschijnend blauwgroen"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA Aero",
+          "short_text": "PLA Aero",
+          "color_text_map": {
+            "gray": "Grijs",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA Basis",
+          "short_text": "PLA Basis",
+          "color_text_map": {
+            "bambu_green": "Bambu Groen",
+            "beige": "Beige",
+            "black": "Zwart",
+            "blue": "Blauw",
+            "blue_grey": "Blauw Grijs",
+            "bright_green": "Helder groen",
+            "bronze": "Brons",
+            "brown": "Bruin",
+            "cobalt_blue": "Kobaltblauw",
+            "cocoa_brown": "Cacao Bruin",
+            "cyan": "Cyaan",
+            "dark_gray": "Donkergrijs",
+            "gold": "Goud",
+            "gray": "Grijs",
+            "hot_pink": "Heet roze",
+            "indigo_purple": "Indigopaars",
+            "jade_white": "Jade Wit",
+            "light_gray": "Lichtgrijs",
+            "magenta": "Magenta",
+            "maroon_red": "Kastanjebruin rood",
+            "mistletoe_green": "Maretak Groen",
+            "orange": "Oranje",
+            "pink": "Roze",
+            "pumpkin_orange": "Pompoen Oranje",
+            "purple": "Paars",
+            "red": "Rood",
+            "silver": "Zilver",
+            "sunflower_yellow": "Zonnebloem Geel",
+            "turquoise": "Turkoois",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA Basisgradiënt",
+          "short_text": "PLA Basisgradiënt",
+          "color_text_map": {
+            "arctic_whisper": "Arctisch gefluister",
+            "blueberry_bubblegum": "Bosbessen kauwgom",
+            "cotton_candy_cloud": "Suikerspinwolk",
+            "dusk_glare": "Schemering schittering",
+            "mint_lime": "Munt Limoen",
+            "ocean_to_meadow": "Oceaan tot weide",
+            "pink_citrus": "Roze Citrus",
+            "solar_breeze": "Zonnebries"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "Zwart",
+            "burgundy_red": "Bourgondië Rood",
+            "iris_purple": "Iris Paars",
+            "jeans_blue": "Jeansblauw",
+            "lava_gray": "Lavagrijs",
+            "matcha_green": "Matcha Groen",
+            "royal_blue": "Koningsblauw"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA Melkwegstelsel",
+          "short_text": "PLA Melkwegstelsel",
+          "color_text_map": {
+            "brown": "Bruin",
+            "green": "Groen",
+            "nebulae": "Nevels",
+            "purple": "Paars"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA Gloed",
+          "short_text": "PLA Gloed",
+          "color_text_map": {
+            "glow_blue": "Gloed blauw",
+            "glow_green": "Gloed groen",
+            "glow_orange": "Gloed oranje",
+            "glow_pink": "Gloed roze",
+            "glow_yellow": "Gloed geel"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA Marmer",
+          "short_text": "PLA Marmer",
+          "color_text_map": {
+            "red_granite": "Rood graniet",
+            "white_marble": "Wit marmer"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA Mat",
+          "short_text": "PLA Mat",
+          "color_text_map": {
+            "matte_apple_green": "Mat Appelgroen",
+            "matte_ash_gray": "Mat asgrijs",
+            "matte_bone_white": "Mat beenwit",
+            "matte_caramel": "Matte karamel",
+            "matte_charcoal": "Matte houtskool",
+            "matte_dark_blue": "Mat donkerblauw",
+            "matte_dark_brown": "Mat donkerbruin",
+            "matte_dark_chocolate": "Matte donkere chocolade",
+            "matte_dark_green": "Mat donkergroen",
+            "matte_dark_red": "Mat donkerrood",
+            "matte_desert_tan": "Mat woestijnbruin",
+            "matte_grass_green": "Mat grasgroen",
+            "matte_ice_blue": "Mat ijsblauw",
+            "matte_ivory_white": "Mat ivoorwit",
+            "matte_latte_brown": "Mat lattebruin",
+            "matte_lemon_yellow": "Mat citroengeel",
+            "matte_lilac_purple": "Mat Lila Paars",
+            "matte_mandarin_orange": "Mat Mandarijn Sinaasappel",
+            "matte_marine_blue": "Mat marineblauw",
+            "matte_nardo_gray": "Mat Nardo Grijs",
+            "matte_plum": "Matte pruim",
+            "matte_sakura_pink": "Mat Sakura-roze",
+            "matte_scarlet_red": "Mat scharlakenrood",
+            "matte_sky_blue": "Mat hemelsblauw",
+            "matte_terracotta": "Mat terracotta"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA Metaal",
+          "short_text": "PLA Metaal",
+          "color_text_map": {
+            "cobalt_blue_metallic": "Kobaltblauw metallic",
+            "copper_brown_metallic": "Koperbruin metallic",
+            "iridium_gold_metallic": "Iridiumgoud metallic",
+            "iron_gray_metallic": "Ijzergrijs metallic",
+            "oxide_green_metallic": "Oxidegroen metallic"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA Zijde+",
+          "short_text": "PLA Zijde+",
+          "color_text_map": {
+            "baby_blue": "Babyblauw",
+            "blue": "Blauw",
+            "candy_green": "Snoep Groen",
+            "candy_red": "Snoep Rood",
+            "champagne": "Champagne",
+            "gold": "Goud",
+            "mint": "Munt",
+            "pink": "Roze",
+            "purple": "Paars",
+            "rose_gold": "Rosé goud",
+            "silver": "Zilver",
+            "titan_gray": "Titaangrijs",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA Veelkleurige zijde",
+          "short_text": "PLA Veelkleurige zijde",
+          "color_text_map": {
+            "aurora_purple": "Aurora Paars",
+            "blue_hawaii": "Blauw Hawaï",
+            "dawn_radiance": "Dageraad uitstraling",
+            "gilded_rose": "Vergulde roos",
+            "midnight_blaze": "Middernachtsvlam",
+            "mystic_magenta": "Mystiek magenta",
+            "neon_city": "Neonstad",
+            "phantom_blue": "Fantoomblauw",
+            "south_beach": "Zuid-strand",
+            "velvet_eclipse": "Fluwelen zonsverduistering"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA Glinstering",
+          "short_text": "PLA Glinstering",
+          "color_text_map": {
+            "alpine_green_sparkle": "Alpengroene schittering",
+            "classic_gold_sparkle": "Klassieke gouden schittering",
+            "crimson_red_sparkle": "Karmozijnrode rode schittering",
+            "onyx_black_sparkle": "Onyx zwarte schittering",
+            "royal_purple_sparkle": "Koninklijke paarse schittering",
+            "slate_gray_sparkle": "Leisteengrijze glans"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA Stoer+",
+          "short_text": "PLA Stoer+",
+          "color_text_map": {
+            "black": "Zwart",
+            "cyan": "Cyaan",
+            "gray": "Grijs",
+            "orange": "Oranje",
+            "silver": "Zilver",
+            "white": "Wit",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA Doorschijnend",
+          "short_text": "PLA Doorschijnend",
+          "color_text_map": {
+            "blue": "Blauw",
+            "cherry_pink": "Kersenroze",
+            "ice_blue": "IJsblauw",
+            "lavender": "Lavendel",
+            "light_jade": "Lichte Jade",
+            "mellow_yellow": "Zacht geel",
+            "orange": "Oranje",
+            "purple": "Paars",
+            "red": "Rood",
+            "teal": "Wintertaling"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA Hout",
+          "short_text": "PLA Hout",
+          "color_text_map": {
+            "black_walnut": "Zwarte walnoot",
+            "classic_birch": "Klassieke berk",
+            "clay_brown": "Klei Bruin",
+            "ochre_yellow": "Okergeel",
+            "rosewood": "Rozenhout",
+            "white_oak": "Witte eik"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "Zwart"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "Helder"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "Groen"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA (nieuwe versie)",
+          "short_text": "Support for PLA (nieuwe versie)",
+          "color_text_map": {
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "Zwart",
+            "nature": "Natuur"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "Zwart",
+            "cyan": "Cyaan",
+            "flesh": "Vlees",
+            "green": "Groen",
+            "orange": "Oranje"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "Zwart",
+            "blaze": "Blaas",
+            "cocoa_brown": "Cacao Bruin",
+            "cystal_blue": "Crystal blauw",
+            "frozen": "Bevroren",
+            "grape_jelly": "Druivengelei",
+            "quicksilver": "Kwik",
+            "white": "Wit"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95A HF",
+          "short_text": "TPU 95A HF",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "gray": "Grijs",
+            "red": "Rood",
+            "white": "Wit",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU voor AMS",
+          "short_text": "TPU voor AMS",
+          "color_text_map": {
+            "black": "Zwart",
+            "blue": "Blauw",
+            "gray": "Grijs",
+            "neon_green": "Neongroen",
+            "red": "Rood",
+            "white": "Wit",
+            "yellow": "Geel"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "Dooslabel 22 mm",
+          "short_text": "Vak 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "Containerlabel 12",
+          "short_text": "Houder 12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "Bouwplaatlabel",
+          "short_text": "Bord"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "Benodigdhedenlabel 36 mm",
+          "short_text": "Benodigdheden 36"
+        }
+      ]
+    }
+  ]
+}

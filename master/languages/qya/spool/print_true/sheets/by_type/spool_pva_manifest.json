@@ -1,0 +1,29 @@
+{
+  "run_id": "8b20e9b62fc1",
+  "built_utc": "20260613T065056Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pva",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pva__66400.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pva_letter",
+      "labels": 1,
+      "print": "spool_pva_letter_print.svg",
+      "cut": "spool_pva_letter_cut.svg",
+      "print_sha256": "8a0e1e1a5b4c8cc5b07c6bb11db02dad116e6a00b3200c3fc0a0ab568f6c393b",
+      "cut_sha256": "7709adb68704477c111aa8f36fb4248ae69615f411aca64024deeb895915c834",
+      "bambu_cut": "spool_pva_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "cdae4a80e994ec22a9db37c39ea076bd46aaa01eaebb430b0354bef51072b533"
+    }
+  ],
+  "bambu": true
+}

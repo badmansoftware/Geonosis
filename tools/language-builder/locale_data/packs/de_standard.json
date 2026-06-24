@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "de_standard",
+      "language": "de",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "Azurblau",
+            "bambu_green": "Bambu Grün",
+            "black": "Schwarz",
+            "blue": "Blau",
+            "navy_blue": "Marineblau",
+            "olive": "Oliv",
+            "orange": "Orange",
+            "red": "Rot",
+            "silver": "Silber",
+            "tangerine_yellow": "Mandarinengelb",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "gray": "Grau",
+            "orange": "Orange",
+            "red": "Rot",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "gray": "Grau",
+            "green": "Gruen",
+            "red": "Rot",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "gray": "Grau",
+            "orange": "Orange",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "Schwarz",
+            "clear_black": "Klares Schwarz",
+            "transparent": "Transparent",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "Schwarz",
+            "gray": "Grau",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG Grundlegend",
+          "short_text": "PETG Grundlegend",
+          "color_text_map": {
+            "black": "Schwarz",
+            "dark_brown": "Dunkelbraun",
+            "gray": "Grau",
+            "red": "Rot",
+            "reflex_blue": "Reflexblau",
+            "white": "Weiss",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "cream": "Creme",
+            "dark_gray": "Dunkelgrau",
+            "forest_green": "Waldgrün",
+            "gray": "Grau",
+            "green": "Gruen",
+            "lake_blue": "Blauer See",
+            "lime_green": "Limettengrün",
+            "orange": "Orange",
+            "peanut_brown": "Erdnussbraun",
+            "red": "Rot",
+            "white": "Weiss",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG Durchscheinend",
+          "short_text": "PETG Durchscheinend",
+          "color_text_map": {
+            "clear": "Klar",
+            "translucent_brown": "Durchscheinendes Braun",
+            "translucent_gray": "Durchscheinendes Grau",
+            "translucent_light_blue": "Durchscheinendes Hellblau",
+            "translucent_olive": "Durchscheinendes Oliv",
+            "translucent_orange": "Durchscheinendes Orange",
+            "translucent_pink": "Durchscheinendes Rosa",
+            "translucent_purple": "Durchscheinendes Lila",
+            "translucent_teal": "Durchscheinendes Blaugrün"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA Aero",
+          "short_text": "PLA Aero",
+          "color_text_map": {
+            "gray": "Grau",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA Grundlegend",
+          "short_text": "PLA Grundlegend",
+          "color_text_map": {
+            "bambu_green": "Bambu Grün",
+            "beige": "Beige",
+            "black": "Schwarz",
+            "blue": "Blau",
+            "blue_grey": "Blaugrau",
+            "bright_green": "Hellgrün",
+            "bronze": "Bronze",
+            "brown": "Braun",
+            "cobalt_blue": "Kobaltblau",
+            "cocoa_brown": "Kakaobraun",
+            "cyan": "Cyan",
+            "dark_gray": "Dunkelgrau",
+            "gold": "Gold",
+            "gray": "Grau",
+            "hot_pink": "Heißes Rosa",
+            "indigo_purple": "Indigo-Lila",
+            "jade_white": "Jadeweiß",
+            "light_gray": "Hellgrau",
+            "magenta": "Magenta",
+            "maroon_red": "Kastanienrot",
+            "mistletoe_green": "Mistelgrün",
+            "orange": "Orange",
+            "pink": "Pink",
+            "pumpkin_orange": "Kürbisorange",
+            "purple": "Lila",
+            "red": "Rot",
+            "silver": "Silber",
+            "sunflower_yellow": "Sonnenblumengelb",
+            "turquoise": "Türkis",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA Grundgradient",
+          "short_text": "PLA Grundgradient",
+          "color_text_map": {
+            "arctic_whisper": "Arktisches Flüstern",
+            "blueberry_bubblegum": "Blaubeer-Kaugummi",
+            "cotton_candy_cloud": "Zuckerwattewolke",
+            "dusk_glare": "Dämmerungsblendung",
+            "mint_lime": "Minze Limette",
+            "ocean_to_meadow": "Vom Ozean zur Wiese",
+            "pink_citrus": "Rosa Zitrusfrüchte",
+            "solar_breeze": "Sonnenbrise"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "Schwarz",
+            "burgundy_red": "Burgunderrot",
+            "iris_purple": "Iris Lila",
+            "jeans_blue": "Jeansblau",
+            "lava_gray": "Lavagrau",
+            "matcha_green": "Matcha-Grün",
+            "royal_blue": "Königsblau"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA Galaxie",
+          "short_text": "PLA Galaxie",
+          "color_text_map": {
+            "brown": "Braun",
+            "green": "Gruen",
+            "nebulae": "Nebel",
+            "purple": "Lila"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA Leuchten",
+          "short_text": "PLA Leuchten",
+          "color_text_map": {
+            "glow_blue": "Blau leuchtend",
+            "glow_green": "Grün leuchtend",
+            "glow_orange": "Leuchtendes Orange",
+            "glow_pink": "Leuchtendes Rosa",
+            "glow_yellow": "Leuchtendes Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA Marmor",
+          "short_text": "PLA Marmor",
+          "color_text_map": {
+            "red_granite": "Roter Granit",
+            "white_marble": "Weißer Marmor"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA Matt",
+          "short_text": "PLA Matt",
+          "color_text_map": {
+            "matte_apple_green": "Mattes Apfelgrün",
+            "matte_ash_gray": "Mattes Aschgrau",
+            "matte_bone_white": "Mattes Knochenweiß",
+            "matte_caramel": "Mattes Karamell",
+            "matte_charcoal": "Matte Kohle",
+            "matte_dark_blue": "Mattes Dunkelblau",
+            "matte_dark_brown": "Mattes Dunkelbraun",
+            "matte_dark_chocolate": "Matte dunkle Schokolade",
+            "matte_dark_green": "Mattes Dunkelgrün",
+            "matte_dark_red": "Mattes Dunkelrot",
+            "matte_desert_tan": "Mattes Wüstenbräunchen",
+            "matte_grass_green": "Mattes Grasgrün",
+            "matte_ice_blue": "Mattes Eisblau",
+            "matte_ivory_white": "Mattes Elfenbeinweiß",
+            "matte_latte_brown": "Mattes Lattebraun",
+            "matte_lemon_yellow": "Mattes Zitronengelb",
+            "matte_lilac_purple": "Mattes Lila-Lila",
+            "matte_mandarin_orange": "Matte Mandarine",
+            "matte_marine_blue": "Mattes Marineblau",
+            "matte_nardo_gray": "Mattes Nardograu",
+            "matte_plum": "Matte Pflaume",
+            "matte_sakura_pink": "Mattes Sakura-Rosa",
+            "matte_scarlet_red": "Mattes Scharlachrot",
+            "matte_sky_blue": "Mattes Himmelblau",
+            "matte_terracotta": "Mattes Terrakotta"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA Metall",
+          "short_text": "PLA Metall",
+          "color_text_map": {
+            "cobalt_blue_metallic": "Kobaltblau-Metallic",
+            "copper_brown_metallic": "Kupferbraun Metallic",
+            "iridium_gold_metallic": "Iridiumgold-Metallic",
+            "iron_gray_metallic": "Eisengrau Metallic",
+            "oxide_green_metallic": "Oxidgrün Metallic"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA Seide+",
+          "short_text": "PLA Seide+",
+          "color_text_map": {
+            "baby_blue": "Babyblau",
+            "blue": "Blau",
+            "candy_green": "Bonbongrün",
+            "candy_red": "Bonbonrot",
+            "champagne": "Sekt",
+            "gold": "Gold",
+            "mint": "Minze",
+            "pink": "Pink",
+            "purple": "Lila",
+            "rose_gold": "Roségold",
+            "silver": "Silber",
+            "titan_gray": "Titangrau",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA Seide Mehrfarbig",
+          "short_text": "PLA Seide Mehrfarbig",
+          "color_text_map": {
+            "aurora_purple": "Aurora Lila",
+            "blue_hawaii": "Blaues Hawaii",
+            "dawn_radiance": "Morgenröte",
+            "gilded_rose": "Vergoldete Rose",
+            "midnight_blaze": "Mitternachtsflamme",
+            "mystic_magenta": "Mystisches Magenta",
+            "neon_city": "Neonstadt",
+            "phantom_blue": "Phantomblau",
+            "south_beach": "Südstrand",
+            "velvet_eclipse": "Samtfinsternis"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA Funkeln",
+          "short_text": "PLA Funkeln",
+          "color_text_map": {
+            "alpine_green_sparkle": "Alpengrüner Glanz",
+            "classic_gold_sparkle": "Klassischer Goldglanz",
+            "crimson_red_sparkle": "Purpurroter Glanz",
+            "onyx_black_sparkle": "Onyxschwarzer Glanz",
+            "royal_purple_sparkle": "Königlicher lila Glitzer",
+            "slate_gray_sparkle": "Schiefergrauer Glanz"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA Hart+",
+          "short_text": "PLA Hart+",
+          "color_text_map": {
+            "black": "Schwarz",
+            "cyan": "Cyan",
+            "gray": "Grau",
+            "orange": "Orange",
+            "silver": "Silber",
+            "white": "Weiss",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA Durchscheinend",
+          "short_text": "PLA Durchscheinend",
+          "color_text_map": {
+            "blue": "Blau",
+            "cherry_pink": "Kirschrosa",
+            "ice_blue": "Eisblau",
+            "lavender": "Lavendel",
+            "light_jade": "Helle Jade",
+            "mellow_yellow": "Sanftes Gelb",
+            "orange": "Orange",
+            "purple": "Lila",
+            "red": "Rot",
+            "teal": "Blaugrün"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA Holz",
+          "short_text": "PLA Holz",
+          "color_text_map": {
+            "black_walnut": "Schwarze Walnuss",
+            "classic_birch": "Klassische Birke",
+            "clay_brown": "Tonbraun",
+            "ochre_yellow": "Ockergelb",
+            "rosewood": "Rosenholz",
+            "white_oak": "Weiße Eiche"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "Schwarz"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "Klar"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "Gruen"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA (Neue Version)",
+          "short_text": "Support for PLA (Neue Version)",
+          "color_text_map": {
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "Schwarz",
+            "nature": "Natur"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "Schwarz",
+            "cyan": "Cyan",
+            "flesh": "Fleisch",
+            "green": "Gruen",
+            "orange": "Orange"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blaze": "Blaze",
+            "cocoa_brown": "Kakaobraun",
+            "cystal_blue": "Kristallblau",
+            "frozen": "Gefroren",
+            "grape_jelly": "Traubengelee",
+            "quicksilver": "Quecksilber",
+            "white": "Weiss"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95A HF",
+          "short_text": "TPU 95A HF",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "gray": "Grau",
+            "red": "Rot",
+            "white": "Weiss",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU für AMS",
+          "short_text": "TPU für AMS",
+          "color_text_map": {
+            "black": "Schwarz",
+            "blue": "Blau",
+            "gray": "Grau",
+            "neon_green": "Neongrün",
+            "red": "Rot",
+            "white": "Weiss",
+            "yellow": "Gelb"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "Kartonetikett 22 mm",
+          "short_text": "Kasten 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "Behälteretikett 12",
+          "short_text": "Behälter 12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "Etikett der Bauplatte",
+          "short_text": "Platte"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "Verbrauchsmaterialetikett 36 mm",
+          "short_text": "Lieferungen 36"
+        }
+      ]
+    }
+  ]
+}

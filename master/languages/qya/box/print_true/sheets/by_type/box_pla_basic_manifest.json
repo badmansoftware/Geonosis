@@ -1,0 +1,58 @@
+{
+  "run_id": "02eb03cc4d7d",
+  "built_utc": "20260613T065058Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_basic",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_basic__10100.svg",
+    "pla_basic__10101.svg",
+    "pla_basic__10102.svg",
+    "pla_basic__10103.svg",
+    "pla_basic__10104.svg",
+    "pla_basic__10105.svg",
+    "pla_basic__10200.svg",
+    "pla_basic__10201.svg",
+    "pla_basic__10202.svg",
+    "pla_basic__10203.svg",
+    "pla_basic__10204.svg",
+    "pla_basic__10205.svg",
+    "pla_basic__10300.svg",
+    "pla_basic__10301.svg",
+    "pla_basic__10400.svg",
+    "pla_basic__10401.svg",
+    "pla_basic__10402.svg",
+    "pla_basic__10501.svg",
+    "pla_basic__10502.svg",
+    "pla_basic__10503.svg",
+    "pla_basic__10601.svg",
+    "pla_basic__10602.svg",
+    "pla_basic__10603.svg",
+    "pla_basic__10604.svg",
+    "pla_basic__10605.svg",
+    "pla_basic__10700.svg",
+    "pla_basic__10701.svg",
+    "pla_basic__10800.svg",
+    "pla_basic__10801.svg",
+    "pla_basic__10802.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_basic_letter",
+      "labels": 30,
+      "print": "box_pla_basic_letter_print.svg",
+      "cut": "box_pla_basic_letter_cut.svg",
+      "print_sha256": "bf5027fa065b31363664d2c4792e53d1e0809ff82c10a539b19233faec6fd6ce",
+      "cut_sha256": "80a64e8b1d80d386d3bee158de95344edd85cda4e902c4fc0582cc5f36c9b011",
+      "bambu_cut": "box_pla_basic_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "3819cd059f666f52c385ad4658f54f0bea7976db93017d11f2470ed4abcf2c90"
+    }
+  ],
+  "bambu": true
+}

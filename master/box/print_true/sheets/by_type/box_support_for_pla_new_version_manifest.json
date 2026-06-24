@@ -1,0 +1,29 @@
+{
+  "run_id": "804552dc3413",
+  "built_utc": "20260613T065018Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_support_for_pla_new_version",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "support_for_pla_new_version__65104.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_support_for_pla_new_version_letter",
+      "labels": 1,
+      "print": "box_support_for_pla_new_version_letter_print.svg",
+      "cut": "box_support_for_pla_new_version_letter_cut.svg",
+      "print_sha256": "8a9c912a8f48016ada2818d5aacebd36206c7cab3e62d11cc289e17486cbef99",
+      "cut_sha256": "09eaca112b68fb74f146cb0c6373c00cfd5a2e5fdb210facee35bc0763b33032",
+      "bambu_cut": "box_support_for_pla_new_version_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "60f34e62a133891733dd3b7b9f61f953b5fa4596b154b984223b1534344a8390"
+    }
+  ],
+  "bambu": true
+}

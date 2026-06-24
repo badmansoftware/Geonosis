@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="26mm" viewBox="0.0 0.0 70.0 26.0">
+  <title>materials__black_walnut_plywood — 70mm x 26mm — print at 100%</title><!-- SUPPLIES_LABEL shape="capsule" title="Black Walnut Plywood" name="3mm" material_type_display="Black Walnut Plywood" -->
+  <rect x="0.00" y="0.00" width="70.00" height="26.00" rx="0.52" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="0.35"/>
+  <rect x="3.20" y="23.05" width="40.80" height="0.95" rx="0.36" fill="#202124" opacity="0.95"/>
+  <rect x="47.00" y="3.00" width="20.00" height="20.00" rx="0.52" fill="#202124" stroke="#202124" stroke-width="0.20"/>
+  <text x="3.20" y="8.84" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Black Walnut</text>
+  <text x="3.20" y="15.67" font-family="Arial, Helvetica, sans-serif" font-size="1.32mm" font-weight="700" fill="#111111">Plywood</text>
+  <text x="3.20" y="22.50" font-family="Arial, Helvetica, sans-serif" font-size="1.04mm" fill="#111111">3mm</text>
+</svg>

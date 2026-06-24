@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "ko_standard",
+      "language": "ko",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "하늘빛",
+            "bambu_green": "Bambu 녹색",
+            "black": "검정",
+            "blue": "파랑",
+            "navy_blue": "네이비 블루",
+            "olive": "올리브",
+            "orange": "주황",
+            "red": "빨강",
+            "silver": "은색",
+            "tangerine_yellow": "탠저린 옐로우",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "gray": "회색",
+            "orange": "주황",
+            "red": "빨강",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "gray": "회색",
+            "green": "초록",
+            "red": "빨강",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "gray": "회색",
+            "orange": "주황",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "검정",
+            "clear_black": "클리어 블랙",
+            "transparent": "투명",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "검정",
+            "gray": "회색",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG 기본",
+          "short_text": "PETG 기본",
+          "color_text_map": {
+            "black": "검정",
+            "dark_brown": "다크 브라운",
+            "gray": "회색",
+            "red": "빨강",
+            "reflex_blue": "리플렉스 블루",
+            "white": "흰색",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "cream": "크림",
+            "dark_gray": "다크 그레이",
+            "forest_green": "포레스트 그린",
+            "gray": "회색",
+            "green": "초록",
+            "lake_blue": "레이크 블루",
+            "lime_green": "라임 그린",
+            "orange": "주황",
+            "peanut_brown": "땅콩 브라운",
+            "red": "빨강",
+            "white": "흰색",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG 반투명",
+          "short_text": "PETG 반투명",
+          "color_text_map": {
+            "clear": "투명",
+            "translucent_brown": "반투명 브라운",
+            "translucent_gray": "반투명 그레이",
+            "translucent_light_blue": "반투명 라이트 블루",
+            "translucent_olive": "반투명 올리브",
+            "translucent_orange": "반투명 오렌지",
+            "translucent_pink": "반투명 핑크",
+            "translucent_purple": "반투명 보라색",
+            "translucent_teal": "반투명 청록색"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA 에어로",
+          "short_text": "PLA 에어로",
+          "color_text_map": {
+            "gray": "회색",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA 기본",
+          "short_text": "PLA 기본",
+          "color_text_map": {
+            "bambu_green": "Bambu 녹색",
+            "beige": "베이지",
+            "black": "검정",
+            "blue": "파랑",
+            "blue_grey": "블루 그레이",
+            "bright_green": "밝은 녹색",
+            "bronze": "청동",
+            "brown": "갈색",
+            "cobalt_blue": "코발트블루",
+            "cocoa_brown": "코코아 브라운",
+            "cyan": "시안",
+            "dark_gray": "다크 그레이",
+            "gold": "금색",
+            "gray": "회색",
+            "hot_pink": "핫핑크",
+            "indigo_purple": "인디고 퍼플",
+            "jade_white": "제이드 화이트",
+            "light_gray": "라이트 그레이",
+            "magenta": "마젠타",
+            "maroon_red": "마룬 레드",
+            "mistletoe_green": "미슬토 그린",
+            "orange": "주황",
+            "pink": "분홍",
+            "pumpkin_orange": "호박 오렌지",
+            "purple": "보라",
+            "red": "빨강",
+            "silver": "은색",
+            "sunflower_yellow": "해바라기 노란색",
+            "turquoise": "터키 옥",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA 기본 그라데이션",
+          "short_text": "PLA 기본 그라데이션",
+          "color_text_map": {
+            "arctic_whisper": "북극의 속삭임",
+            "blueberry_bubblegum": "블루베리 풍선껌",
+            "cotton_candy_cloud": "솜사탕구름",
+            "dusk_glare": "황혼의 눈부심",
+            "mint_lime": "민트 라임",
+            "ocean_to_meadow": "바다에서 초원까지",
+            "pink_citrus": "핑크 시트러스",
+            "solar_breeze": "솔라 브리즈"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "검정",
+            "burgundy_red": "부르고뉴 레드",
+            "iris_purple": "아이리스 퍼플",
+            "jeans_blue": "청바지 블루",
+            "lava_gray": "라바 그레이",
+            "matcha_green": "말차 그린",
+            "royal_blue": "로얄블루"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA 갤럭시",
+          "short_text": "PLA 갤럭시",
+          "color_text_map": {
+            "brown": "갈색",
+            "green": "초록",
+            "nebulae": "성운",
+            "purple": "보라"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA 글로우",
+          "short_text": "PLA 글로우",
+          "color_text_map": {
+            "glow_blue": "글로우 블루",
+            "glow_green": "글로우 그린",
+            "glow_orange": "글로우 오렌지",
+            "glow_pink": "글로우 핑크",
+            "glow_yellow": "글로우 옐로우"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA 대리석",
+          "short_text": "PLA 대리석",
+          "color_text_map": {
+            "red_granite": "붉은 화강암",
+            "white_marble": "흰색 대리석"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA 매트",
+          "short_text": "PLA 매트",
+          "color_text_map": {
+            "matte_apple_green": "매트 애플 그린",
+            "matte_ash_gray": "매트 애쉬 그레이",
+            "matte_bone_white": "매트 본 화이트",
+            "matte_caramel": "매트 캐러멜",
+            "matte_charcoal": "무광택 차콜",
+            "matte_dark_blue": "매트 다크 블루",
+            "matte_dark_brown": "매트 다크 브라운",
+            "matte_dark_chocolate": "매트 다크 초콜릿",
+            "matte_dark_green": "매트 다크 그린",
+            "matte_dark_red": "매트 다크 레드",
+            "matte_desert_tan": "매트 데저트 탄",
+            "matte_grass_green": "무광택 잔디 녹색",
+            "matte_ice_blue": "매트 아이스 블루",
+            "matte_ivory_white": "매트 아이보리 화이트",
+            "matte_latte_brown": "매트라떼 브라운",
+            "matte_lemon_yellow": "매트 레몬 옐로우",
+            "matte_lilac_purple": "매트 라일락 퍼플",
+            "matte_mandarin_orange": "매트 만다린 오렌지",
+            "matte_marine_blue": "매트 마린 블루",
+            "matte_nardo_gray": "매트 나르도 그레이",
+            "matte_plum": "무광택 자두",
+            "matte_sakura_pink": "매트 사쿠라 핑크",
+            "matte_scarlet_red": "매트 스칼렛 레드",
+            "matte_sky_blue": "매트 스카이 블루",
+            "matte_terracotta": "무광택 테라코타"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA 메탈",
+          "short_text": "PLA 메탈",
+          "color_text_map": {
+            "cobalt_blue_metallic": "코발트 블루 메탈릭",
+            "copper_brown_metallic": "구리 브라운 메탈릭",
+            "iridium_gold_metallic": "이리듐 골드 메탈릭",
+            "iron_gray_metallic": "아이언 그레이 메탈릭",
+            "oxide_green_metallic": "산화물 녹색 금속"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA 실크+",
+          "short_text": "PLA 실크+",
+          "color_text_map": {
+            "baby_blue": "베이비 블루",
+            "blue": "파랑",
+            "candy_green": "캔디 그린",
+            "candy_red": "캔디 레드",
+            "champagne": "샴페인",
+            "gold": "금색",
+            "mint": "박하",
+            "pink": "분홍",
+            "purple": "보라",
+            "rose_gold": "로즈 골드",
+            "silver": "은색",
+            "titan_gray": "타이탄 그레이",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA 실크 멀티컬러",
+          "short_text": "PLA 실크 멀티컬러",
+          "color_text_map": {
+            "aurora_purple": "오로라 퍼플",
+            "blue_hawaii": "블루하와이",
+            "dawn_radiance": "새벽의 래디언스",
+            "gilded_rose": "금박을 입힌 장미",
+            "midnight_blaze": "미드나잇 블레이즈",
+            "mystic_magenta": "미스틱 마젠타",
+            "neon_city": "네온 시티",
+            "phantom_blue": "팬텀블루",
+            "south_beach": "사우스 비치",
+            "velvet_eclipse": "벨벳 이클립스"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA 스파클",
+          "short_text": "PLA 스파클",
+          "color_text_map": {
+            "alpine_green_sparkle": "알파인 그린 스파클",
+            "classic_gold_sparkle": "클래식 골드 스파클",
+            "crimson_red_sparkle": "크림슨 레드 스파클",
+            "onyx_black_sparkle": "오닉스 블랙 스파클",
+            "royal_purple_sparkle": "로얄 퍼플 스파클",
+            "slate_gray_sparkle": "슬레이트 그레이 스파클"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA 터프+",
+          "short_text": "PLA 터프+",
+          "color_text_map": {
+            "black": "검정",
+            "cyan": "시안",
+            "gray": "회색",
+            "orange": "주황",
+            "silver": "은색",
+            "white": "흰색",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA 반투명",
+          "short_text": "PLA 반투명",
+          "color_text_map": {
+            "blue": "파랑",
+            "cherry_pink": "체리핑크",
+            "ice_blue": "아이스 블루",
+            "lavender": "라벤더",
+            "light_jade": "라이트 제이드",
+            "mellow_yellow": "멜로우 옐로우",
+            "orange": "주황",
+            "purple": "보라",
+            "red": "빨강",
+            "teal": "물오리"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA 목재",
+          "short_text": "PLA 목재",
+          "color_text_map": {
+            "black_walnut": "블랙 호두",
+            "classic_birch": "클래식 자작나무",
+            "clay_brown": "클레이 브라운",
+            "ochre_yellow": "황토색 노란색",
+            "rosewood": "자단",
+            "white_oak": "화이트 오크"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "검정"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "투명"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "초록"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA(새 버전)",
+          "short_text": "Support for PLA(새 버전)",
+          "color_text_map": {
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "검정",
+            "nature": "자연"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "검정",
+            "cyan": "시안",
+            "flesh": "육체",
+            "green": "초록",
+            "orange": "주황"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "검정",
+            "blaze": "불꽃",
+            "cocoa_brown": "코코아 브라운",
+            "cystal_blue": "크리스탈 블루",
+            "frozen": "언",
+            "grape_jelly": "포도 젤리",
+            "quicksilver": "수은",
+            "white": "흰색"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95A HF",
+          "short_text": "TPU 95A HF",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "gray": "회색",
+            "red": "빨강",
+            "white": "흰색",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "AMS의 경우 TPU",
+          "short_text": "AMS의 경우 TPU",
+          "color_text_map": {
+            "black": "검정",
+            "blue": "파랑",
+            "gray": "회색",
+            "neon_green": "네온 그린",
+            "red": "빨강",
+            "white": "흰색",
+            "yellow": "노랑"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "박스 라벨 22 mm",
+          "short_text": "박스 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "컨테이너 라벨 12",
+          "short_text": "컨테이너 12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "빌드 플레이트 라벨",
+          "short_text": "그릇"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "소모품 라벨 36 mm",
+          "short_text": "소모품 36"
+        }
+      ]
+    }
+  ]
+}

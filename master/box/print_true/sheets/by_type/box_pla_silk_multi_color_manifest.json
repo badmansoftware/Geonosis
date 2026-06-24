@@ -1,0 +1,38 @@
+{
+  "run_id": "434ae08bc626",
+  "built_utc": "20260613T065017Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_silk_multi_color",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_silk_multi_color__13901.svg",
+    "pla_silk_multi_color__13902.svg",
+    "pla_silk_multi_color__13903.svg",
+    "pla_silk_multi_color__13904.svg",
+    "pla_silk_multi_color__13905.svg",
+    "pla_silk_multi_color__13906.svg",
+    "pla_silk_multi_color__13909.svg",
+    "pla_silk_multi_color__13912.svg",
+    "pla_silk_multi_color__13913.svg",
+    "pla_silk_multi_color__13916.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_silk_multi_color_letter",
+      "labels": 10,
+      "print": "box_pla_silk_multi_color_letter_print.svg",
+      "cut": "box_pla_silk_multi_color_letter_cut.svg",
+      "print_sha256": "afa5c75a69837d55976b9d20682bd04ed1b3c8ee849ddec0836cf446f3b8b733",
+      "cut_sha256": "80ea2982839ba14dccdec677e718d2c00731507c14631baca2c75f2449863dfd",
+      "bambu_cut": "box_pla_silk_multi_color_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "d7b41318ef03e521d0fa6cddfd501b5b87342c7940060e7057cebaab54bc95d2"
+    }
+  ],
+  "bambu": true
+}

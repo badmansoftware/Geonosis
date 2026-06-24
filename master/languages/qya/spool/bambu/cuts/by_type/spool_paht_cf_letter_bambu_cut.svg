@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="285mm" viewBox="0 0 300 285">
+  <title>spool_paht_cf bambu cut — 300mm x 285mm</title>
+  <path d="M 31.5000 20.0000 H 57.5000 V 20.0000 A 9.5 9.5 0 0 1 57.5000 39.0000 V 39.0000 H 31.5000 V 39.0000 A 9.5 9.5 0 0 1 31.5000 20.0000 V 20.0000 Z" fill="none" stroke="#ff0000" stroke-width="0.3" stroke-opacity="0.55"/>
+  <line x1="15.00" y1="12.00" x2="15.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="15.00" x2="18.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="285.00" y1="12.00" x2="285.00" y2="18.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="282.00" y1="15.00" x2="288.00" y2="15.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="15.00" y1="267.00" x2="15.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="12.00" y1="270.00" x2="18.00" y2="270.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="285.00" y1="267.00" x2="285.00" y2="273.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+  <line x1="282.00" y1="270.00" x2="288.00" y2="270.00" stroke="black" stroke-width="0.3" class="alignment-mark"/>
+</svg>

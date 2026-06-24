@@ -1,0 +1,30 @@
+{
+  "run_id": "a7e9a8dafa81",
+  "built_utc": "20260613T065018Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_support_for_pla_petg",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "support_for_pla_petg__65102.svg",
+    "support_for_pla_petg__65103.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_support_for_pla_petg_letter",
+      "labels": 2,
+      "print": "box_support_for_pla_petg_letter_print.svg",
+      "cut": "box_support_for_pla_petg_letter_cut.svg",
+      "print_sha256": "eae351df0636b6da689207bdff86e5b0589c6e49c7b515e9604b8b1230629dc1",
+      "cut_sha256": "3c1d7f7cd866973aaf8192454f299c33ec32d724cb24a543fd1fe2098b40aa90",
+      "bambu_cut": "box_support_for_pla_petg_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "922aad4fb3e457a1d44d1f5cc98987bf4b295edc7272c6f04d6861ff3801a19a"
+    }
+  ],
+  "bambu": true
+}

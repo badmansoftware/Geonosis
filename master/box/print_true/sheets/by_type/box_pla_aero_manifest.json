@@ -1,0 +1,30 @@
+{
+  "run_id": "c7edf7528ab7",
+  "built_utc": "20260613T065017Z",
+  "family": "box",
+  "paper": "letter",
+  "stem": "box_pla_aero",
+  "label_size_mm": [
+    22.0,
+    22.0
+  ],
+  "labels": [
+    "pla_aero__14102.svg",
+    "pla_aero__14104.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "box_pla_aero_letter",
+      "labels": 2,
+      "print": "box_pla_aero_letter_print.svg",
+      "cut": "box_pla_aero_letter_cut.svg",
+      "print_sha256": "c2de147ca64a04dca24d4ec22b5ac900f3dd94a699b5e617a36ce70c6cbf73f6",
+      "cut_sha256": "322301a4a6be56b4bb1b66f1cfd1d0461e27dfc35c2a4942a617a78f772412e2",
+      "bambu_cut": "box_pla_aero_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "408c057d2d256c8460f78027fca9a61729240f3f249182ce524633ffb275cf4d"
+    }
+  ],
+  "bambu": true
+}

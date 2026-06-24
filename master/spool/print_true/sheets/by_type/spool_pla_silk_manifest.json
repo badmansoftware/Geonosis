@@ -1,0 +1,41 @@
+{
+  "run_id": "b042f071a695",
+  "built_utc": "20260613T065016Z",
+  "family": "spool",
+  "paper": "letter",
+  "stem": "spool_pla_silk",
+  "label_size_mm": [
+    45.0,
+    19.0
+  ],
+  "labels": [
+    "pla_silk__13108.svg",
+    "pla_silk__13109.svg",
+    "pla_silk__13110.svg",
+    "pla_silk__13205.svg",
+    "pla_silk__13206.svg",
+    "pla_silk__13207.svg",
+    "pla_silk__13404.svg",
+    "pla_silk__13405.svg",
+    "pla_silk__13506.svg",
+    "pla_silk__13507.svg",
+    "pla_silk__13603.svg",
+    "pla_silk__13604.svg",
+    "pla_silk__13702.svg"
+  ],
+  "skipped": [],
+  "pages": [
+    {
+      "page": 1,
+      "stem": "spool_pla_silk_letter",
+      "labels": 13,
+      "print": "spool_pla_silk_letter_print.svg",
+      "cut": "spool_pla_silk_letter_cut.svg",
+      "print_sha256": "2d7d37d8cd14330f49aa901912b30b40a85b828d239060c89adac913a24412c8",
+      "cut_sha256": "f93a87dd6f741caf585c287c03bcfe2b6df62c117817e274eaaa351fd200d016",
+      "bambu_cut": "spool_pla_silk_letter_bambu_cut.svg",
+      "bambu_cut_sha256": "a583dc665cc2b5dba8932af9ad86c3d524e4911f42f59c0d083d0a3b5307f5ac"
+    }
+  ],
+  "bambu": true
+}

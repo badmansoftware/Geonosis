@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "ja_standard",
+      "language": "ja",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "アズール",
+            "bambu_green": "Bambu グリーン",
+            "black": "ブラック",
+            "blue": "ブルー",
+            "navy_blue": "ネイビーブルー",
+            "olive": "オリーブ",
+            "orange": "オレンジ",
+            "red": "レッド",
+            "silver": "シルバー",
+            "tangerine_yellow": "タンジェリンイエロー",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "gray": "グレー",
+            "orange": "オレンジ",
+            "red": "レッド",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "gray": "グレー",
+            "green": "グリーン",
+            "red": "レッド",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "gray": "グレー",
+            "orange": "オレンジ",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "ブラック",
+            "clear_black": "クリアブラック",
+            "transparent": "透明",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "ブラック",
+            "gray": "グレー",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG 基本",
+          "short_text": "PETG 基本",
+          "color_text_map": {
+            "black": "ブラック",
+            "dark_brown": "ダークブラウン",
+            "gray": "グレー",
+            "red": "レッド",
+            "reflex_blue": "リフレックスブルー",
+            "white": "ホワイト",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "cream": "クリーム",
+            "dark_gray": "ダークグレー",
+            "forest_green": "フォレストグリーン",
+            "gray": "グレー",
+            "green": "グリーン",
+            "lake_blue": "レイクブルー",
+            "lime_green": "ライムグリーン",
+            "orange": "オレンジ",
+            "peanut_brown": "ピーナッツブラウン",
+            "red": "レッド",
+            "white": "ホワイト",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG 半透明",
+          "short_text": "PETG 半透明",
+          "color_text_map": {
+            "clear": "クリア",
+            "translucent_brown": "トランスルーセントブラウン",
+            "translucent_gray": "半透明のグレー",
+            "translucent_light_blue": "半透明のライトブルー",
+            "translucent_olive": "トランスルーセントオリーブ",
+            "translucent_orange": "半透明のオレンジ",
+            "translucent_pink": "半透明のピンク",
+            "translucent_purple": "半透明の紫",
+            "translucent_teal": "半透明のティール"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA エアロ",
+          "short_text": "PLA エアロ",
+          "color_text_map": {
+            "gray": "グレー",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA 基本",
+          "short_text": "PLA 基本",
+          "color_text_map": {
+            "bambu_green": "Bambu グリーン",
+            "beige": "ベージュ",
+            "black": "ブラック",
+            "blue": "ブルー",
+            "blue_grey": "ブルーグレー",
+            "bright_green": "ブライトグリーン",
+            "bronze": "ブロンズ",
+            "brown": "ブラウン",
+            "cobalt_blue": "コバルトブルー",
+            "cocoa_brown": "ココアブラウン",
+            "cyan": "シアン",
+            "dark_gray": "ダークグレー",
+            "gold": "ゴールド",
+            "gray": "グレー",
+            "hot_pink": "ホットピンク",
+            "indigo_purple": "インディゴパープル",
+            "jade_white": "ジェイドホワイト",
+            "light_gray": "ライトグレー",
+            "magenta": "マゼンタ",
+            "maroon_red": "マルーンレッド",
+            "mistletoe_green": "ヤドリギグリーン",
+            "orange": "オレンジ",
+            "pink": "ピンク",
+            "pumpkin_orange": "パンプキンオレンジ",
+            "purple": "パープル",
+            "red": "レッド",
+            "silver": "シルバー",
+            "sunflower_yellow": "ひまわりイエロー",
+            "turquoise": "ターコイズ",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA 基本的なグラデーション",
+          "short_text": "PLA 基本的なグラデーション",
+          "color_text_map": {
+            "arctic_whisper": "北極のささやき",
+            "blueberry_bubblegum": "ブルーベリーバブルガム",
+            "cotton_candy_cloud": "コットンキャンディクラウド",
+            "dusk_glare": "夕暮れの眩しさ",
+            "mint_lime": "ミントライム",
+            "ocean_to_meadow": "海から草原へ",
+            "pink_citrus": "ピンクシトラス",
+            "solar_breeze": "ソーラーブリーズ"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "ブラック",
+            "burgundy_red": "バーガンディレッド",
+            "iris_purple": "アイリスパープル",
+            "jeans_blue": "ジーンズ ブルー",
+            "lava_gray": "ラバグレー",
+            "matcha_green": "抹茶グリーン",
+            "royal_blue": "ロイヤルブルー"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA ギャラクシー",
+          "short_text": "PLA ギャラクシー",
+          "color_text_map": {
+            "brown": "ブラウン",
+            "green": "グリーン",
+            "nebulae": "星雲",
+            "purple": "パープル"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA グロー",
+          "short_text": "PLA グロー",
+          "color_text_map": {
+            "glow_blue": "グローブルー",
+            "glow_green": "グローグリーン",
+            "glow_orange": "グローオレンジ",
+            "glow_pink": "グロウピンク",
+            "glow_yellow": "グローイエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA 大理石",
+          "short_text": "PLA 大理石",
+          "color_text_map": {
+            "red_granite": "赤い花崗岩",
+            "white_marble": "白い大理石"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA マット",
+          "short_text": "PLA マット",
+          "color_text_map": {
+            "matte_apple_green": "マットアップルグリーン",
+            "matte_ash_gray": "マットアッシュグレー",
+            "matte_bone_white": "マットボーンホワイト",
+            "matte_caramel": "マットキャラメル",
+            "matte_charcoal": "マットチャコール",
+            "matte_dark_blue": "マットダークブルー",
+            "matte_dark_brown": "マットダークブラウン",
+            "matte_dark_chocolate": "マットダークチョコレート",
+            "matte_dark_green": "マットダークグリーン",
+            "matte_dark_red": "マットダークレッド",
+            "matte_desert_tan": "マットデザートタン",
+            "matte_grass_green": "マットグラスグリーン",
+            "matte_ice_blue": "マットアイスブルー",
+            "matte_ivory_white": "マットアイボリーホワイト",
+            "matte_latte_brown": "マットラテブラウン",
+            "matte_lemon_yellow": "マットレモンイエロー",
+            "matte_lilac_purple": "マットライラックパープル",
+            "matte_mandarin_orange": "マットマンダリンオレンジ",
+            "matte_marine_blue": "マットマリンブルー",
+            "matte_nardo_gray": "マットナルドグレー",
+            "matte_plum": "マットプラム",
+            "matte_sakura_pink": "マットサクラピンク",
+            "matte_scarlet_red": "マットスカーレットレッド",
+            "matte_sky_blue": "マットスカイブルー",
+            "matte_terracotta": "マットテラコッタ"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA メタル",
+          "short_text": "PLA メタル",
+          "color_text_map": {
+            "cobalt_blue_metallic": "コバルトブルーメタリック",
+            "copper_brown_metallic": "カッパーブラウンメタリック",
+            "iridium_gold_metallic": "イリジウムゴールドメタリック",
+            "iron_gray_metallic": "アイアングレーメタリック",
+            "oxide_green_metallic": "オキサイドグリーンメタリック"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA シルク+",
+          "short_text": "PLA シルク+",
+          "color_text_map": {
+            "baby_blue": "ベイビーブルー",
+            "blue": "ブルー",
+            "candy_green": "キャンディグリーン",
+            "candy_red": "キャンディレッド",
+            "champagne": "シャンパン",
+            "gold": "ゴールド",
+            "mint": "ミント",
+            "pink": "ピンク",
+            "purple": "パープル",
+            "rose_gold": "ローズゴールド",
+            "silver": "シルバー",
+            "titan_gray": "タイタングレー",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA シルクマルチカラー",
+          "short_text": "PLA シルクマルチカラー",
+          "color_text_map": {
+            "aurora_purple": "オーロラパープル",
+            "blue_hawaii": "ブルーハワイ",
+            "dawn_radiance": "ドーンラディアンス",
+            "gilded_rose": "金色のバラ",
+            "midnight_blaze": "ミッドナイトブレイズ",
+            "mystic_magenta": "ミスティックマゼンタ",
+            "neon_city": "ネオンシティ",
+            "phantom_blue": "ファントムブルー",
+            "south_beach": "サウスビーチ",
+            "velvet_eclipse": "ベルベットエクリプス"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA スパークル",
+          "short_text": "PLA スパークル",
+          "color_text_map": {
+            "alpine_green_sparkle": "アルパイングリーンスパークル",
+            "classic_gold_sparkle": "クラシックゴールドスパークル",
+            "crimson_red_sparkle": "クリムゾンレッドスパークル",
+            "onyx_black_sparkle": "オニキス ブラック スパークル",
+            "royal_purple_sparkle": "ロイヤルパープルスパークル",
+            "slate_gray_sparkle": "スレートグレースパークル"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA タフ+",
+          "short_text": "PLA タフ+",
+          "color_text_map": {
+            "black": "ブラック",
+            "cyan": "シアン",
+            "gray": "グレー",
+            "orange": "オレンジ",
+            "silver": "シルバー",
+            "white": "ホワイト",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA 半透明",
+          "short_text": "PLA 半透明",
+          "color_text_map": {
+            "blue": "ブルー",
+            "cherry_pink": "チェリーピンク",
+            "ice_blue": "アイスブルー",
+            "lavender": "ラベンダー",
+            "light_jade": "ライトジェイド",
+            "mellow_yellow": "メロウイエロー",
+            "orange": "オレンジ",
+            "purple": "パープル",
+            "red": "レッド",
+            "teal": "ティール"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA 木材",
+          "short_text": "PLA 木材",
+          "color_text_map": {
+            "black_walnut": "ブラックウォールナット",
+            "classic_birch": "クラシックバーチ",
+            "clay_brown": "クレイブラウン",
+            "ochre_yellow": "オークルイエロー",
+            "rosewood": "ローズウッド",
+            "white_oak": "ホワイトオーク"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "ブラック"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "クリア"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "グリーン"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA (新バージョン)",
+          "short_text": "Support for PLA (新バージョン)",
+          "color_text_map": {
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "ブラック",
+            "nature": "自然"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "ブラック",
+            "cyan": "シアン",
+            "flesh": "肉",
+            "green": "グリーン",
+            "orange": "オレンジ"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "ブラック",
+            "blaze": "ブレイズ",
+            "cocoa_brown": "ココアブラウン",
+            "cystal_blue": "シスタルブルー",
+            "frozen": "凍った",
+            "grape_jelly": "ぶどうゼリー",
+            "quicksilver": "クイックシルバー",
+            "white": "ホワイト"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95A HF",
+          "short_text": "TPU 95A HF",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "gray": "グレー",
+            "red": "レッド",
+            "white": "ホワイト",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU 用 AMS",
+          "short_text": "TPU 用 AMS",
+          "color_text_map": {
+            "black": "ブラック",
+            "blue": "ブルー",
+            "gray": "グレー",
+            "neon_green": "ネオングリーン",
+            "red": "レッド",
+            "white": "ホワイト",
+            "yellow": "イエロー"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "ボックスラベル 22 mm",
+          "short_text": "ボックス 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "容器ラベル 12",
+          "short_text": "コンテナ12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "ビルドプレートラベル",
+          "short_text": "皿"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "供給ラベル 36 mm",
+          "short_text": "消耗品 36"
+        }
+      ]
+    }
+  ]
+}

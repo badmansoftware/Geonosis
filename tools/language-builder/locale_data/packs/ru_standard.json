@@ -1,0 +1,567 @@
+{
+  "schema": "smithmaker.presentation_packs.v1",
+  "packs": [
+    {
+      "presentation_pack": "ru_standard",
+      "language": "ru",
+      "version": "1.0.0-draft",
+      "source": "machine_translated",
+      "maintainers": [
+        "machine-translated"
+      ],
+      "contribution_repo": "tools/language-builder/locale_data/packs",
+      "last_reviewed_at": "2026-05-26",
+      "contribution_policy": {
+        "mode": "maintainer_review",
+        "allow_direct_edits": false,
+        "review_required": true
+      },
+      "entries": [
+        {
+          "semantic_key": "filament.abs",
+          "display_text": "ABS",
+          "short_text": "ABS",
+          "color_text_map": {
+            "azure": "Лазурный",
+            "bambu_green": "Bambu Зеленый",
+            "black": "Черный",
+            "blue": "Синий",
+            "navy_blue": "Темно-синий",
+            "olive": "Оливковый",
+            "orange": "Оранжевый",
+            "red": "Красный",
+            "silver": "Серебристый",
+            "tangerine_yellow": "Мандариновый желтый",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.abs_gf",
+          "display_text": "ABS-GF",
+          "short_text": "ABS-GF",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "gray": "Серый",
+            "orange": "Оранжевый",
+            "red": "Красный",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.asa",
+          "display_text": "ASA",
+          "short_text": "ASA",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "gray": "Серый",
+            "green": "Зеленый",
+            "red": "Красный",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_aero",
+          "display_text": "ASA Aero",
+          "short_text": "ASA Aero",
+          "color_text_map": {
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.asa_cf",
+          "display_text": "ASA-CF",
+          "short_text": "ASA-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_cf",
+          "display_text": "PA6-CF",
+          "short_text": "PA6-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.pa6_gf",
+          "display_text": "PA6-GF",
+          "short_text": "PA6-GF",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "gray": "Серый",
+            "orange": "Оранжевый",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.paht_cf",
+          "display_text": "PAHT-CF",
+          "short_text": "PAHT-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.pc",
+          "display_text": "PC",
+          "short_text": "PC",
+          "color_text_map": {
+            "black": "Черный",
+            "clear_black": "Прозрачный черный",
+            "transparent": "Прозрачный",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.pc_fr",
+          "display_text": "PC FR",
+          "short_text": "PC FR",
+          "color_text_map": {
+            "black": "Черный",
+            "gray": "Серый",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.pet_cf",
+          "display_text": "PET-CF",
+          "short_text": "PET-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_basic",
+          "display_text": "PETG Базовый",
+          "short_text": "PETG Базовый",
+          "color_text_map": {
+            "black": "Черный",
+            "dark_brown": "Темно-коричневый",
+            "gray": "Серый",
+            "red": "Красный",
+            "reflex_blue": "Рефлекс синий",
+            "white": "Белый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_hf",
+          "display_text": "PETG HF",
+          "short_text": "PETG HF",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "cream": "Крем",
+            "dark_gray": "Темно-серый",
+            "forest_green": "Лесной Зеленый",
+            "gray": "Серый",
+            "green": "Зеленый",
+            "lake_blue": "Озеро Голубое",
+            "lime_green": "Лаймово-зеленый",
+            "orange": "Оранжевый",
+            "peanut_brown": "Арахисовый коричневый",
+            "red": "Красный",
+            "white": "Белый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.petg_translucent",
+          "display_text": "PETG Полупрозрачный",
+          "short_text": "PETG Полупрозрачный",
+          "color_text_map": {
+            "clear": "Прозрачный",
+            "translucent_brown": "Полупрозрачный коричневый",
+            "translucent_gray": "Полупрозрачный серый",
+            "translucent_light_blue": "Полупрозрачный светло-голубой",
+            "translucent_olive": "Полупрозрачная оливковая",
+            "translucent_orange": "Полупрозрачный оранжевый",
+            "translucent_pink": "Полупрозрачный розовый",
+            "translucent_purple": "Полупрозрачный фиолетовый",
+            "translucent_teal": "Полупрозрачный бирюзовый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_aero",
+          "display_text": "PLA Аэро",
+          "short_text": "PLA Аэро",
+          "color_text_map": {
+            "gray": "Серый",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic",
+          "display_text": "PLA Базовый",
+          "short_text": "PLA Базовый",
+          "color_text_map": {
+            "bambu_green": "Bambu Зеленый",
+            "beige": "Бежевый",
+            "black": "Черный",
+            "blue": "Синий",
+            "blue_grey": "Синий Серый",
+            "bright_green": "Ярко-зеленый",
+            "bronze": "Бронзовый",
+            "brown": "Коричневый",
+            "cobalt_blue": "Кобальт синий",
+            "cocoa_brown": "какао коричневый",
+            "cyan": "Голубой",
+            "dark_gray": "Темно-серый",
+            "gold": "Золотой",
+            "gray": "Серый",
+            "hot_pink": "Ярко-розовый",
+            "indigo_purple": "Индиго Фиолетовый",
+            "jade_white": "Джейд Уайт",
+            "light_gray": "Светло-серый",
+            "magenta": "Пурпурный",
+            "maroon_red": "бордовый красный",
+            "mistletoe_green": "Омела зеленая",
+            "orange": "Оранжевый",
+            "pink": "Розовый",
+            "pumpkin_orange": "Тыква Апельсин",
+            "purple": "Фиолетовый",
+            "red": "Красный",
+            "silver": "Серебристый",
+            "sunflower_yellow": "Подсолнечник Желтый",
+            "turquoise": "Бирюзовый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_basic_gradient",
+          "display_text": "PLA Базовый градиент",
+          "short_text": "PLA Базовый градиент",
+          "color_text_map": {
+            "arctic_whisper": "Арктический шепот",
+            "blueberry_bubblegum": "Черничная жвачка",
+            "cotton_candy_cloud": "Облако сладкой ваты",
+            "dusk_glare": "Сумеречный свет",
+            "mint_lime": "Мятно-лаймовый",
+            "ocean_to_meadow": "От океана до луга",
+            "pink_citrus": "Розовый цитрус",
+            "solar_breeze": "Солнечный бриз"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_cf",
+          "display_text": "PLA-CF",
+          "short_text": "PLA-CF",
+          "color_text_map": {
+            "black": "Черный",
+            "burgundy_red": "бордовый красный",
+            "iris_purple": "Ирис Фиолетовый",
+            "jeans_blue": "Джинсы синие",
+            "lava_gray": "Лава Грей",
+            "matcha_green": "Матча Грин",
+            "royal_blue": "Королевский синий"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_galaxy",
+          "display_text": "PLA Галактика",
+          "short_text": "PLA Галактика",
+          "color_text_map": {
+            "brown": "Коричневый",
+            "green": "Зеленый",
+            "nebulae": "Туманности",
+            "purple": "Фиолетовый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_glow",
+          "display_text": "PLA Свечение",
+          "short_text": "PLA Свечение",
+          "color_text_map": {
+            "glow_blue": "Светящийся синий",
+            "glow_green": "Светящийся зеленый",
+            "glow_orange": "Светящийся оранжевый",
+            "glow_pink": "Светящийся розовый",
+            "glow_yellow": "Светящийся желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_marble",
+          "display_text": "PLA Мрамор",
+          "short_text": "PLA Мрамор",
+          "color_text_map": {
+            "red_granite": "Красный гранит",
+            "white_marble": "Белый мрамор"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_matte",
+          "display_text": "PLA Матовый",
+          "short_text": "PLA Матовый",
+          "color_text_map": {
+            "matte_apple_green": "Матовый яблочно-зеленый",
+            "matte_ash_gray": "Матовый пепельно-серый",
+            "matte_bone_white": "Матовый костяной белый",
+            "matte_caramel": "Матовая карамель",
+            "matte_charcoal": "Матовый Уголь",
+            "matte_dark_blue": "Матовый темно-синий",
+            "matte_dark_brown": "Матовый темно-коричневый",
+            "matte_dark_chocolate": "Матовый темный шоколад",
+            "matte_dark_green": "Матовый темно-зеленый",
+            "matte_dark_red": "Матовый темно-красный",
+            "matte_desert_tan": "Матовый пустынный загар",
+            "matte_grass_green": "Матовый травяной зеленый",
+            "matte_ice_blue": "Матовый ледяной синий",
+            "matte_ivory_white": "Матовый цвет слоновой кости",
+            "matte_latte_brown": "Матовый латте коричневый",
+            "matte_lemon_yellow": "Матовый лимонно-желтый",
+            "matte_lilac_purple": "Матовый Сиреневый Фиолетовый",
+            "matte_mandarin_orange": "Матовый мандарин",
+            "matte_marine_blue": "Матовый морской синий",
+            "matte_nardo_gray": "Матовый Нардо Серый",
+            "matte_plum": "Матовая слива",
+            "matte_sakura_pink": "Матовый Сакура Розовый",
+            "matte_scarlet_red": "Матовый алый красный",
+            "matte_sky_blue": "Матовый небесно-голубой",
+            "matte_terracotta": "Матовый Терракотовый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_metal",
+          "display_text": "PLA Металл",
+          "short_text": "PLA Металл",
+          "color_text_map": {
+            "cobalt_blue_metallic": "Кобальтово-синий металлик",
+            "copper_brown_metallic": "Медно-коричневый металлик",
+            "iridium_gold_metallic": "Иридий Золотой Металлик",
+            "iron_gray_metallic": "Железно-серый металлик",
+            "oxide_green_metallic": "Оксид Зеленый Металлик"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_plus",
+          "display_text": "PLA Шелк+",
+          "short_text": "PLA Шелк+",
+          "color_text_map": {
+            "baby_blue": "Baby Blue",
+            "blue": "Синий",
+            "candy_green": "Конфетный зеленый",
+            "candy_red": "Конфетно-красный",
+            "champagne": "шампанское",
+            "gold": "Золотой",
+            "mint": "Мятный",
+            "pink": "Розовый",
+            "purple": "Фиолетовый",
+            "rose_gold": "Розовое золото",
+            "silver": "Серебристый",
+            "titan_gray": "Титановый серый",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_silk_multi_color",
+          "display_text": "PLA Шелковый многоцветный",
+          "short_text": "PLA Шелковый многоцветный",
+          "color_text_map": {
+            "aurora_purple": "Аврора Фиолетовый",
+            "blue_hawaii": "Голубые Гавайи",
+            "dawn_radiance": "Рассветное сияние",
+            "gilded_rose": "Позолоченная роза",
+            "midnight_blaze": "Полуночное пламя",
+            "mystic_magenta": "Мистик Пурпурный",
+            "neon_city": "Неоновый город",
+            "phantom_blue": "Фантом Синий",
+            "south_beach": "Южный пляж",
+            "velvet_eclipse": "Бархатное затмение"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_sparkle",
+          "display_text": "PLA Блеск",
+          "short_text": "PLA Блеск",
+          "color_text_map": {
+            "alpine_green_sparkle": "Альпийская зеленая искорка",
+            "classic_gold_sparkle": "Классический золотой блеск",
+            "crimson_red_sparkle": "Багрово-красная искорка",
+            "onyx_black_sparkle": "Оникс Блэк Спаркл",
+            "royal_purple_sparkle": "Королевская фиолетовая искорка",
+            "slate_gray_sparkle": "Шиферно-серый блеск"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_tough_plus",
+          "display_text": "PLA Крутой+",
+          "short_text": "PLA Крутой+",
+          "color_text_map": {
+            "black": "Черный",
+            "cyan": "Голубой",
+            "gray": "Серый",
+            "orange": "Оранжевый",
+            "silver": "Серебристый",
+            "white": "Белый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_translucent",
+          "display_text": "PLA Полупрозрачный",
+          "short_text": "PLA Полупрозрачный",
+          "color_text_map": {
+            "blue": "Синий",
+            "cherry_pink": "Вишнево-розовый",
+            "ice_blue": "Ледяной синий",
+            "lavender": "Лаванда",
+            "light_jade": "Светлый нефрит",
+            "mellow_yellow": "Мягкий желтый",
+            "orange": "Оранжевый",
+            "purple": "Фиолетовый",
+            "red": "Красный",
+            "teal": "Бирюзовый"
+          }
+        },
+        {
+          "semantic_key": "filament.pla_wood",
+          "display_text": "PLA Дерево",
+          "short_text": "PLA Дерево",
+          "color_text_map": {
+            "black_walnut": "Черный орех",
+            "classic_birch": "Классическая Береза",
+            "clay_brown": "Клэй Браун",
+            "ochre_yellow": "Охра желтая",
+            "rosewood": "палисандр",
+            "white_oak": "Белый Дуб"
+          }
+        },
+        {
+          "semantic_key": "filament.ppa_cf",
+          "display_text": "PPA-CF",
+          "short_text": "PPA-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.pps_cf",
+          "display_text": "PPS-CF",
+          "short_text": "PPS-CF",
+          "color_text_map": {
+            "black": "Черный"
+          }
+        },
+        {
+          "semantic_key": "filament.pva",
+          "display_text": "PVA",
+          "short_text": "PVA",
+          "color_text_map": {
+            "clear": "Прозрачный"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_abs",
+          "display_text": "Support for ABS",
+          "short_text": "Support for ABS",
+          "color_text_map": {
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pav_pet",
+          "display_text": "Support for PAV PET",
+          "short_text": "Support for PAV PET",
+          "color_text_map": {
+            "green": "Зеленый"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_new",
+          "display_text": "Support for PLA (Новая версия)",
+          "short_text": "Support for PLA (Новая версия)",
+          "color_text_map": {
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.support_for_pla_petg",
+          "display_text": "Support for PLA/PETG",
+          "short_text": "Support for PLA/PETG",
+          "color_text_map": {
+            "black": "Черный",
+            "nature": "Природа"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_85",
+          "display_text": "TPU 85A",
+          "short_text": "TPU 85",
+          "color_text_map": {
+            "black": "Черный",
+            "cyan": "Голубой",
+            "flesh": "Плоть",
+            "green": "Зеленый",
+            "orange": "Оранжевый"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_90",
+          "display_text": "TPU 90A",
+          "short_text": "TPU 90",
+          "color_text_map": {
+            "black": "Черный",
+            "blaze": "Блейз",
+            "cocoa_brown": "какао коричневый",
+            "cystal_blue": "Цисталлический синий",
+            "frozen": "Замороженный",
+            "grape_jelly": "Виноградное желе",
+            "quicksilver": "Ртуть",
+            "white": "Белый"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_95a_hf",
+          "display_text": "TPU 95A HF",
+          "short_text": "TPU 95A HF",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "gray": "Серый",
+            "red": "Красный",
+            "white": "Белый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "filament.tpu_for_ams",
+          "display_text": "TPU для AMS",
+          "short_text": "TPU для AMS",
+          "color_text_map": {
+            "black": "Черный",
+            "blue": "Синий",
+            "gray": "Серый",
+            "neon_green": "Неоново-зеленый",
+            "red": "Красный",
+            "white": "Белый",
+            "yellow": "Желтый"
+          }
+        },
+        {
+          "semantic_key": "storage.box.square_22",
+          "display_text": "Этикетка на коробке 22 mm",
+          "short_text": "Вставка 22"
+        },
+        {
+          "semantic_key": "storage.container.capacity_12",
+          "display_text": "Этикетка контейнера 12",
+          "short_text": "Контейнер 12"
+        },
+        {
+          "semantic_key": "printer.build_plate.reference",
+          "display_text": "Этикетка строительной пластины",
+          "short_text": "Тарелка"
+        },
+        {
+          "semantic_key": "inventory.supplies.square_36",
+          "display_text": "Этикетка о расходных материалах 36 mm",
+          "short_text": "Принадлежности 36"
+        }
+      ]
+    }
+  ]
+}

@@ -1,540 +1,546 @@
 {
-  "packs": [
+ "packs": [
+  {
+   "contribution_policy": {
+    "allow_direct_edits": false,
+    "mode": "maintainer_review",
+    "review_required": true
+   },
+   "contribution_repo": "tools/language-builder/locale_data/packs",
+   "entries": [
     {
-      "contribution_policy": {
-        "allow_direct_edits": false,
-        "mode": "maintainer_review",
-        "review_required": true
-      },
-      "contribution_repo": "tools/language-builder/locale_data/packs",
-      "entries": [
-        {
-          "color_text_map": {
-            "azure": "[blue_circle]",
-            "bambu_green": "[green_circle]",
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "navy_blue": "[blue_circle]",
-            "olive": "[green_circle]",
-            "orange": "[orange_circle]",
-            "red": "[red_circle]",
-            "silver": "[grey_circle]",
-            "tangerine_yellow": "[yellow_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] ABS",
-          "semantic_key": "filament.abs",
-          "short_text": "[spool] ABS"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "orange": "[orange_circle]",
-            "red": "[red_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] ABS-GF",
-          "semantic_key": "filament.abs_gf",
-          "short_text": "[spool] ABS-GF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "green": "[green_circle]",
-            "red": "[red_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] ASA",
-          "semantic_key": "filament.asa",
-          "short_text": "[spool] ASA"
-        },
-        {
-          "color_text_map": {
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] ASA Aero",
-          "semantic_key": "filament.asa_aero",
-          "short_text": "[spool] ASA Aero"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] ASA-CF",
-          "semantic_key": "filament.asa_cf",
-          "short_text": "[spool] ASA-CF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] PA6-CF",
-          "semantic_key": "filament.pa6_cf",
-          "short_text": "[spool] PA6-CF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "orange": "[orange_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] PA6-GF",
-          "semantic_key": "filament.pa6_gf",
-          "short_text": "[spool] PA6-GF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] PAHT-CF",
-          "semantic_key": "filament.paht_cf",
-          "short_text": "[spool] PAHT-CF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "clear_black": "[black_circle]",
-            "transparent": "[white_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] PC",
-          "semantic_key": "filament.pc",
-          "short_text": "[spool] PC"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "gray": "[grey_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] PC FR",
-          "semantic_key": "filament.pc_fr",
-          "short_text": "[spool] PC FR"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] PET-CF",
-          "semantic_key": "filament.pet_cf",
-          "short_text": "[spool] PET-CF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "dark_brown": "[brown_circle]",
-            "gray": "[grey_circle]",
-            "red": "[red_circle]",
-            "reflex_blue": "[blue_circle]",
-            "white": "[white_circle]",
-            "yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] PETG Basic",
-          "semantic_key": "filament.petg_basic",
-          "short_text": "[spool] PETG Basic"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "cream": "[yellow_circle]",
-            "dark_gray": "[grey_circle]",
-            "forest_green": "[green_circle]",
-            "gray": "[grey_circle]",
-            "green": "[green_circle]",
-            "lake_blue": "[blue_circle]",
-            "lime_green": "[green_circle]",
-            "orange": "[orange_circle]",
-            "peanut_brown": "[brown_circle]",
-            "red": "[red_circle]",
-            "white": "[white_circle]",
-            "yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] PETG HF",
-          "semantic_key": "filament.petg_hf",
-          "short_text": "[spool] PETG HF"
-        },
-        {
-          "color_text_map": {
-            "clear": "[white_circle]",
-            "translucent_brown": "[brown_circle]",
-            "translucent_gray": "[grey_circle]",
-            "translucent_light_blue": "[blue_circle]",
-            "translucent_olive": "[green_circle]",
-            "translucent_orange": "[orange_circle]",
-            "translucent_pink": "[purple_circle]",
-            "translucent_purple": "[purple_circle]",
-            "translucent_teal": "[label]"
-          },
-          "display_text": "[spool] PETG Translucent",
-          "semantic_key": "filament.petg_translucent",
-          "short_text": "[spool] PETG Translucent"
-        },
-        {
-          "color_text_map": {
-            "gray": "[grey_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] PLA Aero",
-          "semantic_key": "filament.pla_aero",
-          "short_text": "[spool] PLA Aero"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool][white_circle]",
-          "semantic_key": "filament.pla_basic",
-          "short_text": "[spool]"
-        },
-        {
-          "color_text_map": {
-            "arctic_whisper": "[label]",
-            "blueberry_bubblegum": "[blue_circle]",
-            "cotton_candy_cloud": "[label]",
-            "dusk_glare": "[label]",
-            "mint_lime": "[green_circle]",
-            "ocean_to_meadow": "[label]",
-            "pink_citrus": "[purple_circle]",
-            "solar_breeze": "[label]"
-          },
-          "display_text": "[spool] PLA Basic Gradient",
-          "semantic_key": "filament.pla_basic_gradient",
-          "short_text": "[spool] PLA Basic Gradient"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "burgundy_red": "[red_circle]",
-            "iris_purple": "[purple_circle]",
-            "jeans_blue": "[blue_circle]",
-            "lava_gray": "[grey_circle]",
-            "matcha_green": "[green_circle]",
-            "royal_blue": "[blue_circle]"
-          },
-          "display_text": "[spool] PLA-CF",
-          "semantic_key": "filament.pla_cf",
-          "short_text": "[spool] PLA-CF"
-        },
-        {
-          "color_text_map": {
-            "brown": "[brown_circle]",
-            "green": "[green_circle]",
-            "nebulae": "[label]",
-            "purple": "[purple_circle]"
-          },
-          "display_text": "[spool] PLA Galaxy",
-          "semantic_key": "filament.pla_galaxy",
-          "short_text": "[spool] PLA Galaxy"
-        },
-        {
-          "color_text_map": {
-            "glow_blue": "[blue_circle]",
-            "glow_green": "[green_circle]",
-            "glow_orange": "[orange_circle]",
-            "glow_pink": "[purple_circle]",
-            "glow_yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] PLA Glow",
-          "semantic_key": "filament.pla_glow",
-          "short_text": "[spool] PLA Glow"
-        },
-        {
-          "color_text_map": {
-            "red_granite": "[red_circle]",
-            "white_marble": "[white_circle]"
-          },
-          "display_text": "[spool] PLA Marble",
-          "semantic_key": "filament.pla_marble",
-          "short_text": "[spool] PLA Marble"
-        },
-        {
-          "color_text_map": {
-            "matte_apple_green": "[green_circle]",
-            "matte_ash_gray": "[grey_circle]",
-            "matte_bone_white": "[white_circle]",
-            "matte_caramel": "[label]",
-            "matte_charcoal": "[black_circle]",
-            "matte_dark_blue": "[blue_circle]",
-            "matte_dark_brown": "[brown_circle]",
-            "matte_dark_chocolate": "[label]",
-            "matte_dark_green": "[green_circle]",
-            "matte_dark_red": "[red_circle]",
-            "matte_desert_tan": "[label]",
-            "matte_grass_green": "[green_circle]",
-            "matte_ice_blue": "[blue_circle]",
-            "matte_ivory_white": "[white_circle]",
-            "matte_latte_brown": "[brown_circle]",
-            "matte_lemon_yellow": "[yellow_circle]",
-            "matte_lilac_purple": "[purple_circle]",
-            "matte_mandarin_orange": "[orange_circle]",
-            "matte_marine_blue": "[blue_circle]",
-            "matte_nardo_gray": "[grey_circle]",
-            "matte_plum": "[label]",
-            "matte_sakura_pink": "[purple_circle]",
-            "matte_scarlet_red": "[red_circle]",
-            "matte_sky_blue": "[blue_circle]",
-            "matte_terracotta": "[label]"
-          },
-          "display_text": "[spool] PLA Matte",
-          "semantic_key": "filament.pla_matte",
-          "short_text": "[spool] PLA Matte"
-        },
-        {
-          "color_text_map": {
-            "cobalt_blue_metallic": "[blue_circle]",
-            "copper_brown_metallic": "[orange_circle]",
-            "iridium_gold_metallic": "[yellow_circle]",
-            "iron_gray_metallic": "[grey_circle]",
-            "oxide_green_metallic": "[green_circle]"
-          },
-          "display_text": "[spool] PLA Metal",
-          "semantic_key": "filament.pla_metal",
-          "short_text": "[spool] PLA Metal"
-        },
-        {
-          "color_text_map": {
-            "baby_blue": "[blue_circle]",
-            "blue": "[blue_circle]",
-            "candy_green": "[green_circle]",
-            "candy_red": "[red_circle]",
-            "champagne": "[yellow_circle]",
-            "gold": "[yellow_circle]",
-            "mint": "[green_circle]",
-            "pink": "[purple_circle]",
-            "purple": "[purple_circle]",
-            "rose_gold": "[red_circle]",
-            "silver": "[grey_circle]",
-            "titan_gray": "[grey_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] PLA Silk+",
-          "semantic_key": "filament.pla_silk_plus",
-          "short_text": "[spool] PLA Silk+"
-        },
-        {
-          "color_text_map": {
-            "aurora_purple": "[purple_circle]",
-            "blue_hawaii": "[blue_circle]",
-            "dawn_radiance": "[label]",
-            "gilded_rose": "[red_circle]",
-            "midnight_blaze": "[label]",
-            "mystic_magenta": "[purple_circle]",
-            "neon_city": "[label]",
-            "phantom_blue": "[blue_circle]",
-            "south_beach": "[label]",
-            "velvet_eclipse": "[label]"
-          },
-          "display_text": "[spool] PLA Silk Multi-Color",
-          "semantic_key": "filament.pla_silk_multi_color",
-          "short_text": "[spool] PLA Silk Multi-Color"
-        },
-        {
-          "color_text_map": {
-            "alpine_green_sparkle": "[green_circle]",
-            "classic_gold_sparkle": "[yellow_circle]",
-            "crimson_red_sparkle": "[red_circle]",
-            "onyx_black_sparkle": "[black_circle]",
-            "royal_purple_sparkle": "[purple_circle]",
-            "slate_gray_sparkle": "[grey_circle]"
-          },
-          "display_text": "[spool] PLA Sparkle",
-          "semantic_key": "filament.pla_sparkle",
-          "short_text": "[spool] PLA Sparkle"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "cyan": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "orange": "[orange_circle]",
-            "silver": "[grey_circle]",
-            "white": "[white_circle]",
-            "yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] PLA Tough+",
-          "semantic_key": "filament.pla_tough_plus",
-          "short_text": "[spool] PLA Tough+"
-        },
-        {
-          "color_text_map": {
-            "blue": "[blue_circle]",
-            "cherry_pink": "[purple_circle]",
-            "ice_blue": "[blue_circle]",
-            "lavender": "[purple_circle]",
-            "light_jade": "[green_circle]",
-            "mellow_yellow": "[yellow_circle]",
-            "orange": "[orange_circle]",
-            "purple": "[purple_circle]",
-            "red": "[red_circle]",
-            "teal": "[label]"
-          },
-          "display_text": "[spool] PLA Translucent",
-          "semantic_key": "filament.pla_translucent",
-          "short_text": "[spool] PLA Translucent"
-        },
-        {
-          "color_text_map": {
-            "black_walnut": "[black_circle]",
-            "classic_birch": "[label]",
-            "clay_brown": "[brown_circle]",
-            "ochre_yellow": "[yellow_circle]",
-            "rosewood": "[red_circle]",
-            "white_oak": "[white_circle]"
-          },
-          "display_text": "[spool] PLA Wood",
-          "semantic_key": "filament.pla_wood",
-          "short_text": "[spool] PLA Wood"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] PPA-CF",
-          "semantic_key": "filament.ppa_cf",
-          "short_text": "[spool] PPA-CF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]"
-          },
-          "display_text": "[spool] PPS-CF",
-          "semantic_key": "filament.pps_cf",
-          "short_text": "[spool] PPS-CF"
-        },
-        {
-          "color_text_map": {
-            "clear": "[white_circle]"
-          },
-          "display_text": "[spool] PVA",
-          "semantic_key": "filament.pva",
-          "short_text": "[spool] PVA"
-        },
-        {
-          "color_text_map": {
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] Support for ABS",
-          "semantic_key": "filament.support_for_abs",
-          "short_text": "[spool] Support for ABS"
-        },
-        {
-          "color_text_map": {
-            "green": "[green_circle]"
-          },
-          "display_text": "[spool] Support for PAV PET",
-          "semantic_key": "filament.support_for_pav_pet",
-          "short_text": "[spool] Support for PAV PET"
-        },
-        {
-          "color_text_map": {
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] Support for PLA (New Version)",
-          "semantic_key": "filament.support_for_pla_new",
-          "short_text": "[spool] Support for PLA (New Version)"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "nature": "[label]"
-          },
-          "display_text": "[spool] Support for PLA/PETG",
-          "semantic_key": "filament.support_for_pla_petg",
-          "short_text": "[spool] Support for PLA/PETG"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "cyan": "[blue_circle]",
-            "flesh": "[label]",
-            "green": "[green_circle]",
-            "orange": "[orange_circle]"
-          },
-          "display_text": "[spool] TPU 85A",
-          "semantic_key": "filament.tpu_85",
-          "short_text": "[spool] TPU 85"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blaze": "[label]",
-            "cocoa_brown": "[brown_circle]",
-            "cystal_blue": "[blue_circle]",
-            "frozen": "[label]",
-            "grape_jelly": "[label]",
-            "quicksilver": "[grey_circle]",
-            "white": "[white_circle]"
-          },
-          "display_text": "[spool] TPU 90A",
-          "semantic_key": "filament.tpu_90",
-          "short_text": "[spool] TPU 90"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "red": "[red_circle]",
-            "white": "[white_circle]",
-            "yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] TPU 95A HF",
-          "semantic_key": "filament.tpu_95a_hf",
-          "short_text": "[spool] TPU 95A HF"
-        },
-        {
-          "color_text_map": {
-            "black": "[black_circle]",
-            "blue": "[blue_circle]",
-            "gray": "[grey_circle]",
-            "neon_green": "[green_circle]",
-            "red": "[red_circle]",
-            "white": "[white_circle]",
-            "yellow": "[yellow_circle]"
-          },
-          "display_text": "[spool] TPU for AMS",
-          "semantic_key": "filament.tpu_for_ams",
-          "short_text": "[spool] TPU for AMS"
-        },
-        {
-          "display_text": "[toolbox][label]",
-          "semantic_key": "inventory.supplies.square_36",
-          "short_text": "[toolbox]"
-        },
-        {
-          "display_text": "[plate][label]",
-          "semantic_key": "printer.build_plate.reference",
-          "short_text": "[plate]"
-        },
-        {
-          "display_text": "[box][label]",
-          "semantic_key": "storage.box.square_22",
-          "short_text": "[box]"
-        },
-        {
-          "display_text": "[container][label]",
-          "semantic_key": "storage.container.capacity_12",
-          "short_text": "[container]"
-        }
-      ],
-      "language": "emoji",
-      "last_reviewed_at": "2026-05-26",
-      "maintainers": [
-        "bambu-filament-color-labels-maintainers"
-      ],
-      "presentation_pack": "emoji_pack",
-      "source": "curated",
-      "version": "1.0.0"
+     "color_text_map": {
+      "azure": "[blue_circle]",
+      "bambu_green": "[green_circle]",
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "navy_blue": "[blue_circle]",
+      "olive": "[green_circle]",
+      "orange": "[orange_circle]",
+      "red": "[red_circle]",
+      "silver": "[grey_circle]",
+      "tangerine_yellow": "[yellow_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] ABS",
+     "semantic_key": "filament.abs",
+     "short_text": "[spool] ABS"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "orange": "[orange_circle]",
+      "red": "[red_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] ABS-GF",
+     "semantic_key": "filament.abs_gf",
+     "short_text": "[spool] ABS-GF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "green": "[green_circle]",
+      "red": "[red_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] ASA",
+     "semantic_key": "filament.asa",
+     "short_text": "[spool] ASA"
+    },
+    {
+     "color_text_map": {
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] ASA Aero",
+     "semantic_key": "filament.asa_aero",
+     "short_text": "[spool] ASA Aero"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] ASA-CF",
+     "semantic_key": "filament.asa_cf",
+     "short_text": "[spool] ASA-CF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] PA6-CF",
+     "semantic_key": "filament.pa6_cf",
+     "short_text": "[spool] PA6-CF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "orange": "[orange_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] PA6-GF",
+     "semantic_key": "filament.pa6_gf",
+     "short_text": "[spool] PA6-GF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] PAHT-CF",
+     "semantic_key": "filament.paht_cf",
+     "short_text": "[spool] PAHT-CF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "clear_black": "[black_circle]",
+      "transparent": "[white_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] PC",
+     "semantic_key": "filament.pc",
+     "short_text": "[spool] PC"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "gray": "[grey_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] PC FR",
+     "semantic_key": "filament.pc_fr",
+     "short_text": "[spool] PC FR"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] PET-CF",
+     "semantic_key": "filament.pet_cf",
+     "short_text": "[spool] PET-CF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "dark_beige": "[brown_circle]",
+      "dark_brown": "[brown_circle]",
+      "gray": "[grey_circle]",
+      "green": "[green_circle]",
+      "misty_blue": "[blue_circle]",
+      "navy_blue": "[blue_circle]",
+      "orange": "[orange_circle]",
+      "pine_green": "[green_circle]",
+      "red": "[red_circle]",
+      "reflex_blue": "[blue_circle]",
+      "white": "[white_circle]",
+      "yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] PETG Basic",
+     "semantic_key": "filament.petg_basic",
+     "short_text": "[spool] PETG Basic"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "cream": "[yellow_circle]",
+      "dark_gray": "[grey_circle]",
+      "forest_green": "[green_circle]",
+      "gray": "[grey_circle]",
+      "green": "[green_circle]",
+      "lake_blue": "[blue_circle]",
+      "lime_green": "[green_circle]",
+      "orange": "[orange_circle]",
+      "peanut_brown": "[brown_circle]",
+      "red": "[red_circle]",
+      "white": "[white_circle]",
+      "yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] PETG HF",
+     "semantic_key": "filament.petg_hf",
+     "short_text": "[spool] PETG HF"
+    },
+    {
+     "color_text_map": {
+      "clear": "[white_circle]",
+      "translucent_brown": "[brown_circle]",
+      "translucent_gray": "[grey_circle]",
+      "translucent_light_blue": "[blue_circle]",
+      "translucent_olive": "[green_circle]",
+      "translucent_orange": "[orange_circle]",
+      "translucent_pink": "[purple_circle]",
+      "translucent_purple": "[purple_circle]",
+      "translucent_teal": "[label]"
+     },
+     "display_text": "[spool] PETG Translucent",
+     "semantic_key": "filament.petg_translucent",
+     "short_text": "[spool] PETG Translucent"
+    },
+    {
+     "color_text_map": {
+      "gray": "[grey_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] PLA Aero",
+     "semantic_key": "filament.pla_aero",
+     "short_text": "[spool] PLA Aero"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool][white_circle]",
+     "semantic_key": "filament.pla_basic",
+     "short_text": "[spool]"
+    },
+    {
+     "color_text_map": {
+      "arctic_whisper": "[label]",
+      "blueberry_bubblegum": "[blue_circle]",
+      "cotton_candy_cloud": "[label]",
+      "dusk_glare": "[label]",
+      "mint_lime": "[green_circle]",
+      "ocean_to_meadow": "[label]",
+      "pink_citrus": "[purple_circle]",
+      "solar_breeze": "[label]"
+     },
+     "display_text": "[spool] PLA Basic Gradient",
+     "semantic_key": "filament.pla_basic_gradient",
+     "short_text": "[spool] PLA Basic Gradient"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "burgundy_red": "[red_circle]",
+      "iris_purple": "[purple_circle]",
+      "jeans_blue": "[blue_circle]",
+      "lava_gray": "[grey_circle]",
+      "matcha_green": "[green_circle]",
+      "royal_blue": "[blue_circle]"
+     },
+     "display_text": "[spool] PLA-CF",
+     "semantic_key": "filament.pla_cf",
+     "short_text": "[spool] PLA-CF"
+    },
+    {
+     "color_text_map": {
+      "brown": "[brown_circle]",
+      "green": "[green_circle]",
+      "nebulae": "[label]",
+      "purple": "[purple_circle]"
+     },
+     "display_text": "[spool] PLA Galaxy",
+     "semantic_key": "filament.pla_galaxy",
+     "short_text": "[spool] PLA Galaxy"
+    },
+    {
+     "color_text_map": {
+      "glow_blue": "[blue_circle]",
+      "glow_green": "[green_circle]",
+      "glow_orange": "[orange_circle]",
+      "glow_pink": "[purple_circle]",
+      "glow_yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] PLA Glow",
+     "semantic_key": "filament.pla_glow",
+     "short_text": "[spool] PLA Glow"
+    },
+    {
+     "color_text_map": {
+      "red_granite": "[red_circle]",
+      "white_marble": "[white_circle]"
+     },
+     "display_text": "[spool] PLA Marble",
+     "semantic_key": "filament.pla_marble",
+     "short_text": "[spool] PLA Marble"
+    },
+    {
+     "color_text_map": {
+      "matte_apple_green": "[green_circle]",
+      "matte_ash_gray": "[grey_circle]",
+      "matte_bone_white": "[white_circle]",
+      "matte_caramel": "[label]",
+      "matte_charcoal": "[black_circle]",
+      "matte_dark_blue": "[blue_circle]",
+      "matte_dark_brown": "[brown_circle]",
+      "matte_dark_chocolate": "[label]",
+      "matte_dark_green": "[green_circle]",
+      "matte_dark_red": "[red_circle]",
+      "matte_desert_tan": "[label]",
+      "matte_grass_green": "[green_circle]",
+      "matte_ice_blue": "[blue_circle]",
+      "matte_ivory_white": "[white_circle]",
+      "matte_latte_brown": "[brown_circle]",
+      "matte_lemon_yellow": "[yellow_circle]",
+      "matte_lilac_purple": "[purple_circle]",
+      "matte_mandarin_orange": "[orange_circle]",
+      "matte_marine_blue": "[blue_circle]",
+      "matte_nardo_gray": "[grey_circle]",
+      "matte_plum": "[label]",
+      "matte_sakura_pink": "[purple_circle]",
+      "matte_scarlet_red": "[red_circle]",
+      "matte_sky_blue": "[blue_circle]",
+      "matte_terracotta": "[label]"
+     },
+     "display_text": "[spool] PLA Matte",
+     "semantic_key": "filament.pla_matte",
+     "short_text": "[spool] PLA Matte"
+    },
+    {
+     "color_text_map": {
+      "cobalt_blue_metallic": "[blue_circle]",
+      "copper_brown_metallic": "[orange_circle]",
+      "iridium_gold_metallic": "[yellow_circle]",
+      "iron_gray_metallic": "[grey_circle]",
+      "oxide_green_metallic": "[green_circle]"
+     },
+     "display_text": "[spool] PLA Metal",
+     "semantic_key": "filament.pla_metal",
+     "short_text": "[spool] PLA Metal"
+    },
+    {
+     "color_text_map": {
+      "baby_blue": "[blue_circle]",
+      "blue": "[blue_circle]",
+      "candy_green": "[green_circle]",
+      "candy_red": "[red_circle]",
+      "champagne": "[yellow_circle]",
+      "gold": "[yellow_circle]",
+      "mint": "[green_circle]",
+      "pink": "[purple_circle]",
+      "purple": "[purple_circle]",
+      "rose_gold": "[red_circle]",
+      "silver": "[grey_circle]",
+      "titan_gray": "[grey_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] PLA Silk+",
+     "semantic_key": "filament.pla_silk_plus",
+     "short_text": "[spool] PLA Silk+"
+    },
+    {
+     "color_text_map": {
+      "aurora_purple": "[purple_circle]",
+      "blue_hawaii": "[blue_circle]",
+      "dawn_radiance": "[label]",
+      "gilded_rose": "[red_circle]",
+      "midnight_blaze": "[label]",
+      "mystic_magenta": "[purple_circle]",
+      "neon_city": "[label]",
+      "phantom_blue": "[blue_circle]",
+      "south_beach": "[label]",
+      "velvet_eclipse": "[label]"
+     },
+     "display_text": "[spool] PLA Silk Multi-Color",
+     "semantic_key": "filament.pla_silk_multi_color",
+     "short_text": "[spool] PLA Silk Multi-Color"
+    },
+    {
+     "color_text_map": {
+      "alpine_green_sparkle": "[green_circle]",
+      "classic_gold_sparkle": "[yellow_circle]",
+      "crimson_red_sparkle": "[red_circle]",
+      "onyx_black_sparkle": "[black_circle]",
+      "royal_purple_sparkle": "[purple_circle]",
+      "slate_gray_sparkle": "[grey_circle]"
+     },
+     "display_text": "[spool] PLA Sparkle",
+     "semantic_key": "filament.pla_sparkle",
+     "short_text": "[spool] PLA Sparkle"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "cyan": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "orange": "[orange_circle]",
+      "silver": "[grey_circle]",
+      "white": "[white_circle]",
+      "yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] PLA Tough+",
+     "semantic_key": "filament.pla_tough_plus",
+     "short_text": "[spool] PLA Tough+"
+    },
+    {
+     "color_text_map": {
+      "blue": "[blue_circle]",
+      "cherry_pink": "[purple_circle]",
+      "ice_blue": "[blue_circle]",
+      "lavender": "[purple_circle]",
+      "light_jade": "[green_circle]",
+      "mellow_yellow": "[yellow_circle]",
+      "orange": "[orange_circle]",
+      "purple": "[purple_circle]",
+      "red": "[red_circle]",
+      "teal": "[label]"
+     },
+     "display_text": "[spool] PLA Translucent",
+     "semantic_key": "filament.pla_translucent",
+     "short_text": "[spool] PLA Translucent"
+    },
+    {
+     "color_text_map": {
+      "black_walnut": "[black_circle]",
+      "classic_birch": "[label]",
+      "clay_brown": "[brown_circle]",
+      "ochre_yellow": "[yellow_circle]",
+      "rosewood": "[red_circle]",
+      "white_oak": "[white_circle]"
+     },
+     "display_text": "[spool] PLA Wood",
+     "semantic_key": "filament.pla_wood",
+     "short_text": "[spool] PLA Wood"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] PPA-CF",
+     "semantic_key": "filament.ppa_cf",
+     "short_text": "[spool] PPA-CF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]"
+     },
+     "display_text": "[spool] PPS-CF",
+     "semantic_key": "filament.pps_cf",
+     "short_text": "[spool] PPS-CF"
+    },
+    {
+     "color_text_map": {
+      "clear": "[white_circle]"
+     },
+     "display_text": "[spool] PVA",
+     "semantic_key": "filament.pva",
+     "short_text": "[spool] PVA"
+    },
+    {
+     "color_text_map": {
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] Support for ABS",
+     "semantic_key": "filament.support_for_abs",
+     "short_text": "[spool] Support for ABS"
+    },
+    {
+     "color_text_map": {
+      "green": "[green_circle]"
+     },
+     "display_text": "[spool] Support for PAV PET",
+     "semantic_key": "filament.support_for_pav_pet",
+     "short_text": "[spool] Support for PAV PET"
+    },
+    {
+     "color_text_map": {
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] Support for PLA (New Version)",
+     "semantic_key": "filament.support_for_pla_new",
+     "short_text": "[spool] Support for PLA (New Version)"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "nature": "[label]"
+     },
+     "display_text": "[spool] Support for PLA/PETG",
+     "semantic_key": "filament.support_for_pla_petg",
+     "short_text": "[spool] Support for PLA/PETG"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "cyan": "[blue_circle]",
+      "flesh": "[label]",
+      "green": "[green_circle]",
+      "orange": "[orange_circle]"
+     },
+     "display_text": "[spool] TPU 85A",
+     "semantic_key": "filament.tpu_85",
+     "short_text": "[spool] TPU 85"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blaze": "[label]",
+      "cocoa_brown": "[brown_circle]",
+      "cystal_blue": "[blue_circle]",
+      "frozen": "[label]",
+      "grape_jelly": "[label]",
+      "quicksilver": "[grey_circle]",
+      "white": "[white_circle]"
+     },
+     "display_text": "[spool] TPU 90A",
+     "semantic_key": "filament.tpu_90",
+     "short_text": "[spool] TPU 90"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "red": "[red_circle]",
+      "white": "[white_circle]",
+      "yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] TPU 95A HF",
+     "semantic_key": "filament.tpu_95a_hf",
+     "short_text": "[spool] TPU 95A HF"
+    },
+    {
+     "color_text_map": {
+      "black": "[black_circle]",
+      "blue": "[blue_circle]",
+      "gray": "[grey_circle]",
+      "neon_green": "[green_circle]",
+      "red": "[red_circle]",
+      "white": "[white_circle]",
+      "yellow": "[yellow_circle]"
+     },
+     "display_text": "[spool] TPU for AMS",
+     "semantic_key": "filament.tpu_for_ams",
+     "short_text": "[spool] TPU for AMS"
+    },
+    {
+     "display_text": "[toolbox][label]",
+     "semantic_key": "inventory.supplies.square_36",
+     "short_text": "[toolbox]"
+    },
+    {
+     "display_text": "[plate][label]",
+     "semantic_key": "printer.build_plate.reference",
+     "short_text": "[plate]"
+    },
+    {
+     "display_text": "[box][label]",
+     "semantic_key": "storage.box.square_22",
+     "short_text": "[box]"
+    },
+    {
+     "display_text": "[container][label]",
+     "semantic_key": "storage.container.capacity_12",
+     "short_text": "[container]"
     }
-  ],
-  "schema": "smithmaker.presentation_packs.v1"
+   ],
+   "language": "emoji",
+   "last_reviewed_at": "2026-05-26",
+   "maintainers": [
+    "bambu-filament-color-labels-maintainers"
+   ],
+   "presentation_pack": "emoji_pack",
+   "source": "curated",
+   "version": "1.0.0"
+  }
+ ],
+ "schema": "smithmaker.presentation_packs.v1"
 }

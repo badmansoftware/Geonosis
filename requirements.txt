@@ -1,0 +1,14 @@
+# Smith Maker — Python dependencies
+#
+# The core language-builder tools (tools/language-builder/gen_languages.py,
+# localize_label.py, tools/set_font.py) are PURE STDLIB — nothing to install
+# to build, localize, or re-font a language set.
+#
+# A third-party package is only needed for the PDF / print-sheet RENDERING
+# tools (geonosis_validate.py pdf, regen_pdfs.py, build_type_sheets.py,
+# custom_sheet.py, build_language_dist.py):
+cairosvg>=2.5
+
+# Optional, not a pip package: PDF export with text outlined to vector paths
+# uses the Inkscape CLI (https://inkscape.org) when available. Without it,
+# cairosvg handles rendering.

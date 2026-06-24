@@ -73,6 +73,32 @@ and how to build one
 
 ---
 
+## GETTING STARTED (POKING AROUND)
+
+Want to run the tools or build a language set?
+
+```
+git clone https://github.com/badmansoftware/Geonosis.git
+cd Geonosis
+```
+
+- **Building / editing language sets** needs nothing but Python 3 — the
+  language builder is pure standard library:
+  ```
+  python3 tools/language-builder/gen_languages.py --langs <code> --dry-run
+  python3 tools/set_font.py --font "Liberation Sans, Arial, sans-serif" <path>
+  ```
+- **Rendering PDFs / print sheets** is the only part that needs a dependency:
+  ```
+  pip install -r requirements.txt    # installs cairosvg
+  ```
+  (PDF export with outlined text optionally uses the Inkscape CLI if installed.)
+
+New here and want to contribute? Start with
+[`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+---
+
 ## BUILDING A LANGUAGE SET
 
 A language set maps filament color names and material

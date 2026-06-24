@@ -46,11 +46,16 @@ See `/docs/language-spec.md` for the full format, and
 2. **Fill in the mappings.** Provide your terms for the color and material
    keys. Leave a documented gap rather than guessing — an honest gap is more
    useful than a wrong translation.
-3. **Build it** with the language-builder utilities and confirm it generates
-   without errors against the full Bambu line.
-4. **Note your gaps** in the pack so users know what's translated and what
+3. **Register your language code.** Add it to `LANGS` and `LANG_LABELS` in
+   `tools/language-builder/gen_languages.py` (one line each), mapping the code
+   to your pack name and a human-readable label.
+4. **Build it** with the language-builder utilities and confirm it generates
+   without errors against the full Bambu line:
+   `python3 tools/language-builder/gen_languages.py --langs <code> --dry-run`
+   (no third-party dependencies — pure standard library).
+5. **Note your gaps** in the pack so users know what's translated and what
    still falls back to English.
-5. **Open a pull request** with the new pack and a one-line description of the
+6. **Open a pull request** with the new pack and a one-line description of the
    set (language, scope, and any known gaps).
 
 Translation-improvement PRs follow the same path: change the pack, note what

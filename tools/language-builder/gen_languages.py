@@ -24,7 +24,7 @@ Outputs:
   (also prints an instrument-panel summary)
 
 Usage:
-  python3 tools/language-builder/gen_languages.py [--langs en,qya,...] [--dry-run]
+  python3 tools/language-builder/gen_languages.py [--langs en,gya,...] [--dry-run]
 """
 from __future__ import annotations
 
@@ -46,14 +46,14 @@ import geonosis_validate as gv             # noqa: E402
 # lang_code -> presentation_pack
 LANGS = {
     # English is NOT generated here — it lives in master/ (the base).
-    "emoji": "emoji_pack", "qya": "elvish_pack",
+    "emoji": "emoji_pack", "gya": "elvish_pack",
     "ar": "ar_standard", "de": "de_standard", "es": "es_standard",
     "fr": "fr_standard", "it": "it_standard", "ja": "ja_standard",
     "ko": "ko_standard", "nl": "nl_standard", "pl": "pl_standard",
     "pt": "pt_standard", "ru": "ru_standard", "zh": "zh_standard",
 }
 LANG_LABELS = {
-    "emoji": "Emoji", "qya": "Elvish (Gray Dialect)",
+    "emoji": "Emoji", "gya": "Elvish (Gray Dialect)",
     "ar": "Arabic", "de": "German", "es": "Spanish", "fr": "French",
     "it": "Italian", "ja": "Japanese", "ko": "Korean", "nl": "Dutch",
     "pl": "Polish", "pt": "Portuguese", "ru": "Russian", "zh": "Chinese (Simplified)",

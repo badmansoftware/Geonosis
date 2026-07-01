@@ -129,6 +129,6 @@ if __name__ == "__main__":
     a = build_default_adapter()
     print("packs:", a.pack_names())
     print("en  pla_basic        :", a.resolve_text(semantic_key="filament.pla_basic"))
-    print("qya pla_basic        :", a.resolve_text(semantic_key="filament.pla_basic", presentation_pack="elvish_pack"))
+    print("gya pla_basic        :", a.resolve_text(semantic_key="filament.pla_basic", presentation_pack="elvish_pack"))
     print("en  pla_basic/jade   :", a.resolve_color_text(semantic_key="filament.pla_basic", color_key="jade_white"))
-    print("qya pla_basic/jade   :", a.resolve_color_text(semantic_key="filament.pla_basic", color_key="jade_white", presentation_pack="elvish_pack"))
+    print("gya pla_basic/jade   :", a.resolve_color_text(semantic_key="filament.pla_basic", color_key="jade_white", presentation_pack="elvish_pack"))

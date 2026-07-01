@@ -6,7 +6,7 @@ labels: ["translation", "gap"]
 ---
 
 ## Language
-<!-- Which set? e.g. French (fr), Gray Elvish (qya), Emoji. -->
+<!-- Which set? e.g. French (fr), Gray Elvish (gya), Emoji. -->
 
 ## What's wrong?
 - [ ] A term falls back to English (missing translation)

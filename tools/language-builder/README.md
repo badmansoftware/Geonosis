@@ -20,7 +20,7 @@ as data), and the raw `spool_master_flattened_v1.json` provenance export.
 
 ## Locales (15 packs)
 `english_standard` (en, baseline) · `emoji_pack` (emoji) ·
-`elvish_pack` (qya, **Gray Elvish**) · 12 machine-translated `*_standard`:
+`elvish_pack` (gya, **Gray Elvish**) · 12 machine-translated `*_standard`:
 ar de es fr it ja ko nl pl pt ru zh.
 
 ## Doctrine (matches the Geonosis guardrails)
@@ -43,7 +43,7 @@ python3 tools/language-builder/locale_adapter.py
 # localize one label or a tree
 python3 tools/language-builder/localize_label.py \
     master/spool/print_true/labels --pack elvish_pack \
-    -o master/languages/qya/spool/print_true/labels --report /tmp/qya.json
+    -o master/languages/gya/spool/print_true/labels --report /tmp/gya.json
 ```
 Output must still pass `tools/geonosis_validate.py gate` (Phase 3 runs it on
 every generated file).

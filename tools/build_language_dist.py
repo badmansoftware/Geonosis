@@ -33,7 +33,7 @@ TOOLS = REPO / "tools"
 sys.path.insert(0, str(TOOLS))
 import geonosis_validate as gv  # noqa: E402
 
-ALL_LANGS = ["en", "emoji", "qya", "ar", "de", "es", "fr", "it", "ja", "ko",
+ALL_LANGS = ["en", "emoji", "gya", "ar", "de", "es", "fr", "it", "ja", "ko",
              "nl", "pl", "pt", "ru", "zh"]
 FAMILIES = ["spool", "box"]
 PAPER_EXPECT = {"letter": (279.4, 215.9), "bambu": (300.0, 285.0)}

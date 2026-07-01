@@ -15,7 +15,7 @@ output stays clean / zero-trace.
 Usage:
   # whole label set
   python3 tools/set_font.py --font "Liberation Sans, Arial, sans-serif" \
-      master/languages/qya/spool/print_true/labels
+      master/languages/gya/spool/print_true/labels
   # add non-Latin fallbacks for a CJK/Arabic tweak
   python3 tools/set_font.py --font "Liberation Sans, 'Noto Sans CJK SC', sans-serif" DIR
   python3 tools/set_font.py --font "Arial, sans-serif" a.svg b.svg   # specific files

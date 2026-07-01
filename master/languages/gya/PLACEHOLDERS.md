@@ -1,4 +1,4 @@
-# Placeholder terms — Elvish (Gray Dialect) (`qya` / pack `elvish_pack`)
+# Placeholder terms — Elvish (Gray Dialect) (`gya` / pack `elvish_pack`)
 
 These terms are **present in `elvish_pack.json`** (so the labels render in-dialect
 rather than silently falling back to English), but they are **constructed

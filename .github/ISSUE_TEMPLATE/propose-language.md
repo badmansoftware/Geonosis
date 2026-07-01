@@ -9,7 +9,7 @@ labels: ["language", "proposal"]
 <!-- Real language, constructed language, emoji/symbols, secret code? Name it. -->
 
 ## Language code
-<!-- The short code you'd use, e.g. `la` (Latin), `tlh` (Klingon), `qya` is taken (Gray Elvish). -->
+<!-- The short code you'd use, e.g. `la` (Latin), `tlh` (Klingon), `gya` is taken (Gray Elvish). -->
 
 ## Scope
 <!-- Full Bambu filament line? Just colors? Just material types? Be honest about how far you intend to take it. -->

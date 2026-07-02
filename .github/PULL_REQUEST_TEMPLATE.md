@@ -1,5 +1,4 @@
-<!-- Thanks for contributing to Smith Maker. Keep PRs focused: one language set
-     OR one fix OR one tooling change — not all three at once. -->
+<!-- Thanks for contributing to Smith Maker. Keep PRs focused and reviewable. -->
 
 ## What this PR does
 <!-- One line: the set/fix/change and its scope. -->
@@ -9,12 +8,10 @@
 - [ ] Translation fix / gap fill
 - [ ] Tooling / docs
 
-## Ground rules (check all that apply)
-- [ ] **One set per PR** where practical.
-- [ ] **Didn't scale artwork.** Physical label size is preserved — no label was resized to "make it fit."
-- [ ] **Gaps are documented** (in the pack and/or the language's `GAPS.md`) — honest gap over wrong guess.
-- [ ] **It builds.** A new/changed pack generates cleanly against the full Bambu line (`tools/language-builder/gen_languages.py --langs <code> --dry-run`).
-- [ ] **No private-pipeline dependencies** — stays inside the public boundary (see `docs/contributing.md`).
+## Submission checklist
+- [ ] Ran `python3 tools/language-builder/gen_languages.py --langs <code> --dry-run` for any touched language pack.
+- [ ] No silent English fallbacks were introduced; any remaining gaps are recorded in `GAPS.md`.
+- [ ] I reviewed `LICENSING.md` and accept the license terms for the asset type touched in this PR.
 
 ## Notes / known gaps
 <!-- Anything reviewers should know. -->

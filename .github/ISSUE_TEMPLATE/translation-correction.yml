@@ -1,0 +1,48 @@
+name: Translation correction
+description: Correct Gray Elvish or other language-set translations
+title: "[Translation] <language/code> — <label key>"
+labels: ["translation", "gap"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Translation fixes are welcome.
+        If the term is still unknown, record the gap instead of guessing.
+  - type: input
+    id: language_set
+    attributes:
+      label: Language set
+      description: Gray Elvish (`qya`) or another set.
+      placeholder: "Example: Gray Elvish (qya)"
+    validations:
+      required: true
+  - type: input
+    id: label_key
+    attributes:
+      label: Label key
+      description: Stable key for the affected entry.
+      placeholder: "Example: filament.petg / black"
+    validations:
+      required: true
+  - type: textarea
+    id: current_text
+    attributes:
+      label: Current text
+      description: Current translation or English fallback text in the set.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_text
+    attributes:
+      label: Proposed text
+      description: Your suggested corrected translation.
+    validations:
+      required: true
+  - type: textarea
+    id: source_justification
+    attributes:
+      label: Source / justification
+      description: Reference, linguistic rationale, or native-speaker context.
+      placeholder: "Dictionary, corpus reference, style rationale, speaker notes, etc."
+    validations:
+      required: true

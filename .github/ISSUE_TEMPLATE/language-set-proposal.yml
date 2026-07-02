@@ -1,0 +1,53 @@
+name: Language set proposal
+description: Propose a new language set or volunteer to build one
+title: "[Language Set] <language name> (<code>)"
+labels: ["language", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping expand Smith Maker language coverage.
+        Honest scope and honest gaps keep the system useful.
+  - type: input
+    id: language_name
+    attributes:
+      label: Language name
+      description: Name of the language, conlang, symbol set, or code set.
+      placeholder: "Example: Sindarin"
+    validations:
+      required: true
+  - type: input
+    id: language_code
+    attributes:
+      label: Language code
+      description: Short code you plan to use in `gen_languages.py`.
+      placeholder: "Example: sjn"
+    validations:
+      required: true
+  - type: textarea
+    id: familiarity
+    attributes:
+      label: Familiarity with this language
+      description: Describe your fluency or experience and any collaborators.
+      placeholder: "Native speaker, learner, reference materials used, etc."
+    validations:
+      required: true
+  - type: dropdown
+    id: contribution_mode
+    attributes:
+      label: Proposal or build volunteer
+      description: Tell us whether you are volunteering to build it.
+      options:
+        - I am volunteering to build this set and open a PR
+        - I am proposing this set for someone else to build
+    validations:
+      required: true
+  - type: checkboxes
+    id: docs_ack
+    attributes:
+      label: Documentation check
+      options:
+        - label: I have read `docs/contributing.md`.
+          required: true
+        - label: I have read `docs/language-spec.md`.
+          required: true

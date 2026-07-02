@@ -1,8 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: Discussions — explore & brainstorm languages
+  - name: Discussions — want to help
     url: https://github.com/badmansoftware/Geonosis/discussions
-    about: Ideas, questions, and language brainstorming that aren't yet a specific request or bug.
-  - name: How submissions work
-    url: https://github.com/badmansoftware/Geonosis/blob/main/docs/contributing.md
-    about: Read this before opening a language or translation PR.
+    about: Use Discussions for general "want to help" conversation, brainstorming, and early ideas.

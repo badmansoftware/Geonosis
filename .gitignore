@@ -231,3 +231,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS / IDE junk (hygiene audit 2026-08-16)
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
+*.iml
+out/
+.idea_modules/
+.vscode/
